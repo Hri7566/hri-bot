@@ -2660,3 +2660,164 @@ Hri7566: ^crown
 [4095db71ba743d3e3da00f4a] KARMA☩male☩: Sorry for asking. I was curious.
 [c629dec0b652f86a8c31a160] Taylor~Chan: It's chill
 [4095db71ba743d3e3da00f4a] KARMA☩male☩: I am getting sleepy from these movements. This is more satisfying than ASMR.
+[170c83a5e8f1bdafc11a936f] Hri7566: I could bitch at him to get online if you want
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: I stayed up until 2 talking to him one time
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: No, I don't need to bother him.
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: we**
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: I guess
+[170c83a5e8f1bdafc11a936f] Hri7566: Yeah, we should leave him to weed and xbox
+[170c83a5e8f1bdafc11a936f] Hri7566: You won't believe what was in the other script
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: Lol
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: I do wonder if he still has that script he gave me a while back.
+[170c83a5e8f1bdafc11a936f] Hri7566: As far as I know, he doesn't have anything
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: Oooof
+[170c83a5e8f1bdafc11a936f] Hri7566: He had a computer accident
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: That's not good
+[170c83a5e8f1bdafc11a936f] Hri7566: If you may or may not have heard
+[c629dec0b652f86a8c31a160] ⦁Hooded Figure⦁13⦁Female⦁Neko⦁: I didn't know
+[170c83a5e8f1bdafc11a936f] Hri7566: He's been offline since June\
+[170c83a5e8f1bdafc11a936f] Hri7566: or so
+[170c83a5e8f1bdafc11a936f] Hri7566: \n
+[170c83a5e8f1bdafc11a936f] Hri7566: I had the remains of his script that was on Heroku, but he ran out of money and I couldn't save it
+[c629dec0b652f86a8c31a160] Taylor~Chan: RIP
+[c629dec0b652f86a8c31a160] Taylor~Chan: I found looking at JS fun
+[c629dec0b652f86a8c31a160] Taylor~Chan: But when I started to actually build my bot
+[c629dec0b652f86a8c31a160] Taylor~Chan: It got more fun
+[c629dec0b652f86a8c31a160] Taylor~Chan: Annoying at first because I didn't know what the fuck I was doing, but now it's easier because I kinda know what I'm doing
+[170c83a5e8f1bdafc11a936f] Hri7566: That's how I learned JS
+[170c83a5e8f1bdafc11a936f] Hri7566: When I needed help, I would just google it
+[c629dec0b652f86a8c31a160] Taylor~Chan: Lol
+[c629dec0b652f86a8c31a160] Taylor~Chan: Yep
+[c629dec0b652f86a8c31a160] Taylor~Chan: Pastebin
+[170c83a5e8f1bdafc11a936f] Hri7566: And most of the time, people would have answers
+[c629dec0b652f86a8c31a160] Taylor~Chan: I'm still inspect the client.sendArray([{m: "chset", set: {color: #000000, color2: #ffffff}}]);
+[170c83a5e8f1bdafc11a936f] Hri7566: Oh, you can't use it?
+[c629dec0b652f86a8c31a160] Taylor~Chan: Nope
+[c629dec0b652f86a8c31a160] Taylor~Chan: Still can't
+[170c83a5e8f1bdafc11a936f] Hri7566: Oh, put "MPP." on front
+[c629dec0b652f86a8c31a160] Taylor~Chan: I tried
+[c629dec0b652f86a8c31a160] Taylor~Chan: MPP.client.sendArray([{m: "chset", set: {color: #000000, color2: #ffffff}}]);
+[170c83a5e8f1bdafc11a936f] Hri7566: Oh,
+[c629dec0b652f86a8c31a160] Taylor~Chan: Uncaught SyntaxError: Invalid or unexpected token
+[170c83a5e8f1bdafc11a936f] Hri7566: use quotes around the hex
+[170c83a5e8f1bdafc11a936f] Hri7566: It might be expecting a string
+[c629dec0b652f86a8c31a160] Taylor~Chan: Whoa
+[c629dec0b652f86a8c31a160] Taylor~Chan: It didn't work before
+[afd9ff9cea0d3af57e0cc313] Wolfy: Ah
+[c629dec0b652f86a8c31a160] Taylor~Chan: That definitely isn't trippy as fuck
+[afd9ff9cea0d3af57e0cc313] Wolfy: Color and color2
+[170c83a5e8f1bdafc11a936f] Hri7566: Oh, hi wolfy
+[170c83a5e8f1bdafc11a936f] Hri7566: It's been a long time
+[afd9ff9cea0d3af57e0cc313] Wolfy: Sup
+[afd9ff9cea0d3af57e0cc313] Wolfy: better
+[c629dec0b652f86a8c31a160] Taylor~Chan: That better?
+[c629dec0b652f86a8c31a160] Taylor~Chan: Okay
+[afd9ff9cea0d3af57e0cc313] Wolfy: Ah
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: oof
+[170c83a5e8f1bdafc11a936f] Hri7566: timeout
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: still
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[c629dec0b652f86a8c31a160] Taylor~Chan: Time to add this to one of my bots
+[170c83a5e8f1bdafc11a936f] Hri7566: dang
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: ...
+[afd9ff9cea0d3af57e0cc313] Wolfy: But i'm not that mean, lol
+[c629dec0b652f86a8c31a160] Taylor~Chan: Welp
+[c629dec0b652f86a8c31a160] Taylor~Chan: Time to fuse my NameBot and Fun Commands scripts into Senpai~Bot.
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: Why won't it display my github link
+[aa9a2741b0eadac24e35a669] Lol: Hi
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: ?
+[598ec2e0f2e44fee398c1253] Anonymous: 20g of sugar in this 150ml drink
+[c629dec0b652f86a8c31a160] Taylor~Chan: *Bgrb
+[c629dec0b652f86a8c31a160] Taylor~Chan: Dmmm
+[c629dec0b652f86a8c31a160] Taylor~Chan: *BGRB
+[aa9a2741b0eadac24e35a669] Lol: Wolf play
+[c629dec0b652f86a8c31a160] Taylor~Chan: Hmmmmmmmmmmm
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: I am so confused
+[c629dec0b652f86a8c31a160] Taylor~Chan: *bgrb
+[aa9a2741b0eadac24e35a669] Lol: Wolfy can you play?
+[c629dec0b652f86a8c31a160] Taylor~Chan: Got it into command form
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: I am so confused
+[afd9ff9cea0d3af57e0cc313] Wolfy: a
+[afd9ff9cea0d3af57e0cc313] Wolfy: a
+[afd9ff9cea0d3af57e0cc313] Wolfy: a
+[afd9ff9cea0d3af57e0cc313] Wolfy: a
+[afd9ff9cea0d3af57e0cc313] Wolfy: ye
+[afd9ff9cea0d3af57e0cc313] Wolfy: chat quota
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: sigh
+[afd9ff9cea0d3af57e0cc313] Wolfy: quota was changed
+[afd9ff9cea0d3af57e0cc313] Wolfy: when site restarted a few hours ago
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[0bd7fe6a9b8619ce57b6ed5d] Pixel: i hear quad chimneys
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[29587fe40f6bd85fc757cc2d] 7566 (^help): GitHub: https://github.com/Hri7566/hri-bot
+[170c83a5e8f1bdafc11a936f] Hri7566: That's what I have to do
+[aa9a2741b0eadac24e35a669] Lol: Great wolfy
+[170c83a5e8f1bdafc11a936f] Hri7566: shit i should push
+[170c83a5e8f1bdafc11a936f] Hri7566: don't look at the  code yet
+[c629dec0b652f86a8c31a160] Taylor~Chan: My laptop died
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[170c83a5e8f1bdafc11a936f] Hri7566: t
+[170c83a5e8f1bdafc11a936f] Hri7566: waht
+[170c83a5e8f1bdafc11a936f] Hri7566: It's not there now
+[afd9ff9cea0d3af57e0cc313] Wolfy: chat quota
+[170c83a5e8f1bdafc11a936f] Hri7566: The last one is 6500
+[170c83a5e8f1bdafc11a936f] Hri7566: this should work
+[170c83a5e8f1bdafc11a936f] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It runs off of nodejs and some npm packages.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Discord: Hri7566#3409
+[29587fe40f6bd85fc757cc2d] 7566 (^help): GitHub: https://github.com/Hri7566/hri-bot
+[afd9ff9cea0d3af57e0cc313] Wolfy: Just make a thing to check for messages the bot sent
+[170c83a5e8f1bdafc11a936f] Hri7566: yesh

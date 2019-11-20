@@ -1,8 +1,7 @@
 /*
 7566
 by Hri7566
-Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and many others.
-This is a miscellaneous 
+Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.
 */
 const MPPClient = require("./client.js");
 const mysql = require('mysql');
@@ -156,10 +155,11 @@ client.on('a', msg => {
             chat("Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur (Warning: ^rur Russi)")
             break;
         case '^about':
-            chat("This chat bot was made by Hri7566.");
-            chat("Currently, there are no intentions for a music-playing script.");
-            chat("If you would like to see what it does, type '^help' into the chat field.");
-            chat("Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, and many others. RIP MarxBot, may you be remembered forever.");
+            setTimeout(() => {chat("This chat bot was made by Hri7566.")}, 0);
+            setTimeout(() => {chat("It runs off of nodejs and some npm packages.")}, 1500);
+            setTimeout(() => {chat("Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, lamp, Vincent, and users like you.")}, 3000);
+            setTimeout(() => {chat("Discord: Hri7566#3409")}, 4500);
+            setTimeout(() => {chat("GitHub: https://github.com/Hri7566/hri-bot")}, 6500);
             break;
         case '^name':
             if (!isKing) {
@@ -359,55 +359,7 @@ client.on('a', msg => {
                 chat("Ranks are divided into two sections: Kings and Peasents. " + msg.p.name + ", your rank is Peasents.");
             }
             break;
-        case '^mysql':
-            if (!isKing) {
-                chat("You don't have permission to use this command.")
-            } else {
-                if (!argcat) {
-                    chat("MySQL Commands: list / run")
-                } else {
-                    switch (argcat) {
-                        case 'list':
-                            con.query('SELECT * FROM userlist', (err,result) => {
-                                if(err) throw err;
-
-                                chat("Data:" + result);
-                            });
-                            break;
-                        case 'run':
-                            chat("User search enabled; all users will now be recorded in the database.");
-                            userSearch = true;
-                            break;
-                        case 'stop':
-                            chat("User search stopped; users will no longer be recorded.");
-                            userSearch = false;
-                            break;
-                    }
-            }
         }
-    }
-    }
-});
-
-
-
-con.connect((err) => {
-	if(err) {
-		console.log('MySQL database connection error');
-		chat("Problems occurred, MySQL terminating...");
-		return;
-	}
-	chat('Connection to MySQL database established');
-    if (userSearch == true) {
-        client.on("participant added", function (p) {
-            if (userSearch == true) {
-                let sqlsyn = "INSERT INTO userlist (username, _id) VALUES ('" + p.name + "', '"+p._id+"')";
-                con.query(sqlsyn, function (err, result) {
-                    if (err) throw err;
-                    console.log("1 record inserted");
-                });
-            }
-        });
     }
 });
 
