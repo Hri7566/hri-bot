@@ -1,0 +1,2662 @@
+The next thing I want to do after this is make the console an inputHri7566: OkayHri7566: YESHHri7566: maybeVincent: ^js client.setChannel("Neko RP2");7566 (^help): Console: undefinedδωδ: client.client.clientHri7566: Alright
+Hri7566: You don't need to client.setChannel
+Hri7566: You can just ^goto
+Vincent: ye i remember
+δωδ: ^goto my ass
+7566 (^help): Moving to room: "my ass"
+δωδ: ^say bitchacho
+7566 (^help): bitchacho
+Hri7566: Oh wow
+Vincent: HM
+Hri7566: It stays updated in my VS Code window
+δωδ: ^bg #BAD455 #74a227
+7566 (^help): The bot needs the crown for this feature to work properly.
+δωδ: dangit
+Hri7566: there you go
+δωδ: ^bg #bad455 #74a227
+Vincent: ^js press("b3",900);
+7566 (^help): ReferenceError: press is not defined.
+δωδ: the bad455 is the color of kerbal skin
+Vincent: ^js MPP.press("b3",900);
+7566 (^help): ReferenceError: MPP is not defined.
+Vincent: m
+δωδ: ^bg #bad455 #468012
+δωδ: fuvk
+Vincent: i DID NOT mean to do that
+Vincent: lmao
+δωδ: ^bg #bad455 #000000
+Vincent: i pressed the wrong thing
+δωδ: uhhh
+δωδ: bg is brokened
+Hri7566: how
+Hri7566: it's green on inside and black on outside, is it not?
+δωδ: uh
+δωδ: hang on lemme refresh
+δωδ: okie it was broken on my side :/
+Vincent: ^js new window.Notification("Hello", { icon: "http://dreamatico.com/data_images/kitten/kitten-2.jpg", body: "world" })
+7566 (^help): ReferenceError: window is not defined.
+Vincent: ^js new Notification("Hello", { icon: "http://dreamatico.com/data_images/kitten/kitten-2.jpg", body: "world" })
+7566 (^help): ReferenceError: Notification is not defined.
+Vincent: aw man
+Hri7566: creeper
+Vincent: ^js document.body.style.background = " url('https://www.dropbox.com/s/1tcf42b0f41ib40/Music.gif?raw=1') no-repeat right top";
+7566 (^help): ReferenceError: document is not defined.
+Vincent: ^bg document.body.style.background = " url('https://www.dropbox.com/s/1tcf42b0f41ib40/Music.gif?raw=1') no-repeat right top";
+Vincent: i wonder
+δωδ: wait the bg broke again
+δωδ: hang on
+Impossible girl, Emily | female | 18: ^cursor crazy
+7566 (^help): Cursor type changed to crazy
+δωδ: ^cursor swirl
+7566 (^help): Invalid cursor type
+δωδ: ^cursor spiral
+7566 (^help): Cursor type changed to spiral
+δωδ: lel
+Hri7566: oh i have to get rid of that
+Hri7566: or fix it
+δωδ: ok :/
+δωδ: ^cursor
+7566 (^help): Cursor modes: none / dvd / crazy
+Vincent: ^bg linear-gradient(red, yellow);
+Vincent: ^js document.body.style.background = linear-gradient(red, yellow);
+7566 (^help): ReferenceError: document is not defined.
+δωδ: ^bg #a22a22 #a22a22
+δωδ: ass ass
+Hri7566: you can only specify one color as well
+Hri7566: ^bg
+7566 (^help): Specify at least one color in hexadecimal.
+Vincent: bet
+Vincent: ^bg 55deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 85%
+Vincent: f
+Vincent: ^bg 55deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 85%
+Vincent: ^bg red, yellow
+Vincent: ^bg red yellow
+Hri7566: let color1 = args[1];                         client.sendArray([{m: "chset", set: {color: color1}}]);                         if (args[2] !== "") {                             let color2 = args[2];                             client.sendArray([{m: "chset", set: {color: color1, color2: color2}}]);                         }
+Hri7566: That's it
+Hri7566: That's the color stuff
+δωδ: huh
+Vincent: dag nabbit
+δωδ: o i beat mario galaxy 2 today
+δωδ: i killed bowser
+Hri7566: amazing
+Hri7566: Wait
+Hri7566: how much beat
+Hri7566: Like
+δωδ: o yea so
+Hri7566: world s or whatever it is
+Hri7566: or just 8
+δωδ: i only have 80 stars ;-;
+Hri7566: or 7
+Hri7566: how many worls
+Hri7566: worlds
+δωδ: 6
+δωδ: world s is the bonus boi
+δωδ: i don't even have all the regular stars yet
+Hri7566: oh dear
+Hri7566: It's been a really long time
+Hri7566: All I remember is playing for years and then finally unlocking luigi
+Vincent: x
+δωδ: lol
+δωδ: yea there's 240 stars including the green ones
+Hri7566: Tell you what, every star in smg2 is  worth it
+δωδ: yes
+δωδ: i like mario galaxy better than odyssey tbh :/
+Hri7566: Cosmic cove galaxy is one of my favorites
+Hri7566: yeah
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: i proboly wont be here
+Hri7566: Odyssey feels  a little cramped
+δωδ: yea
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: im proboly will be dead
+Hri7566: you said proboly  twice
+Vincent: poroborly
+δωδ: p r o b a b l y
+Vincent: h
+Hri7566: They must be the same type of person to mix up terrace and Terrence
+δωδ: lul
+Impossible girl, Emily | female | 18: if a second would be a millimeter in diameter then a minute would be 6 centimeters
+Hri7566: I'm p r o b  o  l y going to leave soon just so I can take a shower tomorrow
+Hri7566: it's almost 11:30
+δωδ: ok :/
+Vincent: ^js time
+7566 (^help): ReferenceError: time is not defined.
+Vincent: ^time
+Vincent: ^n
+Vincent: ^
+Vincent: ^^
+Hri7566: and  i need to watch the first two episodes  of rick and morty season 4
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: yeah
+Vincent: ^^^^^^^^^^^^^^^^^^^^^
+Vincent: ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^6
+δωδ: ive seen them lol
+Vincent: I
+Vincent: WILL
+Hri7566: ^js t
+7566 (^help): Console: 84
+δωδ: mick and rory
+឵Taylor~Chan: Whoa
+Vincent: ^js i
+7566 (^help): Console: i
+δωδ: wb taylor
+Hri7566: We're a bunch of hackers
+឵Taylor~Chan: Thx
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: does anybody have a carbon dioxide detector in there house
+Hri7566: I got a log to work
+Vincent: ^js var
+7566 (^help): SyntaxError: Unexpected end of input.
+឵Taylor~Chan: Whoa
+Impossible girl, Emily | female | 18: Probolyan change, the possibility of something happening as 1 in 30 per month.
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: yeah im verry scared
+Hri7566: I did have one but it died
+Vincent: ^js = break;
+7566 (^help): SyntaxError: Unexpected token =.
+Vincent: ^js break;
+7566 (^help): SyntaxError: Illegal break statement.
+឵Taylor~Chan: RiP
+δωδ: what is happening
+Impossible girl, Emily | female | 18: Probolyan, as proboly
+Hri7566: THAT'S ILLEGAL
+Hri7566: REEEE
+δωδ: ^js = break;
+7566 (^help): SyntaxError: Unexpected token =.
+Impossible girl, Emily | female | 18: Taylor turn on your bot
+Vincent: ill break it
+Vincent: i will
+δωδ: hah suck my = break;
+Impossible girl, Emily | female | 18: Vincent no
+឵Taylor~Chan: No
+Vincent: jk
+Impossible girl, Emily | female | 18: Why taylor
+Vincent: ^js console.log(
+7566 (^help): SyntaxError: Unexpected end of input.
+឵Taylor~Chan: Because I'm probably gonna be going to sleep soon
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: im so scared to die
+Vincent: ^js console.log("
+7566 (^help): SyntaxError: Invalid or unexpected token.
+Impossible girl, Emily | female | 18: then you can turn on your bot tomorrow
+឵Taylor~Chan: I only have 1 question.
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: IM SCARED OF THAT DETECTOR
+Hri7566: Gaster, if there was carbon monoxide, you won't remember a thing
+឵Taylor~Chan: How has this room not been taken over?
+δωδ: lmao
+Vincent: ^js getParticipantID();
+7566 (^help): ReferenceError: getParticipantID is not defined.
+Vincent: eh
+Vincent: caps wrong too
+Hri7566: We have excellent preservation skills
+δωδ: this place be smellin like carbon monoxide up in ere
+Hri7566: And nobody came here
+Impossible girl, Emily | female | 18: I actually bot-proofed the room with spam repellent.
+Vincent: no
+឵Taylor~Chan: No you didn't.
+Vincent: we just hack anyone who joins
+δωδ: i spam-proofed the room with egg repellent
+Vincent: that way we can shut them down if theyre malicious
+឵Taylor~Chan: Lol
+Hri7566: Or at least record everything in chat :)
+Impossible girl, Emily | female | 18: A mixture of mustard gas, hydrogen peroxide and chlorine is the perfect repellent for spam bots
+δωδ: ok 🅱️ ye 👍
+Vincent: sex
+δωδ: sexual sex
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: XD
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: XDDDDDDDDDDDDDD
+Vincent: ^say sex
+7566 (^help): sex
+Vincent: :O
+✨🎇🖤♠ GASTERSANS ♠🖤🎇✨: saxaphone
+δωδ: sexaphone
+Hri7566: sexophone
+δωδ: sextillion
+Hri7566: sex
+Vincent: wait
+Hri7566: xes
+Vincent: could i demote you
+δωδ: hot sweaty sex
+Hri7566: probably
+Vincent: lmao
+Hri7566: But not permanently
+Vincent: i wont
+δωδ: cumsex
+Vincent: ik
+Hri7566: sexcum
+δωδ: cexsum
+Hri7566: creampie sexcum
+Hri7566: Sexbob Cumpants
+Vincent: ^js chat("SEX".repeat(40));
+7566 (^help): SEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEX
+7566 (^help): Console: undefined
+Vincent: ^js chat("SEX".repeat(400));
+7566 (^help): Console: undefined
+Vincent: ^js chat("SEX".repeat(100));
+7566 (^help): SEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEXSEX
+7566 (^help): Console: undefined
+Vincent: ^js chat("SEX".repeat(200));
+7566 (^help): Console: undefined
+δωδ: ^js chat("sexy bby ".repeat(10));
+7566 (^help): sexy bby sexy bby sexy bby sexy bby sexy bby sexy bby sexy bby sexy bby sexy bby sexy bby
+7566 (^help): Console: undefined
+Vincent: ah
+Impossible girl, Emily | female | 18: C4H10Cl4O2S is the repellent molecule for spam bots.
+δωδ: sex with cum
+Hri7566: This is why I don't give out king ranks unless you're well respected within the rights of old scripture
+Impossible girl, Emily | female | 18: Also known as C4-polyander gas
+Vincent: would you consider me worthy
+Hri7566: Also known as cumsex gas
+Vincent: or am i obnoxious with it
+δωδ: gaseous sex
+Hri7566: You've been around long enough for me to trust you
+δωδ: sex, cum edition
+Vincent: THATS WHAT YOU THINK
+Impossible girl, Emily | female | 18: No, C4-polyander gas you fucking doonfyurnt
+Vincent: GET HACKED BOII
+Vincent: jk
+឵Taylor~Chan: Are you guys just gods or something?
+Vincent: yeah
+Hri7566: Vincent is
+Hri7566: I'm the opposite
+δωδ: doonfyurnt
+Hri7566: i'm a devil
+δωδ: im your slut
+Vincent: oh lawd
+឵Taylor~Chan: All I have is a couple shitty chatbots that I put together
+Impossible girl, Emily | female | 18: no your hri’s slut
+Hri7566: That's a good start
+δωδ: ^eat impossible girl
+7566 (^help): δωδ cannibalizes Impossible girl, Emily | female | 18. It was very greasy.
+Hri7566: That's where I started
+δωδ: hehe
+Vincent: now from there try to hack the pentagon
+Impossible girl, Emily | female | 18: *heals*
+Hri7566: I call myself a junkyard coder
+Vincent: if you can with ease then youre close to our level
+δωδ: then the octagon
+Hri7566: I would take other code and mash it with other stuff and see what happens
+឵Taylor~Chan: Along with a bot to add things to my name like [AFK]
+Impossible girl, Emily | female | 18: Fuck off, owo
+δωδ: fuck off?
+Hri7566: Then look it up on w3schools because i'm stupid
+឵Taylor~Chan: I just don't know how to SET my name.
+δωδ: gladly~
+Hri7566: ping
+7566 (^help): pooooong
+Vincent: lmao
+Impossible girl, Emily | female | 18: fuck off you pervert
+Hri7566: Hmm
+Hri7566: Oh
+Vincent: could you imagine a w3schools tutorial titled "Hacking the Pentagon with JavaScript"
+δωδ: stop feeding the troll, doonfyurnt
+឵Taylor~Chan: Lol
+Impossible girl, Emily | female | 18: no u
+Vincent: "So first youre gonna need to start off with a basic for loop --"
+Vincent: lmao
+Hri7566: client.sendArray([{ m:'userset', set:{name:"7566 (^help)"} }]);
+Hri7566: That is how I set my bot's name
+δωδ: cool
+Impossible girl, Emily | female | 18: GTG
+Impossible girl, Emily | female | 18: bed
+δωσ: οκ
+Hri7566: Let me get tampermonkey
+δωσ: it's been 1 week since you looked at me
+឵Taylor~Chan: I could probably put this on my commands.
+឵Taylor~Chan: Holy shit I accidentally searched it on google
+Hri7566: Oh crap
+឵Taylor~Chan: https://www.google.com/search?q=client.sendArray(%5B%7B+m%3A%27userset%27%2C+set%3A%7Bname%3A%227566+(%5Ehelp)%22%7D+%7D%5D)%3B&rlz=1CAPPDO_enUS870&oq=client.sendArray(%5B%7B+m%3A%27userset%27%2C+set%3A%7Bname%3A%227566+(%5Ehelp)%22%7D+%7D%5D)%3B&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
+឵Taylor~Chan: Look at this
+Hri7566: I just realized
+Hri7566: I'm not going to say it
+឵Taylor~Chan: WHat?
+Hri7566: Or else people will look at my stuff
+Hri7566: uhh
+឵Taylor~Chan: Okay
+Hri7566: Kings have access to a certain variable
+Hri7566: that has private info
+឵Taylor~Chan: Uh-oh
+Vincent: ^js client.Name("f");
+7566 (^help): TypeError: client.Name is not a function.
+Vincent: if only
+δωσ: o boi
+δωσ: secret variable uwu?
+Vincent: ^js MPP.client.sendArray([ { m: "userset", set: { name: "dumb" } }]) };
+7566 (^help): SyntaxError: Unexpected token }.
+឵Taylor~Chan: One sec gonna put this on a "few" commands real quick
+Vincent: ^js MPP.client.sendArray([ { m: "userset", set: { name: "dumb" } }]);
+7566 (^help): ReferenceError: MPP is not defined.
+Vincent: ^js client.sendArray([ { m: "userset", set: { name: "dumb" } }]);
+dumb: Console: undefined
+Hri7566: There you go
+Vincent: ah
+Hri7566: just client
+឵: This is my normal name.
+Vincent: ^js client.sendArray([ { m: "userset", set: { name: "7566 (^help)" } }]);
+7566 (^help): Console: undefined
+Vincent: y now just set a command to it
+Vincent: make it a function
+Hri7566: because it comes before everything else
+឵: I don't know what that is
+Hri7566: it's the 14th line in the code
+Hri7566: wait
+υωυ: it's tits
+Hri7566: can you define functions after they're called?
+υωυ: *help
+υωυ: :/
+Vincent: define how
+Hri7566: function adhflsaf() = { here }
+឵: Done
+Vincent: =?
+឵: I deleted more commands than I did edit
+υωυ: sometimes that happens :/
+υωυ: *help
+឵: I deleted 5
+Vincent: function setName(name) { client.sendArray([ { m: "userset", set: { name: name } }])};
+឵: They were to delete things from my name lol
+Vincent: that could be something you could do
+Vincent: idk
+឵: I don't understand that still
+Hri7566: How would I take input from the console and send it through chat but not add the line to the console
+Vincent: im confused with what ur saying
+឵: Hmmmm
+Vincent: ohhh
+Vincent: i have no clue
+឵: From top to bottom with javascript, I'd say Vincent's on top (According to Hri), Hri's in the middle, and I'm on the bottom.
+឵: UwU doesn't count in this list
+Vincent: hri is better than me in a lot of it
+Vincent: he knows a helluva lot more about node.js than i do
+Vincent: shhhshshshhh
+Vincent: jk
+Hri7566: ooooooooooo
+υωυ: i am shit at js lol
+឵: I had actually gotten a multicolored background code for MPP from /cmds once
+υωυ: damn
+υωυ: *help
+឵: I also lost that
+υωυ: ok
+υωυ: oof
+Vincent: multicolor background code is easy
+Vincent: to code anyway
+឵: Not for me~
+឵: *Name~
+឵: Nani?
+Vincent: for console
+឵: One sec
+Hri7566: You forgot a semicolon
+Hri7566: yep
+Hri7566: It works
+Vincent: damn
+Hri7566: Programming used to be really heartbreaking
+Hri7566: Like
+឵: *NameChan
+឵: Hm
+឵: I have le thingy in da command
+Hri7566: You would write an entire program onto a paper
+Hri7566: And then the giant room-sized computer would calculate it
+Vincent: now can u make it a command like ^name
+Hri7566: And you wouldn't get  the results until next day
+Vincent: yeah
+υωυ: lol
+Vincent: lmao
+υωυ: vacuum tubes
+Hri7566: So you would wait a day and be  like "oops forgot a comma"
+Vincent: i used to work with one of those
+υωυ: turing machine
+υωυ: weeee
+឵e: *Name
+υωυ: *help
+Vincent: jk
+឵e: The name setting thing isn't working-
+Vincent: ^name h
+Hri7566: It's because he forgot a semicolon
+឵e: There is one
+Vincent: NUH UYH
+Hri7566: one?
+Vincent: DOD NOT
+Vincent: DID
+឵e: client.sendArray([{ m:'userset', set:{name:"Taylor~Chan"} }]);
+឵e: At the end of it
+Vincent: wat
+឵e: *Name
+឵e: Yeet
+឵e: Nice.
+Vincent: function setName(name) { client.sendArray([ { m: "userset", set: { name: name } }]) };
+Vincent: idk
+Vincent: ^js name = "j";
+7566 (^help): Console: j
+Vincent: k
+឵e: Tampermonkey doesn't like it.
+Hri7566: That was quick.
+Hri7566: ^name fuck
+7566 (^help): Name set to fuck.
+឵e: Nvm
+឵e: It does
+Hri7566: nuh uh
+Vincent: pssst
+υωυ: lol
+Vincent: your names supposed to change
+υωυ: ^name hot sweaty men with men fucking
+7566 (^help): Name set to hot sweaty men with men fucking.
+υωυ: cool
+υωυ: hi neo
+឵e: Do I add it onto the command or do I change it
+ƝЄƠƬƦƠƝƖҲ - Listening to music: Heya lol
+Vincent: hi neo
+឵e: Yoo Neo
+ƝЄƠƬƦƠƝƖҲ - Listening to music: how is everyone? :)
+γεετ: we're messing with bots
+឵e: Having a bit of fun
+Vincent: im
+γεετ: im doin good thx :3
+Hri7566: ^crown
+7566 (^help): Giving ownership to Hri7566
+Hri7566: ^name fuck
+7566 (^help): Name set to fuck.
+Hri7566: there we go
+Vincent: huh
+Hri7566: ^help
+fuck: Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+Hri7566: Actually
+឵e: *Name
+឵e: *Name u
+Vincent: should work without you having crown tho right?
+Hri7566: Should I make it keep the (^help) on the end
+឵e: E
+Hri7566: nah
+ƝЄƠƬƦƠƝƖҲ - Listening to music: *hugs whoever needs one*
+ƝЄƠƬƦƠƝƖҲ - Listening to music: <3
+γεετ: :33
+Hri7566: ^name idiot -->
+fuck: Name set to idiot -->.
+Vincent: make it keep its default name until u feel like or need to change it
+Hri7566: lmao
+Vincent: idk
+γεετ: ^name doonfyurnt
+idiot -->: Name set to doonfyurnt.
+γεετ: nice
+Hri7566: ^name PotBot
+doonfyurnt: Name set to PotBot.
+឵e: HOw about
+Hri7566: ^name large mound of robot
+PotBot: Name set to large mound of robot.
+឵e: *NoName
+឵e: Not even that
+឵: Name change isn't maxed out
+Hri7566: What character do you use
+Hri7566: ^name ឵
+large mound of robot: Name set to ឵.
+឵: ?
+Hri7566: ^help
+឵: Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+឵: ឵
+Hri7566: ឵
+Hri7566: ^say ឵
+឵: ឵
+Vincent: client.on('a', (msg) => { if (msg.p._id !== client.getOwnParticipant()._id){if(client.getOwnParticipant().name != msg.p.name)client.sendArray([{m: "userset", set: { name: msg.p.name }}]);chat();}})
+Vincent: ^js client.on('a', (msg) => { if (msg.p._id !== client.getOwnParticipant()._id){if(client.getOwnParticipant().name != msg.p.name)client.sendArray([{m: "userset", set: { name: msg.p.name }}]);chat();}})
+឵: Console: [object Object]
+Vincent: j
+Vincent: yes
+γεετ: you don't say
+Vincent: it
+Vincent: WORKS
+γεετ: penis
+γεετ: hah
+Hri7566: Oh yeah
+ƝЄƠƬƦƠƝƖҲ - Listening to music: butts :3
+γεετ: ass
+Hri7566: That's part of ballonstring.js
+☯️ＥＲＲＯＲ_４０４ [ @ ＨＥＬＰ] (Actual Human): wat
+឵: ANd what is
+឵: client.on('a', (msg) => { if (msg.p._id !== client.getOwnParticipant()._id){if(client.getOwnParticipant().name != msg.p.name)client.sendArray([{m: "userset", set: { name: msg.p.name }}]);chat();}})
+឵: Supposed to do?
+Vincent: its one of my pastebin scripts
+Hri7566: I might make a separate thing for that
+γεετ: kewl
+Vincent: from like
+Vincent: years agio
+Vincent: ago
+឵: What does it do?
+Hri7566: Oh.
+Vincent: copy name
+Hri7566: OH
+Hri7566: WAIT
+Hri7566: Idea
+឵: Oh
+Hri7566: Let's make it copy completely
+Hri7566: So
+Vincent: it could copy chat too
+γεετ: it changes name based on the latest person
+Hri7566: hold on
+Vincent: ik
+γεετ: ?
+Hri7566: ^cursor none
+γεετ: Cursor type changed to none
+γεετ: o shit
+Hri7566: Hmm...
+Hri7566: So
+Hri7566: OH
+឵: *Name
+Taylor~Chan: Boom
+Taylor~Chan: I fixed it
+Taylor~Chan: You wanna know how
+Taylor~Chan: No MPP.
+Taylor~Chan: MPP.client.sendArray([{ m:'userset', set:{name:"Taylor~Chan"} }]);
+γεετ: cool
+Taylor~Chan: Ya can't forget the MPP. in a command bro
+Vincent: it doesnt use MPP
+Vincent: we
+Vincent: already got it working
+Hri7566: ^js MPP.client.on("m", function(msg) {     var part = MPP.client.findParticipantById(msg.id);     if (part._id == MPP.client.user._id) return;     followPos.x = +msg.x;     followPos.y = +msg.y; });
+γεετ: ReferenceError: MPP is not defined.
+Taylor~Chan: And this is me at 12:00 AM after drinking Mountain Due
+Hri7566: oof
+Hri7566: forgot to translate
+Vincent: remove
+magnum dong: due
+Vincent: the mpp
+Vincent: and itll work
+Hri7566: ^js client.on("m", function(msg) {     var part = client.findParticipantById(msg.id);     if (part._id == client.user._id) return;     followPos.x = +msg.x;     followPos.y = +msg.y; });
+Vincent: Console: [object Object]
+Vincent: k
+Hri7566: oof
+Hri7566: ^js pos = {x:0, y:0}
+Vincent: Console: [object Object]
+Hri7566: that's great
+Hri7566: i'm mad
+Vincent: y
+Hri7566: the log is already half as long as my code
+magnum dong: brb
+Taylor~Chan: *SetName e
+Taylor~Chan: Damn
+Taylor~Chan: Hmmm
+Taylor~Chan: *NoName
+Hri7566: it's 12 am
+Hri7566: let me switch to screen mode
+Hri7566: and i'll see you tomorrow
+Hri7566: ^crown
+Hri7566: Giving ownership to Hri7566
+Vincent: u leaving?
+Hri7566: ^goto 7566 (^help)
+Vincent: Moving to room: "7566 (^help)"
+Hri7566: ^name 7566 (^help)
+Vincent: Name set to 7566 (^help).
+Hri7566: thanks
+Hri7566: ^crown
+Vincent: Giving ownership to Hri7566
+Hri7566: Why is it vincent
+mr gamer man: vincent is the un epic dude
+Vincentg: j
+Vincentg: hmm
+Hri7566: wait
+mr gamer man: hey there gameRrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASFSGBTRHEWDVCDHYTRSSDC HYHFD
+magnum dong: bacc
+Vincentg: ^js client.sendArray([ { m: "userset", set: { name: "7566 (^help)" } }]);
+Vincent: Console: undefined
+mr gamer man: gamer
+Vincentg: :D
+magnum dong: bye hri :/
+Hri7566: what the hell did you do
+Hri7566: and who is magnum dong
+Vincentg: i didnt do anything on purpose
+឵: Oof
+σωυθσυξωγφσξω: hello
+Anonymous: sorry about that
+σωυθσυξωγφσξω: lol
+σωυθσυξωγφσξω: eye yam dong
+V I N C E N T: you could make a ur bot a midi player too
+V I N C E N T: lmao
+V I N C E N T: jk
+Hri7566: Exactly what I'm avoiding
+Hri7566: though that would be lit
+V i n c e n t: eh
+Hri7566: anyway cya
+V i n c e n t: i think its good without it
+V i n c e n t: cya
+you like that σωσ?: bye hri
+Hri7566: i just procrastinated instead of doing 5 days worth of math homework
+V i n c e n t: i feel that
+you like that σωσ?: oooof
+Hri7566: <3
+V i n c e n t: exceot i have ap java in place of math
+Hri7566: Have fun and be safe!
+you like that σωσ?: also you should crown someone
+V i n c e n t: except
+you like that σωσ?: last people on here pissed on every1
+V i n c e n t: you as well
+Hri7566: ^bg #000000
+V i n c e n t: im gonna leave here as well so
+you like that σωσ?: o ok
+you like that σωσ?: :/
+V i n c e n t: either that
+V i n c e n t: or ill browse rooms
+Hri7566: Tell lonely I love him
+Hri7566: Not as a friend
+you like that σωσ?: okie
+V i n c e n t: as anonymous
+Hri7566: LIke
+Hri7566: Gay
+you like that σωσ?: lol
+you like that σωσ?: ye
+Hri7566: I want my dick in his ass so much that
+Hri7566: idk
+Hri7566: bye
+V i n c e n t: lmao
+you like that σωσ?: bai
+Hri7566: it's hard to let go
+ƝЄƠƬƦƠƝƖҲ - Listening to music: O_O
+you like that σωσ?: o.o
+Hri7566: ^quote
+7566 (^help): "Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth."- Sherlock Holmes
+V i n c e n t: ew
+❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔: ...
+you like that σωσ?: ^quote
+7566 (^help): "No pressure, no diamonds." - Mary Case
+you like that σωσ?: welp
+you like that σωσ?: imma browse
+Anonymous: alan watts is better
+Anonymous: :/
+Hri7566: ALAN WATTS
+Anonymous: o shit
+Anonymous: lmao
+Hri7566: He is the most unconcious man  I've ever heard of
+Anonymous: hes the best right
+឵: That's pretty hot
+Hri7566: Mostly
+Anonymous: h o t t
+Hri7566: Do you like the game Everything?
+Anonymous: who
+ƝЄƠƬƦƠƝƖҲ - Listening to music: i
+Hri7566: I don't own it, but I watched gameplay and they used Alan Watts' lectures
+ƝЄƠƬƦƠƝƖҲ - Listening to music: I love Alan Watts :3
+Hri7566: bye
+Anonymous: same
+Anonymous: cya
+ƝЄƠƬƦƠƝƖҲ - Listening to music: I also like George Carlin and Bill Hicks :3
+ƝЄƠƬƦƠƝƖҲ - Listening to music: Comedians but also philosophers in their own way :3
+Hri7566: BIULL HICKS
+Anonymous: he's been summoned back
+Hri7566: nah jk
+Anonymous: hey while we're at it
+Anonymous: bo Burnham
+Anonymous: finally hes gone
+Anonymous: anyways
+Anonymous: not like he can see chats
+Anonymous: right
+Anonymous: uhh
+Anonymous: lmao
+Hri7566: What did you say?
+Anonymous: bo burnham
+Hri7566: the other one
+Anonymous: uh
+឵: I'm playing around with random things in the console now
+Hri7566: i meant not you
+Anonymous: i was kidding
+Anonymous: ik u can see the chats
+Anonymous: not like he can see chats?
+Hri7566: you just CAN'T WAIT TO GET RID OF ME
+Hri7566: lmao
+Hri7566: I can
+Anonymous: lul
+Hri7566: I programmed the console to show chat
+Hri7566: And save it in a file
+Hri7566: so i see everything
+Anonymous: whoahy
+Hri7566: Now if I just ran the bot in every room...
+Anonymous: lel
+឵: Lol
+Anonymous: you'd know everything
+Hri7566: And toggle the commands off...
+Anonymous: youd have a hard time reading it all
+Anonymous: tru
+Hri7566: That's why I have friends on discord
+Anonymous: lucky
+Anonymous: yuhhhhh, that's hot
+឵: Whoa
+឵: I found that the word Color exists
+Anonymous: lmao
+❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔❌⛔: Р6
+Anonymous: ^say ^say
+7566 (^help): ^say
+Anonymous: ^div 1 0
+7566 (^help): Answer: 69420
+឵: Lol
+Anonymous: it's official guys
+឵: Now to find more words that look like they can set colors
+Anonymous: bad455
+឵: Apply seems pretty legit-not gonna lie
+Anonymous: o
+឵: Nope
+Anonymous: k later imma browse weee
+឵: KK
+Чара: ^help
+7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+Чара: ^eat
+7566 (^help): Чара eats a bin of mozzarella sticks. It was freezer burnt.
+Чара: ^magicconchshell
+7566 (^help): You need to ask a question.
+Чара: ^magicconchshell  who are you
+7566 (^help): Nothing.
+ЛЕОН  САНС ЗЛОЙ: help/
+MPP History (checking rooms): ▎minechao|frisk|squidkid|5:46:34 PM ▎minechao|frisk|squidkid|6:04:27 PM ▎minechao|frisk|squidkid (trashcan)(afk?) ▎minechao|frisk|squidkid|batter|trashcan☁ ▎minechao|frisk|squidkid|batter|trashcan. ▎minechao|frisk|squidkid|batter|trashcan ▎minechao|frisk|squidkid|batter|john|29A ▎minechao ▎Your friendly squidcat mine ▎【Balloon Boy is a piano prodigy】 ▎E-Man125 ▎chica the chicken (human) ▎Jambles ▎Mr. Audience ▎Sea ▎Freddy fazbear ▎kidatschool ▎I LIKE FNAF ▎MUSICIAN#1 ▎Imagine Dragons-Type_band ...
+MPP History (checking rooms): ▎The Adomonis Rex ▎The Puppet (from fnaf 2) ▎Nope.avi ▎asdfghjk ▎Another Grinch ▎Andrej ▎Mettaton Ex ▎MedaTehief ▎CatEatingBroccoli ▎￼CatEatingBroccoli ▎Adits ▎#ShoeyDawceffa ▎#ShoeyDawceffa♥ ▎JOEY GRACEFFA PSYCHOPATHIC LONER ▎JOEY GRACEFFA PSYCHOPATH ▎Brittany|Vampire|Female ▎JoeyGraceffaIsMahBaeForeverAndEver!!!!!! ▎Joey♥Shane♥Tyler ▎ExoticBread ▎NMPB (Ryan891) ▎Ryan ▎Logan <3s b guy :( ᒡ◯ᵔ◯ᒢ Ulysses the noo ▎ᶘᵒᴥᵒᶅ Ryan ᶅᵒᴥᵒᶘ ▎๖ۣۜRyan ▎๖ۣۜRyan￼ [AFK] ▎๖ۣۜRyan￼ ▎๖ۣۜRyan￼￼ ▎๖ۣۜRyan￼￼ [AFK] ▎Ryan￼ ...
+Hri7566: Idk why my computer can't handle a text editor and a web browser  at  the same time
+Drako the cat(^w^)|11|boy|mood:bored|: ...
+Hatsune Miku: @help
+Hatsune Miku: Available commands: @help, @test, @say, @slap.
+Hatsune Miku: @test
+Hatsune Miku: If you see this, the bot works!
+Hatsune Miku: AYYYY
+Drako the cat(^w^)|11|boy|mood:bored|: cool
+Hatsune Miku: @SLAP HERSELF
+Hatsune Miku: Hatsune Miku slaps HERSELF.
+Hri7566: Oh I forgot I  have a chat log
+Hri7566: That took me about two hours last night
+Hri7566: I shocked myself and lost vision for a sec
+Drako the cat(^w^)|11|boy|mood:bored|: xd
+Hri7566: ^mysql run
+7566 (^help): You don't have permission to use this command.
+Hri7566: oof let me op myself
+Hri7566: what's my id
+SH6: 4dac11170369521818b3eecf
+Drako the cat(^w^)|11|boy|mood:bored|: ok
+Drako the cat(^w^)|11|boy|mood:bored|: xd
+Hri7566: thank you
+Hri7566: now i'll check to see if you're not trying to op yourself
+Drako the cat(^w^)|11|boy|mood:bored|: 4dac11170369521818b3eecf
+Drako the cat(^w^)|11|boy|mood:bored|: xd
+Drako the cat(^w^)|11|boy|mood:bored|: oof
+Hatsune Miku: @
+Hatsune Miku: @h
+Hatsune Miku: @help*
+Hatsune Miku: @help
+Hatsune Miku: Available commands: @help, @test, @say, @slap.
+Hatsune Miku: @test
+Hatsune Miku: If you see this, the bot works!
+Drako the cat(^w^)|11|boy|mood:bored|: lol
+🔪Chara🔪: @help?
+Hatsune Miku: ya
+🔪Chara🔪: @help
+Hatsune Miku: Available commands: @help, @test, @say, @slap.
+Drako the cat(^w^)|11|boy|mood:bored|AFK: no
+Drako the cat(^w^)|11|boy|mood:bored|AFK: xd
+Hatsune Miku: ?
+🔪Chara🔪: @say HOI! , im Temmie
+Hatsune Miku: HOI! , im Temmie
+🔪Chara🔪: hoi!
+Hatsune Miku: and this is my friend temmie
+🔪Chara🔪: im Temmie too!!
+🔪Chara🔪: XDD
+Hatsune Miku: Hi.
+Hatsune Miku: Im bob.
+🔪Chara🔪: im Bob
+🔪Chara🔪: XD
+🔪Chara🔪: yay dogsong
+Hatsune Miku: Do @help to learn how to use my commands!
+Hri7566: You should append [@help] to the end of your name
+🔪Chara🔪: oof
+Hri7566: ^js  msg.p._id
+7566 (^help): Console: 4dac11170369521818b3eecf
+🔪Chara🔪: rip Drako
+Hri7566: okay
+Hri7566: ^id
+7566 (^help): 4dac11170369521818b3eecf
+Hri7566: ^bg #000000
+Anonymous: Join the multiplayer piano discord! https://discord.gg/rBEpk4q
+🔪Chara🔪: yay blackk
+🔪Chara🔪: XD
+Hatsune Miku (@help): Do @help to learn how to use my commands!
+Hri7566: ^crown
+7566 (^help): Giving ownership to Hri7566
+[4dac11170369521818b3eecf]Hri7566: test
+[4dac11170369521818b3eecf]Hri7566: Okay the console looks fine now
+[4cfc09afe1b043025fc020b4]blobek-lady2013: http://www.multiplayerpiano.com/lobby
+[4dac11170369521818b3eecf]Hri7566: I should autoban anyone with that name
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: XD
+[7863d120dc46276c8ca42a09]PDB & VSU: ^help
+[29587fe40f6bd85fc757cc2d]7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+[7863d120dc46276c8ca42a09]PDB & VSU: ^simonsays zgfoexfuowgei ufw jdqedidggmwhgukwdokwrfohelfgordwqogueddquykhxdvj
+[29587fe40f6bd85fc757cc2d]7566 (^help): "zgfoexfuowgei ufw jdqedidggmwhgukwdokwrfohelfgordwqogueddquykhxdvj" - PDB & VSU
+[7bce98025f83d025b8b7aee2]PYan0: xd
+[b7da9885395d4021128817e3]∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: ^8ball
+[29587fe40f6bd85fc757cc2d]7566 (^help): You need to ask a question.
+[b7da9885395d4021128817e3]∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: ^rps
+[29587fe40f6bd85fc757cc2d]7566 (^help): ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒ plays rock paper sissors alone.
+[7863d120dc46276c8ca42a09]PDB & Iotawop: ^8ball ze everloving fuckens?
+[29587fe40f6bd85fc757cc2d]7566 (^help): Yes.
+[b7da9885395d4021128817e3]∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: ^rur
+[29587fe40f6bd85fc757cc2d]7566 (^help): Banned ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒ from the channel for 0 minutes.
+[29587fe40f6bd85fc757cc2d]7566 (^help): ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒ died playing Russian Roulette
+[4dac11170369521818b3eecf]Hri7566: Oof
+[4dac11170369521818b3eecf]Hri7566: that just happens
+[4dac11170369521818b3eecf]Hri7566: When you play russian roulette
+[4dac11170369521818b3eecf]Hri7566: I should put a warning
+[a5050613f5132885a09bf9bf]PC: i love that song
+[7863d120dc46276c8ca42a09]PDB & Iotawop: Lol
+[a5050613f5132885a09bf9bf]PC: can u not
+[7bce98025f83d025b8b7aee2]PYan0: :(
+[7863d120dc46276c8ca42a09]PDB & Iotawop: ton u nac
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: hoi Temmie
+[6734a741f214513eea67759b]NEKO SANS/HUMAN: H o i
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: im Temmie
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: XD
+[4dac11170369521818b3eecf]Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d]7566 (^help): Giving ownership to Hri7566
+[a5050613f5132885a09bf9bf]PC: this guy lmao
+[4dac11170369521818b3eecf]Hri7566: kickbanning won't work
+[4dac11170369521818b3eecf]Hri7566: in the bot
+[7bce98025f83d025b8b7aee2]PYan0: SDAHGJKDSHG ZOMB IES
+[6734a741f214513eea67759b]NEKO SANS/HUMAN: Lol
+[4dac11170369521818b3eecf]Hri7566: eenie
+[4dac11170369521818b3eecf]Hri7566: meenie
+[4dac11170369521818b3eecf]Hri7566: miney
+[4dac11170369521818b3eecf]Hri7566: mo
+[7863d120dc46276c8ca42a09]PDB & Iotawop: ^cursor crazy
+[29587fe40f6bd85fc757cc2d]7566 (^help): Cursor type changed to crazy
+[4dac11170369521818b3eecf]Hri7566: should I?
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: IM CRAZIERRR
+[7863d120dc46276c8ca42a09]PDB & Iotawop: lol
+[4dac11170369521818b3eecf]Hri7566: Banned PC from the channel for 0 minutes.
+[a5050613f5132885a09bf9bf]PC: boi
+[4dac11170369521818b3eecf]Hri7566: boomer
+[a5050613f5132885a09bf9bf]PC: can u just ban PDB
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: oof i fort u send "bob" with so many Temmies here XD
+[4dac11170369521818b3eecf]Hri7566: is pdb matsuno and i don't know it this time?
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: idk
+[7863d120dc46276c8ca42a09]PDB & Iotawop: everyone shake your mouse crazy
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: knifee :3
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: OKE
+[4dac11170369521818b3eecf]Hri7566: I'm gonna try to log ids in mysql
+[7863d120dc46276c8ca42a09]PDB & Iotawop: ^rur
+[29587fe40f6bd85fc757cc2d]7566 (^help): PDB & Iotawop, you lived.
+[7863d120dc46276c8ca42a09]PDB & Iotawop: ^rur
+[29587fe40f6bd85fc757cc2d]7566 (^help): PDB & Iotawop, you lived.
+[7863d120dc46276c8ca42a09]PDB & Iotawop: ^rur
+[29587fe40f6bd85fc757cc2d]7566 (^help): PDB & Iotawop, you lived.
+[7863d120dc46276c8ca42a09]PDB & Iotawop: ^rur
+[29587fe40f6bd85fc757cc2d]7566 (^help): PDB & Iotawop died playing Russian Roulette
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: FFFF i hit my arm
+[4dac11170369521818b3eecf]Hri7566: neat
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: QwQ
+[4dac11170369521818b3eecf]Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d]7566 (^help): Giving ownership to Hri7566
+[4dac11170369521818b3eecf]Hri7566: Banned PDB & Iotawop from the channel for 0 minutes.
+[4dac11170369521818b3eecf]Hri7566: i almost gave him the crown accidentally
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: sorry but.. I DONT GIVE UPP
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: IM CRAZIERR XD
+[4dac11170369521818b3eecf]Hri7566: wait
+[7863d120dc46276c8ca42a09]PDB & Iotawop: HRI, you fucking slit
+[4dac11170369521818b3eecf]Hri7566: i  wonder if double spaces show up in the thingy
+[4dac11170369521818b3eecf]Hri7566: f                 f
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: Sans u here or afk? :I
+[7863d120dc46276c8ca42a09]PDB & Iotawop: ff
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: ff?
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: oh :I
+[4dac11170369521818b3eecf]Hri7566: fart
+[db571c12dca5ab0f88b8931d]🔪Chara🔪: -_-
+[4dac11170369521818b3eecf]Hri7566: I'm bored let me get chips
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Igaeageagaeagaeagaeagaeagaeagaeagaeagaeagaragaraagaragaeagaragaeagaragaeagaragaeagaragaeagaragaeagaeagaeagaeagaeahaeagaeagaeagaeagaeagaeagar
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: YAY!!
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: huff* my arm..
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: ..hurts
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism: im the longest word!
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Chemical name of Titin: hold mah beet
+[7863d120dc46276c8ca42a09] PDB & Iotawop: beer*
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: omg why the heck is so many rooms with the name "everyone go to the lobby" ? :I
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: just
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: rip
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: anddddddddd everyone afk
+[a5050613f5132885a09bf9bf] PC: no
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: rip
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: oh cool
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: no afkk :3
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: XD
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: also do ya know where Drako go? :I
+[4dac11170369521818b3eecf] Hri7566: Drako is bored all the time now
+[4dac11170369521818b3eecf] Hri7566: So he just leaves
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: oof
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: OOOOOOOOOOOOF
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: NO SANSS QwQ
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: rip me QwQ
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Methionylglutaminylarginyltyrosylglutamylserylleucylphenylalanylalanylglutaminyl
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Longest word i could type
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: anndddd ded
+[7863d120dc46276c8ca42a09] PDB & Iotawop: That’s only a segment
+[4dac11170369521818b3eecf] Hri7566: The longest one  I can type is pneumonoultramicroscopicsilicovolcanoconiosis
+[7863d120dc46276c8ca42a09] PDB & Iotawop: My word is longer
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: brb
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Your highscore: 45 letters
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: back
+[7863d120dc46276c8ca42a09] PDB & Iotawop: My highscore: 189,819 letters
+[4dac11170369521818b3eecf] Hri7566: How fast do you type?
+[7863d120dc46276c8ca42a09] PDB & Iotawop: I type on average 5 letters per second i think
+[4dac11170369521818b3eecf] Hri7566: I type  around 60-80wpm
+[7863d120dc46276c8ca42a09] PDB & Iotawop: oh cool
+[4dac11170369521818b3eecf] Hri7566: How much is that  in wpm
+[7863d120dc46276c8ca42a09] PDB & Iotawop: I can type fast
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[4dac11170369521818b3eecf] Hri7566: ^string 5 seconds to minutes
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Answer: 0.08333333333333333 minutes
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[4dac11170369521818b3eecf] Hri7566: oof
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Floccinaucinihilipilification
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[4dac11170369521818b3eecf] Hri7566: ^string 5(60)
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Answer: 300
+[4dac11170369521818b3eecf] Hri7566: 300 cpm
+[7863d120dc46276c8ca42a09] PDB & Iotawop: ^cos
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Invalid Usage. Need help? Use /cos help
+[4dac11170369521818b3eecf] Hri7566: ^math
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Math Functions: ^add | ^sub | ^mult | ^div | ^pow  | ^exp | ^atan | ^atanh | ^atan2 | ^acos | ^acosh | ^cos | ^cosh | ^asin | ^asinh | ^cbrt | ^sqrt | ^tan | ^tanh | ^sin | ^sinh | ^string
+[7863d120dc46276c8ca42a09] PDB & Iotawop: I can type fast, watch;
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Floccinaucinihilipilification
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Floccinaucinihilipilification
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Floccinaucinihilipilification
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Floccinaucinihilipilification
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Floccinaucinihilipilification
+[7863d120dc46276c8ca42a09] PDB & Iotawop: See?
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Antidisestablishmentarianism
+[7863d120dc46276c8ca42a09] PDB & Iotawop: Surprised? Me too.
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+[4dac11170369521818b3eecf] Hri7566: ^mysql run
+[29587fe40f6bd85fc757cc2d] 7566 (^help): User search enabled; all users will now be recorded in the database.
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: ^eat
+[29587fe40f6bd85fc757cc2d] 7566 (^help): 🔪Chara🔪 eats a s'more. It was poisoned.
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: ^eat chocolate
+[29587fe40f6bd85fc757cc2d] 7566 (^help): 🔪Chara🔪 ate 'chocolate'. It was covered in may-o.
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: XD
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: ^kill
+[29587fe40f6bd85fc757cc2d] 7566 (^help): In the ancient ritual of seppuku, 🔪Chara🔪 unsheaths their sword and runs it though their stomach.
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: rip
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: ^kill Chara
+[29587fe40f6bd85fc757cc2d] 7566 (^help): In the ancient ritual of seppuku, 🔪Chara🔪 unsheaths their sword and runs it though their stomach.
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: .-.
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: XD
+[4dac11170369521818b3eecf] Hri7566: I uninstalled a plugin in vs code and my bot just disappeared
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: yay its backk XD
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: oh oof
+[4dac11170369521818b3eecf] Hri7566: is the background black
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: wait thats ur bot??
+[4dac11170369521818b3eecf] Hri7566: I mean, it has my name  in its name
+[4dac11170369521818b3eecf] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Currently, there are no intentions for a music-playing script.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): If you would like to see what it does, type '^help' into the chat field.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, and many others. RIP MarxBot, may you be remembered forever.
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: aaaaaaaaaaaaaaaaaaaaa
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: now i see it :I
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: i fort.. uh nvm XD
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: nice play XD
+[4dac11170369521818b3eecf] Hri7566: Oh, wb shobux
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: wait brb
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: back XD
+[aa9a2741b0eadac24e35a669] Oof roblox noob: Hiiiiiiiiiiiii
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: heya
+[4dac11170369521818b3eecf] Hri7566: There's  4K pending changes in my source control
+[4dac11170369521818b3eecf] Hri7566: holy shit
+[aa9a2741b0eadac24e35a669] Oof roblox noob: Holy sheet of paper
+[4dac11170369521818b3eecf] Hri7566: I'll finish the SQL implementation then I'll push the changes
+[4dac11170369521818b3eecf] Hri7566: Beautiful
+[aa9a2741b0eadac24e35a669] Oof roblox noob: Nice
+[4dac11170369521818b3eecf] Hri7566: Mister Rogers, right?
+[f77a15276875eeb74f678a4e] Shobux: correct
+[4b90e4a416953428379d05a4] mangle (fnaf): h-hi
+[db571c12dca5ab0f88b8931d] 🔪Chara🔪: hi
+[236ef65ea0a5a82b91a8b5eb] ligeti: the fuck
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XDX
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: WTF
+[236ef65ea0a5a82b91a8b5eb] ligeti: muted
+[4b90e4a416953428379d05a4] mangle (fnaf): k-knife
+[4dac11170369521818b3eecf] Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Giving ownership to Hri7566
+[236ef65ea0a5a82b91a8b5eb] ligeti: muted for life lmao
+[4dac11170369521818b3eecf] Hri7566: Banned Oof roblox noob from the channel for 5 minutes.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+[90b5a0bee7cfc3b32c252e0b] ☯️ＥＲＲＯＲ_４０４: dRaKo waNts THe CRWoN
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^magicconchshell can i have something to eat
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Follow the seahorse.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You can't use this command.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: A FUKC
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XDD
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: oof
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: OOF
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ME
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: back xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: PLS
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^magicconchshell can i have something to eat?
+[29587fe40f6bd85fc757cc2d] 7566 (^help): I don't think so.
+[b7da9885395d4021128817e3] ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: ^quoto
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^meme
+[b7da9885395d4021128817e3] ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: OF
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: please
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ...
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^shut me down
+[b7da9885395d4021128817e3] ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: ErRoR
+[90b5a0bee7cfc3b32c252e0b] ☯️ＥＲＲＯＲ_４０４: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You can't use this command.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *mad squidward sounds* (joke)
+[b7da9885395d4021128817e3] ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: eRrOr
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^crown me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You can't use this command.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^delete me
+[90b5a0bee7cfc3b32c252e0b] ☯️ＥＲＲＯＲ_４０４: oH fAK U u sTUPED WHITE WHORE 7556 bOt ^hElp1
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^rur
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL, you lived.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays die
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "die" - SENTIMENTAL
+[90b5a0bee7cfc3b32c252e0b] ☯️ＥＲＲＯＲ_４０４: i WaNtEd TH e fAKIN ssUTUPiD FAKIN CROWN U N U G G E T
+[4dac11170369521818b3eecf] Hri7566: Hi vincent, I'm assuming it's you
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ban eror
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "ban eror" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays dab
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "dab" - SENTIMENTAL
+[8ab89bf2447486172314356a] Anonymous: fak
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ban error
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays FUCK
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "FUCK" - SENTIMENTAL
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ban error
+[8ab89bf2447486172314356a] Anonymous: it be
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: fuck error xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays HELP ME I CANT BREATEH EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "HELP ME I CANT BREATEH EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE" - SENTIMENTAL
+[4dac11170369521818b3eecf] Hri7566: I'll put  him in my blacklist
+[90b5a0bee7cfc3b32c252e0b] ☯️ＥＲＲＯＲ_４０４: oH fAk U u sTYPUD NIGGuT
+[4dac11170369521818b3eecf] Hri7566: then i'll program the blacklist
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ban error
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡°
+[90b5a0bee7cfc3b32c252e0b] ☯️ＥＲＲＯＲ_４０４: (i'm high on crack calm down)
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ¯\_( ͡° ͜ʖ ͡°)_/¯
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "¯\_( ͡° ͜ʖ ͡°)_/¯" - SENTIMENTAL
+[4dac11170369521818b3eecf] Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Giving ownership to Hri7566
+[4dac11170369521818b3eecf] Hri7566: Banned ☯️ＥＲＲＯＲ_４０４ from the channel for 5 minutes.
+[7863d120dc46276c8ca42a09] Chip: ^simonsays zai odcqyixfoqfrqeyxwdqtuxdwckywjxfswjzqsiglqgzwkgqwfuldqxfykwezdgkqwxufwuowfuotwxeiywtxgugwodqxwkewykwxukwqdxdcykxwqouxgquocswozuusqzwjqscwixwquogwxfuowgvqgu ewkr fulf. iug dw w rfiv wedjhe fevkwxe vkc dwcih weciwg wxjvce ih v dwigcew feiw gffwe igcweyqx kywxvdwigdw gwekxxdiwxfixd dewihxdwgiwd gxwig ceedci wfdgie frwgx wevih wx ygiwr. Y GIw wediyeyidtiwy c khugocyogyggiycgygicyciyficyciciyfyciftoototottoottototootottoototototototottootottotottotgl fcrncedvejwrevhixcdehowevhdixhvdejxedeihwxdvhivd
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "zai odcqyixfoqfrqeyxwdqtuxdwckywjxfswjzqsiglqgzwkgqwfuldqxfykwezdgkqwxufwuowfuotwxeiywtxgugwodqxwkewykwxukwqdxdcykxwqouxgquocswozuusqzwjqscwixwquogwxfuowgvqgu ewkr fulf. iug dw w rfiv wedjhe fevkwxe vkc dwcih weciwg wxjvce ih v dwigcew feiw gffwe igcweyqx kywxvdwigdw gwekxxdiwxfixd dewihxdwgiwd gxwig ceedci wfdgie frwgx wevih wx ygiwr. Y GIw wediyeyidtiwy c khugocyogyggiycgygicyciyficyciciyfyciftoototottoottototootottoototototototottootottotottotgl fcrncedvejwrevhixcdehowevhdixhvdejxedeihwxdvhivd" - Chip
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: thx
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XD
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: your bot is fun
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: thx
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XDDD \
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[7863d120dc46276c8ca42a09] Chip: Give drako the crown
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡° ͜ʖ ͡°)_/¯¯\_( ͡°
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays BAN YOUR SELF
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "BAN YOUR SELF" - SENTIMENTAL
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[7863d120dc46276c8ca42a09] Chip: HRI
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XD
+[7863d120dc46276c8ca42a09] Chip: HRI
+[7863d120dc46276c8ca42a09] Chip: HRI
+[7863d120dc46276c8ca42a09] Chip: HRI
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: TELL THE BOT TO BAN Y)ÇOU
+[7863d120dc46276c8ca42a09] Chip: HRI
+[aa9a2741b0eadac24e35a669] Oof roblox noob: Hi
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[7863d120dc46276c8ca42a09] Chip: H
+[4dac11170369521818b3eecf] Hri7566: I should change ^say to ^sudo
+[7863d120dc46276c8ca42a09] Chip: R
+[7863d120dc46276c8ca42a09] Chip: I
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[7863d120dc46276c8ca42a09] Chip: HRI
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: &
+[7863d120dc46276c8ca42a09] Chip: EICH AHRR EYE
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays  fuck me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "fuck me" - SENTIMENTAL
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: yes just like invaided lands skeppy
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XD
+[4dac11170369521818b3eecf] Hri7566: Instead of spamming my name, you could help by actually telling me what you want
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays  private property
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "private property" - SENTIMENTAL
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ultimate /sudo
+[7863d120dc46276c8ca42a09] Chip: Hri give drako tje crown
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: -skeppy
+[4dac11170369521818b3eecf] Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Giving ownership to Hri7566
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays  ban everybody with  0 minutes
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "ban everybody with  0 minutes" - SENTIMENTAL
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: lol
+[7863d120dc46276c8ca42a09] Chip: Yey
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: thx lol
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays  give me the crown and say dab for life
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "give me the crown and say dab for life" - SENTIMENTAL
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: me = bored af
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: same xd
+[7863d120dc46276c8ca42a09] Chip: Sentimental shut the fuck up
+[aa9a2741b0eadac24e35a669] Oof roblox noob: Wow twinkle twinkle little star next level
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays   change your name to awesome bot
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "change your name to awesome bot" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ban OOF
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "ban OOF" - SENTIMENTAL
+[7863d120dc46276c8ca42a09] Chip: SENTIMENTAL
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+[7863d120dc46276c8ca42a09] Chip: FUCK OFF SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays  chip says
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "chip says" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ban me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "ban me" - SENTIMENTAL
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[4dac11170369521818b3eecf] Hri7566: Vincent
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays  haha
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "haha" - SENTIMENTAL
+[4dac11170369521818b3eecf] Hri7566: help me
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays im  a bot
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "im  a bot" - SENTIMENTAL
+[7863d120dc46276c8ca42a09] Chip: ^cursor crazy
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cursor type changed to crazy
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays  haha
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "haha" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays  crazy ultra
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "crazy ultra" - SENTIMENTAL
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: rip XD
+[aa9a2741b0eadac24e35a669] Oof roblox noob: 7566666666666666666 helppppppppp
+[7863d120dc46276c8ca42a09] Chip: Chara make your cursor go crazy
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: aaaaaaaaaa xd
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[4dac11170369521818b3eecf] Hri7566: ^js vel = {x:100,y:100}
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Console: [object Object]
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^cursor slow
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Invalid cursor type
+[7863d120dc46276c8ca42a09] Chip: EVERYONE MAKE YOUR CURSOR GO CRAZY
+[4dac11170369521818b3eecf] Hri7566: ^cursor dvd
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cursor type changed to dvd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+[7863d120dc46276c8ca42a09] Chip: ^cursor crazy
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cursor type changed to crazy
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^eat
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL eats a tub of ice cream. It was far too salty.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^rur
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL, you lived.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^rur
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL, you lived.
+[aa9a2741b0eadac24e35a669] Oof roblox noob: Penis
+[4dac11170369521818b3eecf] Hri7566: ^eat SENT
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Hri7566 cannibalizes SENTIMENTAL. It reminded them of their mothers cooking.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^8ball
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: are you gay
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: __
+[7863d120dc46276c8ca42a09] Chip: ^eat sent
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Chip cannibalizes SENTIMENTAL. It was quite dry.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ^rur
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Drako the cat(^w^)|11|boy|mood:bored| died playing Russian Roulette
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: __XDDD
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: __________________ xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^8ball
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ^rur
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Drako the cat(^w^)|11|boy|mood:bored|, you lived.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ARE YOU GAY?
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[4dac11170369521818b3eecf] Hri7566: How do you  uhh
+[4dac11170369521818b3eecf] Hri7566: get a user that joins
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^8ball
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ^8ball ARE YOU GAY?
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Don't count on it.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: whut question
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^8ball
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: HOW MANY BOTS ARE OF YOU
+[4dac11170369521818b3eecf] Hri7566: ?
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+[4dac11170369521818b3eecf] Hri7566: Wb vincent
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^rps
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL plays rock paper sissors alone.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ^8ball HOW MANY BOTS ARE OF YOU
+[29587fe40f6bd85fc757cc2d] 7566 (^help): My sources say no.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^math
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Math Functions: ^add | ^sub | ^mult | ^div | ^pow  | ^exp | ^atan | ^atanh | ^atan2 | ^acos | ^acosh | ^cos | ^cosh | ^asin | ^asinh | ^cbrt | ^sqrt | ^tan | ^tanh | ^sin | ^sinh | ^string
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[8ab89bf2447486172314356a] Anonymous: damn
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magiconchell
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^say hi
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: are you a turle
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[aa9a2741b0eadac24e35a669] Oof roblox noob: Fuck everyone
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: fuck me
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ask me a question
+[4dac11170369521818b3eecf] Hri7566: ^magicconchshell are you retarded
+[29587fe40f6bd85fc757cc2d] 7566 (^help): I don't think so.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: help?
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell
+[29587fe40f6bd85fc757cc2d] 7566 (^help): You need to ask a question.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^magicconchshell CAN I HAVE SOMETHING TO EAT?
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Maybe someday.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[4dac11170369521818b3eecf] Hri7566: ^magicconchshell fucking christ
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Try asking again.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: are you able to die
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you gay
+[29587fe40f6bd85fc757cc2d] 7566 (^help): No.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *mad squidward sounds* (joke)
+[4dac11170369521818b3eecf] Hri7566: ^8ball will sentimental ever even look at this?
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Outlook good.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell im i gay
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Yes.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XDDDX
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you stupid
+[29587fe40f6bd85fc757cc2d] 7566 (^help): I don't think so.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell  are you real
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Follow the seahorse.
+[4dac11170369521818b3eecf] Hri7566: it's a spongebob joke
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you supergay
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Follow the seahorse.
+[4dac11170369521818b3eecf] Hri7566: Drako
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: yes?
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[4dac11170369521818b3eecf] Hri7566: Ban oof
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell im i gay
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Follow the seahorse.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell what seahorse
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Nothing.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: Banned Oof roblox noob from the channel for 0 minutes.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you fake
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Follow the seahorse.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you white
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Yes.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you a nazi
+[29587fe40f6bd85fc757cc2d] 7566 (^help): No.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you a furry
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Try asking again.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you angry
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Yes.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell why
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Neither.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you tired of humans
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Neither.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you an ai
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Nothing.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you a virgin
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Try asking again.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell stop askin
+[29587fe40f6bd85fc757cc2d] 7566 (^help): I don't think so.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell im gay
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Yes.
+[8ab89bf2447486172314356a] Anonymous: ^say ^8ball help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^8ball help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): It is certain.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Nothing.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell tell me a joke
+[29587fe40f6bd85fc757cc2d] 7566 (^help): I don't think so.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: WHY
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you gay
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Nothing.
+[4dac11170369521818b3eecf] Hri7566: pastebin just crashed
+[aa9a2741b0eadac24e35a669] Oof roblox noob: ^magicconchshell do you like me as a friend?
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Yes.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell do you like me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Nothing.
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: guys i gtg :I
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell you like me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Follow the seahorse.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ok
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: see yaaa
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell talk to me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Maybe someday.
+[4dac11170369521818b3eecf] Hri7566: brb
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ok
+[8ab89bf2447486172314356a] Anonymous: ^js chat(client.participantId);
+[29587fe40f6bd85fc757cc2d] 7566 (^help): 0bf1d36195a44928f40ba8b3
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Console: undefined
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell BEE
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Yes.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you ok
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Try asking again.
+[b7da9885395d4021128817e3] ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: ^magicconchshell Do You Hate Dragons
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Neither.
+[b7da9885395d4021128817e3] ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: GOOD
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell do you hate furry's
+[29587fe40f6bd85fc757cc2d] 7566 (^help): No.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you a furry
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Follow the seahorse.
+[8ab89bf2447486172314356a] Anonymous: ^js chat(client.getOwnParticipant()._id);
+[29587fe40f6bd85fc757cc2d] 7566 (^help): 29587fe40f6bd85fc757cc2d
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Console: undefined
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you a furry's
+[29587fe40f6bd85fc757cc2d] 7566 (^help): I don't think so.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell are you stupid
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Try asking again.
+[b7da9885395d4021128817e3] ∞ヅ𝓓𝓻𝓪𝓰𝓸𝓷 𝓛𝓮𝓪𝓭𝓮𝓻☠♦ ༒〘Ł€Ꮆ€ŇĐ〙༒: ^magicconchshell Do you like memes
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Neither.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell  memes
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Try asking again.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^magicconchshell do you like pussy
+[29587fe40f6bd85fc757cc2d] 7566 (^help): I don't think so.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: KKKK
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: KKK
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: WTF
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ᕕ( ͡° ͜ʖ ͡°)ᕗ
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: rip
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: WTF
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: (‡ಠ╭╮ಠ)
+[aa9a2741b0eadac24e35a669] Oof roblox noob: ^magicconchshell do you want to fuck me?
+[29587fe40f6bd85fc757cc2d] 7566 (^help): I don't think so.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ban oof 60
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^kill
+[29587fe40f6bd85fc757cc2d] 7566 (^help): In the ancient ritual of seppuku, SENTIMENTAL unsheaths their sword and runs it though their stomach.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ok
+[aa9a2741b0eadac24e35a669] Oof roblox noob: No
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^kill
+[29587fe40f6bd85fc757cc2d] 7566 (^help): In the ancient ritual of seppuku, SENTIMENTAL unsheaths their sword and runs it though their stomach.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: Banned Oof roblox noob from the channel for 60 minutes.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[8ab89bf2447486172314356a] Anonymous: ^js chat(client.ppl["184a3cd9d32a75139c4ec12a"].name);
+[29587fe40f6bd85fc757cc2d] 7566 (^help): TypeError: Cannot read property 'name' of undefined.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: dx
+[8ab89bf2447486172314356a] Anonymous: awwwwwwwww
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd*
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: so dis be a rp
+[4dac11170369521818b3eecf] Hri7566: I'm back
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ok
+[4dac11170369521818b3eecf] Hri7566: It's a collective room
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays pucnh
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "pucnh" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays punch me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "punch me" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ban me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "ban me" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays are youyr
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "are youyr" - SENTIMENTAL
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays XDDDD
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "XDDDD" - SENTIMENTAL
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays" - SENTIMENTAL
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^sudo hi
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays
+[29587fe40f6bd85fc757cc2d] 7566 (^help): What do I say?
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays ^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays^simonsays" - SENTIMENTAL
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays
+[29587fe40f6bd85fc757cc2d] 7566 (^help): What do I say?
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^say hi
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: im gay ]
+[4dac11170369521818b3eecf] Hri7566: ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: cool xd
+[4dac11170369521818b3eecf] Hri7566: ^say ^say ^say ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say^say^say^say^say^say^say^say^say^say^say^say^say
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say^say^say^say^say^say^say^say^say^say
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say^say^say^say^say^say^say^say^say
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say^say^say^say^say^say^say^say^say^say
+[4dac11170369521818b3eecf] Hri7566: dumb bastard
+[4dac11170369521818b3eecf] Hri7566: js
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say^say^say^say^say^say^say^say
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^say hello
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say^say^say^say
+[4dac11170369521818b3eecf] Hri7566: jk
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say^say
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^sudo yeet
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[4dac11170369521818b3eecf] Hri7566: omfg
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: &FTRGYUHJINMHBGVFCDRXES
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: STAHP
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Hi!
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: STAHP
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: hu
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: hi*
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: STAHP IT
+[8ab89bf2447486172314356a] Anonymous: ^js i=1; x = setInterval(() => { move(i+=1,i+=1); i > 100 ? ( clearInterval(x), move(50,50) ) : true }, 60);
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Console: [object Object]
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^say Drako + Drako = ???
+[4dac11170369521818b3eecf] Hri7566: THERE
+[4dac11170369521818b3eecf] Hri7566: IS
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[4dac11170369521818b3eecf] Hri7566: NO
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: DID I BROKE IT
+[4dac11170369521818b3eecf] Hri7566: ^SAY
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: wtf
+[4dac11170369521818b3eecf] Hri7566: AVAILABLE
+[4dac11170369521818b3eecf] Hri7566: TO
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: oh
+[4dac11170369521818b3eecf] Hri7566: YOU
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: golly
+[8ab89bf2447486172314356a] Anonymous: no i broke it
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: its
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say
+[8ab89bf2447486172314356a] Anonymous: on accident
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: cas
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: again
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: WTF
+[4dac11170369521818b3eecf] Hri7566: ^say only works for me
+[29587fe40f6bd85fc757cc2d] 7566 (^help): only works for me
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: DID I BROKE IT
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ??
+[4dac11170369521818b3eecf] Hri7566: NO
+[4dac11170369521818b3eecf] Hri7566: YOU
+[4dac11170369521818b3eecf] Hri7566: DID
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: IM GOING EMOTIONAL
+[4dac11170369521818b3eecf] Hri7566: NOT
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (THrows a JEllo wall at Grey)
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: WTF
+[4dac11170369521818b3eecf] Hri7566: BREAK
+[4dac11170369521818b3eecf] Hri7566: IT
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *doges*
+[4dac11170369521818b3eecf] Hri7566: ^SAY IS ADMIN ONLY
+[29587fe40f6bd85fc757cc2d] 7566 (^help): IS ADMIN ONLY
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (oh xd)
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XD
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^Help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur (Warning: ^rur Russi)
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: YAY}
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Currently, there are no intentions for a music-playing script.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): If you would like to see what it does, type '^help' into the chat field.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^quote
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "He who enjoys doing and enjoys what he has done is happy." - Johann Wolfgang von Goethe
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (greys HP Cloooapes in to it's Self!)
+[4dac11170369521818b3eecf] Hri7566: wtf
+[4dac11170369521818b3eecf] Hri7566: Okay
+[4dac11170369521818b3eecf] Hri7566: I
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XD
+[4dac11170369521818b3eecf] Hri7566: I need to fix the delay
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *fails*
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur (Warning: ^rur Russi)
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (no)
+[4dac11170369521818b3eecf] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Currently, there are no intentions for a music-playing script.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): If you would like to see what it does, type '^help' into the chat field.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *has infinie hp*
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^rur
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL, you lived.
+[4dac11170369521818b3eecf] Hri7566: STOP
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat gray
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw ate 'gray'. It was quite dry.
+[4dac11170369521818b3eecf] Hri7566: ^about
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Currently, there are no intentions for a music-playing script.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^rur
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL, you lived.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^simonsays im gay
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "im gay" - SENTIMENTAL
+[4dac11170369521818b3eecf] Hri7566: IT WON'T DISPLAY THE WHOLE THING IF YOU KEEP USING IT
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^rur
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Grey/explorer/neko/fast/weak died playing Russian Roulette
+[4dac11170369521818b3eecf] Hri7566: ^about
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^scan
+[29587fe40f6bd85fc757cc2d] 7566 (^help): This chat bot was made by Hri7566.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Currently, there are no intentions for a music-playing script.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): If you would like to see what it does, type '^help' into the chat field.
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Many thanks to Karl Marx, Karma, Hue/Man, BopBot, Raven, and many others. RIP MarxBot, may you be remembered forever.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^rur
+[4dac11170369521818b3eecf] Hri7566: there
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat Grey Away
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[4dac11170369521818b3eecf] Hri7566: Oh
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^eat
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL eats a loaded sweet potato. It was uncooked.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^scan
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^admin
+[4dac11170369521818b3eecf] Hri7566: ^mysql run
+[29587fe40f6bd85fc757cc2d] 7566 (^help): User search enabled; all users will now be recorded in the database.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^say
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^user
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat Popcorn With butter
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw ate 'Popcorn With butter'. It was mediocre.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: \
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ^kill cas
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Grey/explorer/neko/fast/weak kills Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw with a box. How? Who knows.
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: ^eat dick
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SENTIMENTAL ate 'dick'. It tasted like chicken.
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: i ate the bowl of popcorn0
+[4dac11170369521818b3eecf] Hri7566: ^rank
+[c7025263bce6f40b2c4597ab] SENTIMENTAL: XDD '
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Ranks are divided into two sections: Kings and Peasents. Hri7566, your rank is Kings.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: Banned SENTIMENTAL from the channel for 30 minutes.
+[4dac11170369521818b3eecf] Hri7566: I'm bringing ranks back
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat Elmo
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw ate 'Elmo'. It tasted bland.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: xd
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)*
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat GOD
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw eats a loaf of bread. It reminded them of their mothers cooking.
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat god
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw eats a bin of mozzarella sticks. It was far too salty.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *stabs cas with instant kill knife no fail and no dodge*
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat The kinfe)
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw ate 'The kinfe)'. It was a bit tart.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: I ATE THE KINFE!
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: ur ded
+[4dac11170369521818b3eecf] Hri7566: Drako, should I make an RP bot?
+[4dac11170369521818b3eecf] Hri7566: LIke, give everyone health and shit?
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: it kills what ever the tip touches
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Cas: (inhales Gery)
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *doges*
+[4dac11170369521818b3eecf] Hri7566: *dodges
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: m8 i will drown you with  yo-yo's
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[8ab89bf2447486172314356a] Anonymous: huh
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (Fails !?!?!?!)
+[8ab89bf2447486172314356a] Anonymous: ew rp bot
+[8ab89bf2447486172314356a] Anonymous: jk
+[4dac11170369521818b3eecf] Hri7566: lmao
+[8ab89bf2447486172314356a] Anonymous: just make an rpg bot
+[4dac11170369521818b3eecf] Hri7566: But like
+[4dac11170369521818b3eecf] Hri7566: Yeah
+[8ab89bf2447486172314356a] Anonymous: text based game bot
+[4dac11170369521818b3eecf] Hri7566: A lord of the rings-esque bot
+[8ab89bf2447486172314356a] Anonymous: make an ascii game bot lmao
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *drowns cas with yo-yo's*
+[8ab89bf2447486172314356a] Anonymous: somehow
+[4dac11170369521818b3eecf] Hri7566: Or...
+[4dac11170369521818b3eecf] Hri7566: Hmm
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[8ab89bf2447486172314356a] Anonymous: get that grapher thing with proxies
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (inhales the Yo-yos)
+[4dac11170369521818b3eecf] Hri7566: COLOSSAL CAVE ADVENTURE
+[4dac11170369521818b3eecf] Hri7566: From Apple ][
+[8ab89bf2447486172314356a] Anonymous: and make it display a game instead
+[8ab89bf2447486172314356a] Anonymous: so u can play games while in mpp
+[8ab89bf2447486172314356a] Anonymous: lmao
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *the yo-yo's make cas sick and cas dies of sickness*
+[8ab89bf2447486172314356a] Anonymous: using the name tags and cursors
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (i Can't die)
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: menether
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: *sees Grey drowning Cas whth yo-yos* (xd)
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: niether*
+[4dac11170369521818b3eecf] Hri7566: I added ids to the log so I can see which anonymous is which
+[8ab89bf2447486172314356a] Anonymous: ye
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: YEEET- aw man
+[8ab89bf2447486172314356a] Anonymous: did u add the user search yet
+[4dac11170369521818b3eecf] Hri7566: I need to learn sql
+[4dac11170369521818b3eecf] Hri7566: WAIT
+[4dac11170369521818b3eecf] Hri7566: Do you  have a welcome script?
+[4dac11170369521818b3eecf] Hri7566: LIke
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat Kriby
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw ate 'Kriby'. It was freezer burnt.
+[0a0f3dafaf29749e96b236df] Grey/explorer/neko/fast/weak: *dissappers*
+[4dac11170369521818b3eecf] Hri7566: When someone enters the room it says something?
+[4dac11170369521818b3eecf] Hri7566: All I need is the entering the room part
+[4dac11170369521818b3eecf] Hri7566: I forgot how to do it
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: *meows at Cas*
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[0a0f3dafaf29749e96b236df] ?????: *black figure appears out of nowhere*
+[8ab89bf2447486172314356a] Anonymous: oh
+[8ab89bf2447486172314356a] Anonymous: well
+[8ab89bf2447486172314356a] Anonymous: i could get it
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (inhales ?????)
+[4dac11170369521818b3eecf] Hri7566: pl0x
+[0a0f3dafaf29749e96b236df] ?????: *summons a sword*
+[0a0f3dafaf29749e96b236df] ?????: (is not effected by cas at all)
+[4dac11170369521818b3eecf] Hri7566: I tried to look on pastebin but the page kept crashing
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (inhales the Srowd)
+[0a0f3dafaf29749e96b236df] ?????: (is not effected by cas at all)
+[0a0f3dafaf29749e96b236df] ?????: (ban the annouyance for 60 min pls)
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Hello
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: Banned Anonymous from the channel for 60 minutes.
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (brb)
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: supp
+[0a0f3dafaf29749e96b236df] ?????: (no cas)
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Y E E E
+[0a0f3dafaf29749e96b236df] ?????: *ree*
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ^eat KFC and Masted Potatos with Milk)
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw ate 'KFC and Masted Potatos with Milk)'. It was far too salty.
+[4dac11170369521818b3eecf] Hri7566: drako
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: i dont want to go to sleep QwQ
+[4dac11170369521818b3eecf] Hri7566: did you just ban
+[4dac11170369521818b3eecf] Hri7566: vincent?
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Oof
+[0a0f3dafaf29749e96b236df] ?????: danmit
+[0a0f3dafaf29749e96b236df] ?????: i said cas
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (back)
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: *pats chara on the head* pat pat
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: mew :3
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Hi Chara!
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Lol
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: heya
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Cas: i Zate Kriby :)
+[4dac11170369521818b3eecf] Hri7566: drako
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: ate)
+[4dac11170369521818b3eecf] Hri7566: why
+[0a0f3dafaf29749e96b236df] ?????: (ban cas i said)
+[4dac11170369521818b3eecf] Hri7566: did you ban
+[4dac11170369521818b3eecf] Hri7566: vincent
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (bc)
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (inhales ????? and Drako)
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: :I
+[e04740f3aec998784fff8c96] ⚠️ [/cmds]: its ok im back
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: *tps to Chara*
+[0a0f3dafaf29749e96b236df] ?????: (ban fliping cas for 60 min)
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: mew "hi"
+[e04740f3aec998784fff8c96] ⚠️ [/cmds]: im using a vpn and idk why its name is cmds oh no
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (inhales !)
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Mew
+[e04740f3aec998784fff8c96] Anonymous: better
+[e04740f3aec998784fff8c96] Anonymous: im still looking for the code
+[e04740f3aec998784fff8c96] Anonymous: for u
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: /say ERROR
+[4dac11170369521818b3eecf] Hri7566: okay
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: oh)
+[0a0f3dafaf29749e96b236df] ?????: D R A K O)
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: [hugs Sans] hug :3
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Chara vs Sans Vs cas!)
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: *hugs back*
+[4dac11170369521818b3eecf] Hri7566: i'm not gonna king you in case someone else is on your id
+[0a0f3dafaf29749e96b236df] ?????: f it bye
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (can't ban Cas)
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (xd)
+[0a0f3dafaf29749e96b236df] ?????: ( y)
+[e04740f3aec998784fff8c96] Anonymous: ye i wouldnt recomment it
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (bc)
+[e04740f3aec998784fff8c96] Anonymous: recommend
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Cas: Chara and Sans Let's Fight!
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: (i'm not xd)
+[e04740f3aec998784fff8c96] Anonymous: client.ppl["someones id here"]._id
+[e04740f3aec998784fff8c96] Anonymous: try this im just curious
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: noo -_-
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: no fight
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Yes :)
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: no
+[4dac11170369521818b3eecf] Hri7566: now?
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: -_-
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Yeah no fight
+[4dac11170369521818b3eecf] Hri7566: ^js client.ppl["b7da9885395d4021128817e3"]._id
+[29587fe40f6bd85fc757cc2d] 7566 (^help): TypeError: Cannot read property '_id' of undefined.
+[4dac11170369521818b3eecf] Hri7566: oh
+[0a0f3dafaf29749e96b236df] ?????: kill me im suffering because of some fliping barriar
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (gives Chara and Sans 100 Life firut)
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Cas: it Heals Max and gives you 5+ Hp!
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: ? it will make me try harder to kill myselff
+[0a0f3dafaf29749e96b236df] ?????: inside of a giant cave in a moutain
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: WAAAAAAAAAAAA
+[e04740f3aec998784fff8c96] Anonymous: hm
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: NO KILLING URSELF CHARA
+[0a0f3dafaf29749e96b236df] ?????: and im a plant
+[0a0f3dafaf29749e96b236df] Flowey: well im flowey
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: why not?? QwQ
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: (throws a Roku at Sans)
+[0a0f3dafaf29749e96b236df] Flowey: howdy
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: hi Flowey!
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Because i dont want u to die ;w;
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: hmm hey F-
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Wait wut
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: oh sorry
+[0a0f3dafaf29749e96b236df] Flowey: i am bored
+[4dac11170369521818b3eecf] Hri7566: It was something like MPP.client.on(MPP.client.ppl(participantAdded());
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: hmm Flowey?
+[0a0f3dafaf29749e96b236df] Flowey: why is there a orange button that says "reset"?
+[0a0f3dafaf29749e96b236df] Flowey: im not pressing it
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: its mine -_-
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Sans you Will have 501 Hp after Using all of the Life fruit
+[0a0f3dafaf29749e96b236df] Flowey: yes?
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: same with tha erase (=
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Not mine either
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Chara it is urs
+[74a55a691950fd1deb2715ee] Cas|Boy|199Hp/99HP|Age 8|Choasful/God Pw: Chara, What's your HP?
+[0a0f3dafaf29749e96b236df] Flowey: what do you want
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: 99/99 as LV20
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: do u have 6 souls right?
+[e04740f3aec998784fff8c96] Anonymous: wanna go to another room hri
+[e04740f3aec998784fff8c96] Anonymous: or
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Chara if i was normal sans would u kill me?
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: ? NEVER
+[184a3cd9d32a75139c4ec12a] Drako the cat(^w^)|11|boy|mood:bored|: //lv:10|HP:100/100\\ (xd)
+[db571c12dca5ab0f88b8931d] 🔪Chara🍫: better erasee
+[4dac11170369521818b3eecf] Hri7566: sure
+[6734a741f214513eea67759b] NEKO SANS/HUMAN: Oki good *hugs her*
+[4dac11170369521818b3eecf] Hri7566: ^goto 7566 (^help)
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Moving to room: "7566 (^help)"
+[4dac11170369521818b3eecf] Hri7566: ^bg #000000
+[8ab89bf2447486172314356a] Anonymous: aight
+[8ab89bf2447486172314356a] Anonymous: ^js  chat("Client: " + part.name + " Joined! | ID: " + part._id);
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ReferenceError: part is not defined.
+[8ab89bf2447486172314356a] Anonymous: ok
+[4dac11170369521818b3eecf] Hri7566: var part = client.findParticipantById(msg.id);
+[4dac11170369521818b3eecf] Hri7566: is that what you need?
+[4dac11170369521818b3eecf] Hri7566: lmao no
+[8ab89bf2447486172314356a] Anonymous: no
+[4dac11170369521818b3eecf] Hri7566: let part = getPart(argcat);
+[4dac11170369521818b3eecf] Hri7566: people use part for so many things
+[8ab89bf2447486172314356a] Anonymous: ^js var name = msg.p.name; var part = gClient.ppl[id]; chat("Client: " + part.name + " Joined! | ID: " + part._id);
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ReferenceError: gClient is not defined.
+[8ab89bf2447486172314356a] Anonymous: ^js var name = msg.p.name; var part = gClient.ppl[id]; var gClient = new Client("ws://" + window.location.hostname + ":443"); chat("Client: " + part.name + " Joined! | ID: " + part._id);
+[29587fe40f6bd85fc757cc2d] 7566 (^help): TypeError: Cannot read property 'ppl' of undefined.
+[4dac11170369521818b3eecf] Hri7566: MPP.client.on("participant added", function (p) { }
+[4dac11170369521818b3eecf] Hri7566: apparently
+[8ab89bf2447486172314356a] Anonymous: i saw that but
+[8ab89bf2447486172314356a] Anonymous: it didnt seem to do much idk
+[4dac11170369521818b3eecf] Hri7566: reload
+[4dac11170369521818b3eecf] Hri7566: i want to see if it works
+[4dac11170369521818b3eecf] Hri7566: it works
+[4dac11170369521818b3eecf] Hri7566: another user joined
+[4dac11170369521818b3eecf] Hri7566: Now I need to prevent a user from getting logged twice
+[4dac11170369521818b3eecf] Hri7566: You're able to query and use the data, right?
+[8ab89bf2447486172314356a] Anonymous: ?
+[8ab89bf2447486172314356a] Anonymous: idk
+[4dac11170369521818b3eecf] Hri7566: with sql
+[4dac11170369521818b3eecf] Hri7566: So I have this
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Data:
+[8ab89bf2447486172314356a] Anonymous: idk sql so
+[4dac11170369521818b3eecf] Hri7566: There's nothing in the db
+[4dac11170369521818b3eecf] Hri7566: But you should be able to read from the db with split, right?
+[4dac11170369521818b3eecf] Hri7566: Like it's a text file
+[8ab89bf2447486172314356a] Anonymous: ^mysql list
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Data:
+[4dac11170369521818b3eecf] Hri7566: i'm back
+[3c9087710ef62092c72c5c12] *accidentally destroys piano*: lol
+[4dac11170369521818b3eecf] Hri7566: ooh retardo is here
+[3c9087710ef62092c72c5c12] *accidentally destroys piano*: its cmds: the sequel
+[4dac11170369521818b3eecf] Hri7566: I still have sound
+[4dac11170369521818b3eecf] Hri7566: lmao
+[4dac11170369521818b3eecf] Hri7566: I  didn't raise the  quota
+[3c9087710ef62092c72c5c12] *accidentally destroys piano*: its /cmds's little brother
+[4dac11170369521818b3eecf] Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Giving ownership to Hri7566
+[4dac11170369521818b3eecf] Hri7566: More like Sindall's Birthday
+[c44d72379af315387af60ec7] SH6: bruh
+[3c9087710ef62092c72c5c12] *accidentally destroys piano*: who are these bot people
+[c9363a53691fc2d8c7dbc542] Bot 3: >> NMPB++. Welcome! Type .help for commands. 6351 MIDI files registered!
+[c9363a53691fc2d8c7dbc542] Bot 3: Hello, 7566 (^help) (Ferrari Red). I can play music! Type .help for the command list.
+[c9363a53691fc2d8c7dbc542] Bot 3: Hello, Hri7566 (Arsenic). I can play music! Type .help for the command list.
+[c9363a53691fc2d8c7dbc542] Bot 3: Hello, Anonymous (Persian rose). | Type  .new if you're new to the website. | I can play music! Type .help for the command list.
+[4dac11170369521818b3eecf] Hri7566: Okay please don't
+[c9363a53691fc2d8c7dbc542] NMPB++ [523 notes]: Hello, Anonymous (Cherry). | Type  .new if you're new to the website. | I can play music! Type .help for the command list.
+[4dac11170369521818b3eecf] Hri7566: I don't care about them being here, I'm just worried that  it will crash my computer
+[3c9087710ef62092c72c5c12] *accidentally destroys piano*: try getting your bot to autoban people with "bot" in their names
+[8ab89bf2447486172314356a] Anonymous: set it to only owner can play
+[4dac11170369521818b3eecf] Hri7566: i still have to finish  sql and push 4000 git updates
+[8ab89bf2447486172314356a] Anonymous: m
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[48d31da303c1a6e9504fa483] Socket 13: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[48d31da303c1a6e9504fa483] Socket 13: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[48d31da303c1a6e9504fa483] Socket 13: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[48d31da303c1a6e9504fa483] Socket 13: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[d2b05dba4395da843b3ba481] Socket 14: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[d2b05dba4395da843b3ba481] Socket 14: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[d2b05dba4395da843b3ba481] Socket 14: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[d2b05dba4395da843b3ba481] Socket 14: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[4dac11170369521818b3eecf] Hri7566: woah
+[90bd67191918228e190018ca] Socket 15: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[90bd67191918228e190018ca] Socket 15: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[90bd67191918228e190018ca] Socket 15: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[90bd67191918228e190018ca] Socket 15: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] Socket 4: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Socket 5: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Socket 6: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] Socket 8: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[48d31da303c1a6e9504fa483] Socket 13: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[48d31da303c1a6e9504fa483] Socket 13: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[48d31da303c1a6e9504fa483] Socket 13: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] Socket 11: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b774159bbf7cf6be4966e9b6] bruh: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[48d31da303c1a6e9504fa483] Socket 13: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b774159bbf7cf6be4966e9b6] bruh: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b774159bbf7cf6be4966e9b6] bruh: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b774159bbf7cf6be4966e9b6] bruh: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[d2b05dba4395da843b3ba481] Socket 14: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[d2b05dba4395da843b3ba481] Socket 14: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[d2b05dba4395da843b3ba481] Socket 14: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] Socket 1: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Socket 2: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] Socket 7: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[d2b05dba4395da843b3ba481] Socket 14: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] Socket 12: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[4dac11170369521818b3eecf] Hri7566: This is beautiful
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] Socket 3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[4dac11170369521818b3eecf] Hri7566: aww
+[8ab89bf2447486172314356a] Anonymous: lmao
+[4dac11170369521818b3eecf] Hri7566: Everything in chat is in a  txt
+[8ab89bf2447486172314356a] Anonymous: ray is best nmpb
+[4dac11170369521818b3eecf] Hri7566: That was about 209 chat messages
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] HMM!!! SUPERSAM!!: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] HMM!!! SUPERSAM!!: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] HMM!!! SUPERSAM!!: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[b622e2b88325b32947485492] HMM!!! SUPERSAM!!: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[5ae42cff5844373122311ab3] Socket 9: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[f3b5e475b8639b4bf90fb893] LemonmAN: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c9363a53691fc2d8c7dbc542] Squidward: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[de3aba7e83d6c240b87ed3d1] ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1e5db9a531cd69609ba6faca] no u: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[c632048817345ba6dfa4de12] FORTNITEMAN29: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] <3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] <3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] <3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[1d12690f1f42a3e598918b38] <3: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[9a4de446b8d6a8b2808a3abc] Fornite_Ninja_44: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[584bf5d64f13b01817f41def] Headphone Jack Revival Company: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[047d634bc7eacfe2e6a68387] DONT DO IT FOR THE VINE: Hey, NMPB (Ray890), you have one minute to stop being an NMPB faker. Otherwise you will be banned.
+[4dac11170369521818b3eecf] Hri7566: God dammit you're lagging my editor
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[478a892b784e6992a4be62c4] Ten-TAN-cleman: hi my name is Ten-TAN-cleman, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[478a892b784e6992a4be62c4] Ten-TAN-cleman: hi my name is Ten-TAN-cleman, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[478a892b784e6992a4be62c4] Ten-TAN-cleman: hi my name is Ten-TAN-cleman, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[478a892b784e6992a4be62c4] Ten-TAN-cleman: hi my name is Ten-TAN-cleman, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[584bf5d64f13b01817f41def] Guest646160: hi my name is Guest646160, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[1e5db9a531cd69609ba6faca] FORNITE: hi my name is FORNITE, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[de3aba7e83d6c240b87ed3d1] pianoman: hi my name is pianoman, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[c9363a53691fc2d8c7dbc542] JOHN DOE: hi my name is JOHN DOE, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[d2b05dba4395da843b3ba481] 69: hi my name is 69, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[b622e2b88325b32947485492] FORNITE: hi my name is FORNITE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[f3b5e475b8639b4bf90fb893] DONT DO IT FOR THE VINE: hi my name is DONT DO IT FOR THE VINE, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[047d634bc7eacfe2e6a68387] dumb moron: hi my name is dumb moron, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[9a4de446b8d6a8b2808a3abc] Parody.com: hi my name is Parody.com, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[1d12690f1f42a3e598918b38] Minecraft is better the Fortnite: hi my name is Minecraft is better the Fortnite, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[90bd67191918228e190018ca] Bob's Computer Company: hi my name is Bob's Computer Company, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[ad0dedd4d817245f05644c90] SUPERSAMMAN YT: hi my name is SUPERSAMMAN YT, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[5ae42cff5844373122311ab3] Socket 9: hi my name is coca-cola, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[48d31da303c1a6e9504fa483] :3: hi my name is :3, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[c632048817345ba6dfa4de12] EW: hi my name is EW, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[b774159bbf7cf6be4966e9b6] Headphone Jack Revival Company: hi my name is Headphone Jack Revival Company, welcome to heaven!
+[478a892b784e6992a4be62c4] Ten-TAN-cleman: hi my name is Ten-TAN-cleman, welcome to heaven!
+[478a892b784e6992a4be62c4] Ten-TAN-cleman: hi my name is Ten-TAN-cleman, welcome to heaven!
+[478a892b784e6992a4be62c4] Ten-TAN-cleman: hi my name is Ten-TAN-cleman, welcome to heaven!
+[478a892b784e6992a4be62c4] Ten-TAN-cleman: hi my name is Ten-TAN-cleman, welcome to heaven!
+[4dac11170369521818b3eecf] Hri7566: oof blobek jokes
+[a3cd87d2a1b92665a5062277] CARMA☩male☩: Are you fucking autistic, Alpha???
+[4dac11170369521818b3eecf] Hri7566: ^js name
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Console: 7566 (^help)
+[de22de445eb02fbf18507f7c] Alpha of the dark night ghost wolfs: WELL YOU WOULD NOT UNDER SATND YOUR A PUSSY
+[4dac11170369521818b3eecf] Hri7566: OH
+[3c9087710ef62092c72c5c12] Gayro: i poo
+[c629dec0b652f86a8c31a160] Taylor~Chan: Can we get a 10-minute for this gibberish-speaking frick?
+[4dac11170369521818b3eecf] Hri7566: I know
+[4dac11170369521818b3eecf] Hri7566: because I'm retarded
+[3c9087710ef62092c72c5c12] Gayro: person below is a poop
+[a3cd87d2a1b92665a5062277] CARMA☩male☩: Hahahahahaha.
+[4dac11170369521818b3eecf] Hri7566: I  used the same variable twice
+[3c9087710ef62092c72c5c12] Gayro: oh no
+[3c9087710ef62092c72c5c12] Gayro: karma poo
+[c629dec0b652f86a8c31a160] Taylor~Chan: RIP
+[a3cd87d2a1b92665a5062277] CARMA☩male☩: Carma*
+[4dac11170369521818b3eecf] Hri7566: ^js userSearch
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Console: true
+[4dac11170369521818b3eecf] Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Giving ownership to Hri7566
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Data:
+[4dac11170369521818b3eecf] Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Giving ownership to Hri7566
+[4dac11170369521818b3eecf] Hri7566: ^crown
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Giving ownership to Hri7566
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Data:
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[4dac11170369521818b3eecf] Hri7566: ^mysql results
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Data:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Data:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[4dac11170369521818b3eecf] Hri7566: ^js result
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ReferenceError: result is not defined.
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[4dac11170369521818b3eecf] Hri7566: ?
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[4dac11170369521818b3eecf] Hri7566: ^mysql
+[29587fe40f6bd85fc757cc2d] 7566 (^help): MySQL Commands: list / run
+[4dac11170369521818b3eecf] Hri7566: ^mysql list
+[8ab89bf2447486172314356a] Anonymous: ^mysql list / run
+[4dac11170369521818b3eecf] Hri7566: ^js con.query('SELECT * FROM userlist', (err,result) => {                                 if(err) throw err;                                  chat("Data:" + result);                             });                             break;
+[29587fe40f6bd85fc757cc2d] 7566 (^help): SyntaxError: Illegal break statement.
+[4dac11170369521818b3eecf] Hri7566: con.query('SELECT * FROM userlist', (err,result) => {                                 if(err) throw err;                                  chat("Data:" + result);                             });
+[4dac11170369521818b3eecf] Hri7566: FUCK ME
+[4dac11170369521818b3eecf] Hri7566: ^js con.query('SELECT * FROM userlist', (err,result) => {                                 if(err) throw err;                                  chat("Data:" + result);                             });
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Console: [object Object]
+[4dac11170369521818b3eecf] Hri7566: It does that
+[4dac11170369521818b3eecf] Hri7566: instead?
+[4dac11170369521818b3eecf] Hri7566: Okay vs code fucking hates me now
+[4dac11170369521818b3eecf] Hri7566: It's not saving
+[4dac11170369521818b3eecf] Hri7566: UNUS ANNUS
+[4dac11170369521818b3eecf] Hri7566: UNUS ANNUS
+[8ab89bf2447486172314356a] Anonymous: ^mysql list
+[170c83a5e8f1bdafc11a936f] Hri7566: ^id
+[29587fe40f6bd85fc757cc2d] 7566 (^help): 170c83a5e8f1bdafc11a936f
+[170c83a5e8f1bdafc11a936f] Hri7566: ^rank
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Ranks are divided into two sections: Kings and Peasents. Hri7566, your rank is Peasents.
+[170c83a5e8f1bdafc11a936f] Hri7566: fuck
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Ah, yes.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Eggs.
+[170c83a5e8f1bdafc11a936f] Hri7566: I can't get the file to save
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Ah.
+[170c83a5e8f1bdafc11a936f] Hri7566: But I have a chat log now
+[170c83a5e8f1bdafc11a936f] Hri7566: And some other good stuff
+[170c83a5e8f1bdafc11a936f] Hri7566: ^rank
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Ranks are divided into two sections: Kings and Peasents. Hri7566, your rank is Kings.
+[170c83a5e8f1bdafc11a936f] Hri7566: Also, I'm bringing ranks back
+[170c83a5e8f1bdafc11a936f] Hri7566: ^help
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur (Warning: ^rur Russi)
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Woah.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Ranks.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: RANKS.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: WOAH.
+[170c83a5e8f1bdafc11a936f] Hri7566: Nothing else in there, erally
+[170c83a5e8f1bdafc11a936f] Hri7566: really
+[170c83a5e8f1bdafc11a936f] Hri7566: frick
+[170c83a5e8f1bdafc11a936f] Hri7566: But
+[170c83a5e8f1bdafc11a936f] Hri7566: I tried sql
+[170c83a5e8f1bdafc11a936f] Hri7566: ^mysql run
+[29587fe40f6bd85fc757cc2d] 7566 (^help): User search enabled; all users will now be recorded in the database.
+[170c83a5e8f1bdafc11a936f] Hri7566: Doesn't actually work
+[170c83a5e8f1bdafc11a936f] Hri7566: Actually
+[170c83a5e8f1bdafc11a936f] Hri7566: It does, but it won't list
+[170c83a5e8f1bdafc11a936f] Hri7566: ^mysql list
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Oh.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: I see.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: You are much wise, sir.
+[170c83a5e8f1bdafc11a936f] Hri7566: Also
+[170c83a5e8f1bdafc11a936f] Hri7566: ^cursor
+[29587fe40f6bd85fc757cc2d] 7566 (^help): Cursor modes: none / dvd / crazy
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: What is such.
+[170c83a5e8f1bdafc11a936f] Hri7566: Not that much, but it will get better
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Ohohoh.
+[170c83a5e8f1bdafc11a936f] Hri7566: I tried to recreate broombot, but I failed
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Oh. The one that was dusting around side to side?
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: I love that guy.
+[170c83a5e8f1bdafc11a936f] Hri7566: YEah
+[170c83a5e8f1bdafc11a936f] Hri7566: Also, I can see everything in chat from the console
+[170c83a5e8f1bdafc11a936f] Hri7566: [170c83a5e8f1bdafc11a936f] Hri7566: Also, I can see everything in chat from the console
+[170c83a5e8f1bdafc11a936f] Hri7566: That's what I see
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Oh.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: OH. From this room?
+[170c83a5e8f1bdafc11a936f] Hri7566: Yeah
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Oh.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: I see.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: You are teaching quite a lot. Thank you, sir. I must note this.
+[170c83a5e8f1bdafc11a936f] Hri7566: I am recording users and their ids in the database, but I have  no way to get data out of the database
+[170c83a5e8f1bdafc11a936f] Hri7566: And ^panic kills it
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Oh.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Wait. So you want to stalk users that enter this room.
+[170c83a5e8f1bdafc11a936f] Hri7566: I am now up to 1102 lines of code, and I'm  starting to be recognized
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: WOAH.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: GOOD JOB, SIR.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Recognized by what.
+[170c83a5e8f1bdafc11a936f] Hri7566: Other members of the  community
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Ah.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: OH.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: GOOD JOB.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: But, WHY DIDN'T THEY RECOGNIZE YOU BEFORE.
+[170c83a5e8f1bdafc11a936f] Hri7566: I mean I'm getting recognized more
+[c629dec0b652f86a8c31a160] ឵: Nice.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Woahoho.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: That is good, sir. Hahaha. Such proud.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Sorry I have been responding slowly.
+[170c83a5e8f1bdafc11a936f] Hri7566: It's fine
+[170c83a5e8f1bdafc11a936f] Hri7566: Oh, hi taylor
+[c629dec0b652f86a8c31a160] ឵: Hi
+[c629dec0b652f86a8c31a160] ឵: *Name
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: These people have names...
+[c629dec0b652f86a8c31a160] Taylor~Chan: Wait a sec
+[c629dec0b652f86a8c31a160] Taylor~Chan: Is that really you Karma?
+[170c83a5e8f1bdafc11a936f] Hri7566: Yes, it's Karma
+[c629dec0b652f86a8c31a160] Taylor~Chan: Whoa
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Woahoho.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Yes.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: It is me.
+[c629dec0b652f86a8c31a160] Taylor~Chan: Wow
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Am I being banned from MPP, like I was apparently supposed to be a couple years ago.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Are you here to initiate law.
+[c629dec0b652f86a8c31a160] Taylor~Chan: No.
+[c629dec0b652f86a8c31a160] Taylor~Chan: I'm here to welcome you back.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Oh.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Welcome me back?
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: I have never left.
+[c629dec0b652f86a8c31a160] Taylor~Chan: I know
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Woahoho.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Have we met back then.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: With a different name.
+[c629dec0b652f86a8c31a160] Taylor~Chan: Possibly.
+[170c83a5e8f1bdafc11a936f] Hri7566: ^quote
+[29587fe40f6bd85fc757cc2d] 7566 (^help): "To conquer fear is the beginning of wisdom." - Bertrand Russell
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Woahoho.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Possibly.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Do you not know.
+[c629dec0b652f86a8c31a160] Taylor~Chan: Oh, I know
+[c629dec0b652f86a8c31a160] Taylor~Chan: I just don't like talking about a while back.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Ohoho.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Ah. I shall note it then.
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: Sorry for asking. I was curious.
+[c629dec0b652f86a8c31a160] Taylor~Chan: It's chill
+[4095db71ba743d3e3da00f4a] KARMA☩male☩: I am getting sleepy from these movements. This is more satisfying than ASMR.

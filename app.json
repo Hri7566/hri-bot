@@ -2,8 +2,7 @@
   "environments": {
     "test": {
       "scripts": {
-        "test-setup": "gem install rubocop",
-        "test": "rubocop ."
+        "user": "node user.js"
       }
     }
   }
