@@ -2883,3 +2883,5 @@ Hri7566: ^crown
 [afd9ff9cea0d3af57e0cc313] Wolfy: I know why cmds don't work
 [afd9ff9cea0d3af57e0cc313] Wolfy: Bc my ip changed
 [afd9ff9cea0d3af57e0cc313] Wolfy: and i disabled cmds
+[8da283c3cf82e722513b106d] Hri7566: asdfasdfasdfasdfasdf
+[8da283c3cf82e722513b106d] Hri7566: It's fine now
