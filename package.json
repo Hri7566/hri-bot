@@ -1,0 +1,27 @@
+{
+  "name": "hri-bot",
+  "version": "1.0.0",
+  "description": "The old repo had a broken file with corrupted encoding, made a new one",
+  "main": "Index.js",
+  "dependencies": {
+    "https-proxy-agent": "^2.2.1",
+    "mathjs": "^6.2.3",
+    "mysql": "^2.17.1",
+    "ws": "^6.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hri7566/hri-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hri7566/hri-bot/issues"
+  },
+  "homepage": "https://github.com/hri7566/hri-bot#readme"
+}
