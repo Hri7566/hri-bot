@@ -153,7 +153,7 @@ client.on('a', msg => {
     if (toggle == 1) {
     switch (cmd) {
         case "^help":
-            chat("Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur (Warning: ^rur Russi)")
+            chat("Commands: ^help / ^about / ^8ball / ^quote / ^math / ^kill / ^eat / ^rps / ^magicconchshell / ^simonsays / ^rur (Warning: ^rur Russian Roulette will ban you!)")
             break;
         case '^about':
             setTimeout(() => {chat("This chat bot was made by Hri7566.")}, 0);
