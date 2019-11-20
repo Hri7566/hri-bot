@@ -2821,3 +2821,65 @@ Hri7566: ^crown
 [29587fe40f6bd85fc757cc2d] 7566 (^help): GitHub: https://github.com/Hri7566/hri-bot
 [afd9ff9cea0d3af57e0cc313] Wolfy: Just make a thing to check for messages the bot sent
 [170c83a5e8f1bdafc11a936f] Hri7566: yesh
+[170c83a5e8f1bdafc11a936f] Hri7566: ^bg #000000 #222222
+[c629dec0b652f86a8c31a160] Taylor~Chan: I have 652 lines in Senpai~Bot now.
+[c629dec0b652f86a8c31a160] Taylor~Chan: I might add the old bot to it too.
+[afd9ff9cea0d3af57e0cc313] Wolfy: I have more than one file
+[170c83a5e8f1bdafc11a936f] Hri7566: I have about 1200 in this one
+[c629dec0b652f86a8c31a160] Taylor~Chan: 852 now
+[afd9ff9cea0d3af57e0cc313] Wolfy: /h
+[170c83a5e8f1bdafc11a936f] Hri7566: ^say ^say ^say ^say ^say ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say ^say ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say ^say
+[29587fe40f6bd85fc757cc2d] 7566 (^help): ^say
+[afd9ff9cea0d3af57e0cc313] Wolfy: aa
+[afd9ff9cea0d3af57e0cc313] Wolfy: Wtf ffff
+[170c83a5e8f1bdafc11a936f] Hri7566: lmao
+[c629dec0b652f86a8c31a160] Taylor~Chan: Holy shit that gives me ideas.
+[c629dec0b652f86a8c31a160] Taylor~Chan: ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say
+[c629dec0b652f86a8c31a160] Taylor~Chan: RIP
+[c629dec0b652f86a8c31a160] Taylor~Chan: ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say ^say
+[afd9ff9cea0d3af57e0cc313] Wolfy: I would stop
+[afd9ff9cea0d3af57e0cc313] Wolfy: but thats just me
+[afd9ff9cea0d3af57e0cc313] Wolfy: Lmao
+[afd9ff9cea0d3af57e0cc313] Wolfy: /
+[afd9ff9cea0d3af57e0cc313] Wolfy: /h
+[1ff9e1301c1791e9698d4168] NMPB [Proxy 1]: a
+[afd9ff9cea0d3af57e0cc313] Wolfy: a
+[afd9ff9cea0d3af57e0cc313] Wolfy: a
+[afd9ff9cea0d3af57e0cc313] Wolfy: /
+[afd9ff9cea0d3af57e0cc313] Wolfy: /h
+[afd9ff9cea0d3af57e0cc313] Wolfy: >help
+[0ff715417dadd86c47bb0753] NMPB [Proxy 2]: Main Commands: >help (>h) [this command list]
+[497a726927f4620b305666a1] NMPB [Proxy 3]: Fun Commands: >circle >stopcircle >_id >id
+[5eefd7676ad1e5a84557cf07] NMPB [Proxy 4]: Dev Commands: >resetp >join [room] >crown >js >prefix >nmpbprefix >roomcolor (>rc) >welcomemsg [true, false] >ban1 [bans user from bot by _id]
+[afd9ff9cea0d3af57e0cc313] Wolfy: gah
+[afd9ff9cea0d3af57e0cc313] Wolfy: >h
+[b774159bbf7cf6be4966e9b6] NMPB [Proxy 7]: Main Commands: >help (>h) [this command list]
+[5e9fba9c633f97fe02dd9b6a] NMPB [Proxy 8]: Fun Commands: >circle >stopcircle >_id >id
+[af685432f5eebcd3a52f53f0] NMPB [Proxy 9]: Dev Commands: >resetp >join [room] >crown >js >prefix >nmpbprefix >roomcolor (>rc) >welcomemsg [true, false] >ban1 [bans user from bot by _id]
+[5a85d7a3d8830e65135f06c9] NMPB: NMPB Commands: /help (/h) [NMPB Command List. {If NMPB is online. }]
+[afd9ff9cea0d3af57e0cc313] Wolfy: /h
+[afd9ff9cea0d3af57e0cc313] Wolfy: BrUH
+[1ff9e1301c1791e9698d4168] NMPB [Proxy 1]: Use /help [command] for command info.
+[0ff715417dadd86c47bb0753] NMPB [Proxy 2]: Text Commands: /help (/h) /list /search (/s) /title /color /info /about
+[497a726927f4620b305666a1] NMPB [Proxy 3]: Upload a MIDI: /upload (/u)
+[5eefd7676ad1e5a84557cf07] NMPB [Proxy 4]: Sequencer Commands: /auto (/a) /play (/p) /stop /random (/r) /restart (/rr) /set (/pos) /sustain /playnext (/pn) /playprev (/pp)
+[fc6ba10faf3bb9c64bde985e] NMPB [Proxy 5]: No Turns Only Commands: /backwards (/b) /mistakes /tempo (/speed) /inverse (/mirror) /octave (/oct) /echo /transpose (/tp)
+[afd9ff9cea0d3af57e0cc313] Wolfy: /r
+[afd9ff9cea0d3af57e0cc313] Wolfy: :/
+[afd9ff9cea0d3af57e0cc313] Wolfy: not sending huh
+[170c83a5e8f1bdafc11a936f] Hri7566: dpkg: error processing package libc-bin (--configure):  dependency problems - leaving triggers unprocessed Errors were encountered while processing:  locales  libc-bin
+[170c83a5e8f1bdafc11a936f] Hri7566: great
+[afd9ff9cea0d3af57e0cc313] Wolfy: h
+[afd9ff9cea0d3af57e0cc313] Wolfy: oof
+[170c83a5e8f1bdafc11a936f] Hri7566: oh come on i just reloaded
+[afd9ff9cea0d3af57e0cc313] Wolfy: AHH
+[afd9ff9cea0d3af57e0cc313] Wolfy: I know why cmds don't work
+[afd9ff9cea0d3af57e0cc313] Wolfy: Bc my ip changed
+[afd9ff9cea0d3af57e0cc313] Wolfy: and i disabled cmds
