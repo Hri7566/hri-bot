@@ -70,7 +70,8 @@ var Kings = [
     "29587fe40f6bd85fc757cc2d",
     "170c83a5e8f1bdafc11a936f",
     "09743d6dceefb17f1fa8aa2d",
-    "8ab89bf2447486172314356a"
+    "8ab89bf2447486172314356a",
+    "1edbe529529e31a69bb3bcbd"
 ]
 //7863d120dc46276c8ca42a09 emily the crazy lady
 
