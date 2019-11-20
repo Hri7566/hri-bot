@@ -84,7 +84,6 @@ var blacklist = [
 ]
 
 var toggle = 1;
-var isBlocked = (blacklist.indexOf(msg.p._id) !== -1);
 //cursor vars
 var cursorMode = "dvd";
 var pos = {x: Math.random()*100, y: Math.random()*100};
@@ -108,6 +107,7 @@ function removeFromArray(array, value) {
     return array;
 }
 
+
 function getPart(boop) {
     for (const id in client.ppl) {
         let part = client.ppl[id];
@@ -124,6 +124,7 @@ client.on('a', msg => {
     let argcat = msg.a.substring(cmd.length).trim();
     let part = getPart(argcat);
     var isKing = (Kings.indexOf(msg.p._id) !== -1);
+    var isBlocked = (blacklist.indexOf(msg.p._id) !== -1);
     var cursorInvalid =  false;
     cursorMode = "dvd";
     console.log("[" + msg.p._id + "] " + msg.p.name + ": " + msg.a);
