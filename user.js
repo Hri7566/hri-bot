@@ -17,7 +17,7 @@ function setName(string) {
 }
 
 var name = "7566 (^help)";
-var channel = "7566 (^help)";
+var channel = "Drako the cat's room (rp room)";
 
 client.on("hi", () => {
     console.log("Online");
@@ -72,7 +72,7 @@ var Kings = [
     "09743d6dceefb17f1fa8aa2d",
     "8ab89bf2447486172314356a",
     "1edbe529529e31a69bb3bcbd",
-    "6f6afa6b5d1e9746f8af5c46",
+    "8da283c3cf82e722513b106d",
     "c629dec0b652f86a8c31a160"
 ]
 //7863d120dc46276c8ca42a09 emily the crazy lady
