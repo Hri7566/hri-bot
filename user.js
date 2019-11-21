@@ -17,7 +17,7 @@ function setName(string) {
 }
 
 var name = "7566 (^help)";
-var channel = "Drako the cat's room (rp room)";
+var channel = "7566 (^help)";
 
 client.on("hi", () => {
     console.log("Online");
