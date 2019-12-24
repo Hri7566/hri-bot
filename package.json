@@ -6,6 +6,8 @@
   "dependencies": {
     "https-proxy-agent": "^2.2.1",
     "mathjs": "^6.2.3",
+    "midi-player-js": "^2.0.5",
+    "mpp-client-xt": "^1.2.0",
     "mysql": "^2.17.1",
     "ws": "^6.1.4"
   },
