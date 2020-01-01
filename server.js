@@ -148,11 +148,11 @@ client.on('a', msg => {
   var isBlocked = (blacklist.indexOf(msg.p._id) !== -1);
   var cursorInvalid = false;
   console.log("[" + msg.p._id + "] " + msg.p.name + ": " + msg.a);
-  fs.appendFile("log.txt", "[" + msg.p._id + "] " + msg.p.name + ": " + msg.a + "\n", function (err) {
+  /*fs.appendFile("log.txt", "[" + msg.p._id + "] " + msg.p.name + ": " + msg.a + "\n", function (err) {
     if (err) {
       return console.log(err);
     };
-  });
+  */});
   if (cmd == "^toggle") {
     if (isKing) {
       if (toggle == 1) {
