@@ -28,7 +28,7 @@ function setName(string) {
 }
 
 var name = "7566 (^help)";
-var channel = "lobby";
+var channel = "Error_404";
 
 client.on("hi", () => {
   console.log("Online");
@@ -85,7 +85,7 @@ var nametest = setInterval(function() {
 }, 6000);
 
 var Kings = [
-  "1302b42488b9fe59185bef33",
+  "29587fe40f6bd85fc757cc2d",
   "170c83a5e8f1bdafc11a936f",
   "09743d6dceefb17f1fa8aa2d",
   "8ab89bf2447486172314356a",
@@ -152,7 +152,7 @@ client.on('a', msg => {
     if (err) {
       return console.log(err);
     };
-  */});
+  });*/
   if (cmd == "^toggle") {
     if (isKing) {
       if (toggle == 1) {
