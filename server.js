@@ -8,7 +8,7 @@
                                  
 by Hri7566
 
-This bot is a continuation of ✿🌿❤ ๖ۣۜḰᾄʀł☭Ṃᾄʀẋ ❤🌾✿'s MarxBot.
+This bot is a continuation of Karl Marx's MarxBot.
 Discord: Hri7566#3409
 GitHub: https://github.com/Hri7566/hri-bot
 My Website: http://hri7566.tk
@@ -28,7 +28,7 @@ function setName(string) {
 }
 
 var name = "7566 (^help)";
-var channel = "KittyClub^w^";
+var channel = "Error_404";
 
 client.on("hi", () => {
   console.log("Online");
@@ -79,8 +79,12 @@ function chat(string) {
 
 var second = 0;
 
+var nametest = setInterval(function() {
+  second = second + 6;
+  client.sendArray([{ m: 'userset', set: { name: second } }]);
+}, 6000);
+
 var Kings = [
-  "e91e0e55ba7ba6cebb133163",
   "29587fe40f6bd85fc757cc2d",
   "170c83a5e8f1bdafc11a936f",
   "09743d6dceefb17f1fa8aa2d",
@@ -90,8 +94,7 @@ var Kings = [
   "c629dec0b652f86a8c31a160",
   "b8165e5280d46a286797d546",
   "c5e510d90fd7728b8cc11d70",
-  "72238c7ec90c5c246942b3a0",
-  "0dd0472b639bc390eac0913b"
+  "af71adb675b642b09fd84bb4"
 ]
 
 var Nobles = [
@@ -145,13 +148,13 @@ client.on('a', msg => {
   var isBlocked = (blacklist.indexOf(msg.p._id) !== -1);
   var cursorInvalid = false;
   console.log("[" + msg.p._id + "] " + msg.p.name + ": " + msg.a);
-  fs.appendFile("log.txt", "[" + msg.p._id + "] " + msg.p.name + ": " + msg.a + "\n", function (err) {
+  /*fs.appendFile("log.txt", "[" + msg.p._id + "] " + msg.p.name + ": " + msg.a + "\n", function (err) {
     if (err) {
       return console.log(err);
     };
-  });
+  */});
   if (cmd == "^toggle") {
-    if (isKing || isKnight || isNoble) {
+    if (isKing) {
       if (toggle == 1) {
         toggle = 0;
         chat("Chat features disabled");
@@ -165,66 +168,7 @@ client.on('a', msg => {
     if (!isBlocked) {
       switch (cmd) {
         case '^help':
-          if (argcat == "") {
-            chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^8ball | ^magicconchchell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^simonsays | ^rur | ^toggle");
-          } else {
-            switch (argcat) {
-              case 'help':
-                chat("If you need help for this, I'm genuinely surprised");
-                break;
-              case 'about':
-                chat("Learn about the bot.");
-                break;
-              case 'name':
-                chat("Change the name of the bot.");
-                break;
-              case 'id':
-                chat("Lists ONLY YOUR id.");
-                break;
-              case 'goto':
-                chat("Move the bot to another room.");
-                break;
-              case 'cursor':
-                chat("Changes the cursor mode.");
-                break;
-              case '8ball':
-                chat("Acts as a magic 8 ball. Ask it anything!");
-                break;
-              case 'magicconchshell':
-                chat("From SpongeBob. Ask it anything!");
-                break;
-              case 'quote':
-                chat("Picks a random quote for your pleasure.");
-                break;
-              case 'crown':
-                chat("Passes the crown unto your head.");
-                break;
-              case 'kill':
-                chat("Kill someone (or yourself).");
-                break;
-              case 'slap':
-                chat("Slap someone (or yourself).");
-                break;
-              case 'eat':
-                chat("Eat something (or someone).");
-                break;
-              case 'rps':
-                chat("Play rock paper scissors (perferrably with someone).");
-                break;
-              case 'background':
-                chat("Change the color(s) of the background (if the bot has the crown).");
-                break;
-              case 'simonsays':
-                chat("Frame your own quote.");
-                break;
-              case 'rur':
-                chat("WARNING! Russian roulette may ban you (if the bot has the crown)!");
-                break;
-              case 'toggle':
-                chat("Toggle chat commands.");
-                break;
-            }
-          }
+          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^8ball | ^magicconchchell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^simonsays | ^rur");
           break;
         case '^about':
           setTimeout(() => { chat("This is a chat script that was made by Hri7566 and Karl. It runs off of nodejs. This script is a continuation of Karl's MarxBot. Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you. Discord: Hri7566#3409 GitHub: https://github.com/Hri7566/hri-bot Website: http://hri7566.tk") }, 0);
