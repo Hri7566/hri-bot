@@ -28,7 +28,7 @@ function setName(string) {
 }
 
 var name = "7566 (^help)";
-var channel = "Error_404";
+var channel = "lobby";
 
 client.on("hi", () => {
   console.log("Online");
