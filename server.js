@@ -374,7 +374,7 @@ client.on('a', msg => {
         case '^rank':
           chat("Ranks are divided into four classifications: Kings, Nobles, Knights, and Peasants. The Hierarchy is as follows: Kings > Nobles > Knights > Peasants")
           if (isKing) {
-            chat(msg.p.name + "You are a King, " + msg.p.name + ".");
+            chat("You are a King, " + msg.p.name + ".");
           } else if (isNoble) {
             chat("You are a Noble, " + msg.p.name + ".");
           } else if (isKnight) {
