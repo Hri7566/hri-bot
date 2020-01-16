@@ -30,6 +30,7 @@ function setName(string) {
 var name = "7566 (^help)";
 var channel = "lobby";
 
+
 client.on("hi", () => {
   console.log("Online");
 
@@ -85,7 +86,7 @@ var nametest = setInterval(function() {
 }, 6000);
 
 var Kings = [
-  "29587fe40f6bd85fc757cc2d",
+  "4c98a24eb583d58d05d275d9",
   "170c83a5e8f1bdafc11a936f",
   "09743d6dceefb17f1fa8aa2d",
   "8ab89bf2447486172314356a",
@@ -94,7 +95,7 @@ var Kings = [
   "c629dec0b652f86a8c31a160",
   "b8165e5280d46a286797d546",
   "c5e510d90fd7728b8cc11d70",
-  "af71adb675b642b09fd84bb4"
+  "1302b42488b9fe59185bef33"
 ]
 
 var Nobles = [
@@ -371,15 +372,15 @@ client.on('a', msg => {
             process.exit();
           }
         case '^rank':
-          chat("Ranks are divided into four classifications: Kings, Nobles, Knights, and Peasents. The Hierarchy is as follows: Kings > Nobles > Knights > Peasents")
+          chat("Ranks are divided into four classifications: Kings, Nobles, Knights, and Peasants. The Hierarchy is as follows: Kings > Nobles > Knights > Peasants")
           if (isKing) {
-            chat(msg.p.name + ", you are a King.");
+            chat(msg.p.name + "You are a King, " + msg.p.name + ".");
           } else if (isNoble) {
-            chat(msg.p.name + ", you are a Noble.");
+            chat("You are a Noble, " + msg.p.name + ".");
           } else if (isKnight) {
-            chat(msg.p.name + ", you are a Knight.");
+            chat("You are a Knight, " + msg.p.name + ".");
           } else {
-            chat(msg.p.name + ", you are a Peasent.");
+            chat("You are a Peasant, " + msg.p.name + ".");
           }
           break;
         case '^thanos':
