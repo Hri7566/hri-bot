@@ -7,8 +7,11 @@
  /_/     |____/   \___/   \___/  
                                  
 by Hri7566
-This is a script that was made by Hri7566 and Karl. It runs off of nodejs. This bot is a continuation of Karl Marx's MarxBot. Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you. Discord: Hri7566#3409 GitHub: https://github.com/Hri7566/hri-bot Website: http://hri7566.tk
-Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you.
+
+This bot is a continuation of ✿🌿❤ ๖ۣۜḰᾄʀł☭Ṃᾄʀẋ ❤🌾✿'s MarxBot.
+Discord: Hri7566#3409
+GitHub: https://github.com/Hri7566/hri-bot
+My Website: http://hri7566.tk
 */
 
 const MPPClient = require('./client.js');
@@ -25,7 +28,7 @@ function setName(string) {
 }
 
 var name = "7566 (^help)";
-var channel = "7566 (^help)";
+var channel = "KittyClub^w^";
 
 client.on("hi", () => {
   console.log("Online");
@@ -74,7 +77,10 @@ function chat(string) {
   client.sendArray([{ m: 'a', message: string }]);
 }
 
+var second = 0;
+
 var Kings = [
+  "e91e0e55ba7ba6cebb133163",
   "29587fe40f6bd85fc757cc2d",
   "170c83a5e8f1bdafc11a936f",
   "09743d6dceefb17f1fa8aa2d",
@@ -84,7 +90,8 @@ var Kings = [
   "c629dec0b652f86a8c31a160",
   "b8165e5280d46a286797d546",
   "c5e510d90fd7728b8cc11d70",
-  "3b97634402781a3ce2cde6ac"
+  "72238c7ec90c5c246942b3a0",
+  "0dd0472b639bc390eac0913b"
 ]
 
 var Nobles = [
@@ -92,7 +99,7 @@ var Nobles = [
 ]
 
 var Knights = [
-  
+  "90b5a0bee7cfc3b32c252e0b"
 ]
 
 var blacklist = [
@@ -144,7 +151,7 @@ client.on('a', msg => {
     };
   });
   if (cmd == "^toggle") {
-    if (isKing) {
+    if (isKing || isKnight || isNoble) {
       if (toggle == 1) {
         toggle = 0;
         chat("Chat features disabled");
@@ -158,10 +165,69 @@ client.on('a', msg => {
     if (!isBlocked) {
       switch (cmd) {
         case '^help':
-          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^8ball | ^magicconchchell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^simonsays | ^say | ^rur");
+          if (argcat == "") {
+            chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^8ball | ^magicconchchell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^simonsays | ^rur | ^toggle");
+          } else {
+            switch (argcat) {
+              case 'help':
+                chat("If you need help for this, I'm genuinely surprised");
+                break;
+              case 'about':
+                chat("Learn about the bot.");
+                break;
+              case 'name':
+                chat("Change the name of the bot.");
+                break;
+              case 'id':
+                chat("Lists ONLY YOUR id.");
+                break;
+              case 'goto':
+                chat("Move the bot to another room.");
+                break;
+              case 'cursor':
+                chat("Changes the cursor mode.");
+                break;
+              case '8ball':
+                chat("Acts as a magic 8 ball. Ask it anything!");
+                break;
+              case 'magicconchshell':
+                chat("From SpongeBob. Ask it anything!");
+                break;
+              case 'quote':
+                chat("Picks a random quote for your pleasure.");
+                break;
+              case 'crown':
+                chat("Passes the crown unto your head.");
+                break;
+              case 'kill':
+                chat("Kill someone (or yourself).");
+                break;
+              case 'slap':
+                chat("Slap someone (or yourself).");
+                break;
+              case 'eat':
+                chat("Eat something (or someone).");
+                break;
+              case 'rps':
+                chat("Play rock paper scissors (perferrably with someone).");
+                break;
+              case 'background':
+                chat("Change the color(s) of the background (if the bot has the crown).");
+                break;
+              case 'simonsays':
+                chat("Frame your own quote.");
+                break;
+              case 'rur':
+                chat("WARNING! Russian roulette may ban you (if the bot has the crown)!");
+                break;
+              case 'toggle':
+                chat("Toggle chat commands.");
+                break;
+            }
+          }
           break;
         case '^about':
-          setTimeout(() => { chat("This is a chat script that was made by Hri7566 and Karl. It runs off of nodejs. This script is a continuation of Karl Marx's MarxBot. Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you. Discord: Hri7566#3409 GitHub: https://github.com/Hri7566/hri-bot Website: http://hri7566.tk") }, 0);
+          setTimeout(() => { chat("This is a chat script that was made by Hri7566 and Karl. It runs off of nodejs. This script is a continuation of Karl's MarxBot. Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you. Discord: Hri7566#3409 GitHub: https://github.com/Hri7566/hri-bot Website: http://hri7566.tk") }, 0);
           break;
         case '^name':
           if (!isKing && !isNoble) {
@@ -223,13 +289,6 @@ client.on('a', msg => {
                 pos.y = 50;
                 break;
               case "tan":
-                cursorMode = "tan";
-                vel.y = 0;
-                vel.x = 5;
-                pos.x = 50;
-                pos.y = 50;
-                break;
-              case "cosine":
                 cursorMode = "tan";
                 vel.y = 0;
                 vel.x = 5;
@@ -348,11 +407,6 @@ client.on('a', msg => {
             chat("\"" + argcat + "\" - " + msg.p.name);
           }
           break;
-        case '^say':
-          if (isKing) {
-            chat(argcat);
-          }
-          break;
         case '^rur':
           var math = Math.random();
           if (math < .167) {
@@ -382,6 +436,45 @@ client.on('a', msg => {
             chat(msg.p.name + ", you are a Knight.");
           } else {
             chat(msg.p.name + ", you are a Peasent.");
+          }
+          break;
+        case '^thanos':
+          chat("Banning half the people in the room...");
+          setTimeout(function() {chat('Just kidding.');}, 2000);
+          break;
+        case '^kings+':
+          if (!isKing) {
+            chat("You do not have permission to use this command.");
+          } else {
+            if (!argcat || argcat == "") {
+              chat("List a user to crown.");
+            } else {
+              Kings.push(argcat);
+            }
+          }
+          break;
+        case '^nobles+':
+          if (!isNoble && !isKing) {
+            chat("You do not have permission to use this command.");
+          }
+          if (isNoble || isKing) {
+            if (!argcat || argcat == "") {
+              chat("List a user to add to Nobles.");
+            } else {
+              Nobles.push(argcat);
+            }
+          }
+          break;
+        case '^knights+':
+          if (!isNoble && !isKing && !isKnight) {
+            chat("You do not have permission to use this command.");
+          }
+          if (isNoble || isKnight || isKing) {
+            if (!argcat) {
+              chat("List a user to add to Knights.");
+            } else {
+              Knights.push(argcat);
+            }
           }
           break;
       }
@@ -475,7 +568,7 @@ client.on("a", function (msg) {
     if (!input) return chat("List a person to kickban. Usage: ^kickban <name>");
     var target = client.ppl[input] || findParticipantByName(input);
     if (!target) return chat("Person not found.");
-    client.sendArray([{ m: "kickban", _id: targit._id, ms: 0 }]);
+    client.sendArray([{ m: "kickban", _id: target._id, ms: 0 }]);
   } else return chat("You can\'t use this command.");
 });
 
@@ -1513,6 +1606,8 @@ client.on('a', (msg) => {
         case "^stop":
           Player.stop();
           break;
+        case "^upload":
+
       }
     }
   }
