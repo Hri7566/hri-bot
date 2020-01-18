@@ -169,7 +169,7 @@ client.on('a', msg => {
     if (!isBlocked) {
       switch (cmd) {
         case '^help':
-          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^simonsays | ^rur");
+          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^magic8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^simonsays | ^rur");
           break;
         case '^about':
           setTimeout(() => { chat("This is a chat script that was made by Hri7566 and Karl. It runs off of nodejs. This script is a continuation of Karl's MarxBot. Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you. Discord: Hri7566#3409 GitHub: https://github.com/Hri7566/hri-bot Website: http://hri7566.tk") }, 0);
@@ -250,6 +250,7 @@ client.on('a', msg => {
             }
           }
           break;
+        case "^magic8ball":
         case "^8ball":
           if (!argcat) {
             chat("You need to ask a question. Usage: ^8ball <question>");
