@@ -18,8 +18,10 @@ const os = require('os');
 const MPPClient = require('./client.js');
 const mysql = require('mysql');
 const hotswap = require('hotswap');
+const LocalStorage = require('node-localstorage').LocalStorage;
+const localStorage = new LocalStorage('./');
 
-client = new MPPClient('ws://www.multiplayerpiano.com', undefined);
+const client = new MPPClient('ws://www.multiplayerpiano.com', undefined);
 
 client.start();
 
@@ -90,26 +92,38 @@ var Kings = [
   "c629dec0b652f86a8c31a160",
   "b8165e5280d46a286797d546",
   "2fe20c974e5b82bf5b6e3600",
-  "5fa0410d44064e3298b02045"
+  "5954d6a20660d902ae9fe1fc"
 ]
+
+KingsJ = JSON.stringify(Kings);
+localStorage.setItem("kings.json", KingsJ);
 
 var Nobles = [
   "70331372befffddad43bd93f"
 ]
 
+NoblesJ = JSON.stringify(Nobles);
+localStorage.setItem("nobles.json", NoblesJ);
+
 var Knights = [
   "90b5a0bee7cfc3b32c252e0b"
 ]
+
+KnightsJ = JSON.stringify(Knights);
+localStorage.setItem("knights.json", KnightsJ);
 
 var blacklist = [
   "d1d35248d9c16f778c8d4b02", // jpdld
   "e20be58574e11739f33ca55a"
 ]
 
+BlacklistJ = JSON.stringify(blacklist);
+localStorage.setItem("blacklist.json", BlacklistJ);
+
 var toggle = 1;
 
 //cursor vars
-var cursorMode = "dvd";
+var cursorMode = "sine2";
 var pos = { x: Math.random() * 100, y: Math.random() * 100 };
 var vel = { x: .01, y: .007 };
 var d = new Date();
@@ -149,9 +163,16 @@ client.on('a', msg => {
       return console.log(err);
     };
   });*/
-  if (args[3] == "7566") {
-    chat("/fish");
+
+  if (msg.p._id !== client.getOwnParticipant()._id) {
+    if (cmd == "++roomcolor") {
+      setTimeout(function() {
+        client.sendArray([{m: 'a', message: "++roomcolor #000000 #000000"}]);
+      }, 8000);
+    }
   }
+
+
   if (cmd == "^toggle") {
     if (isKing) {
       if (toggle == 1) {
@@ -192,6 +213,10 @@ client.on('a', msg => {
         case '^id':
           chat(msg.p._id);
           break;
+        case '^neofetch':
+            fetch = os.release();
+          chat(fetch);
+          break;
         case "^goto":
           if (isKing || isNoble || isKnight) {
             if (argcat.length == 0) {
@@ -204,9 +229,10 @@ client.on('a', msg => {
             chat("You can't use this command.");
           }
           break;
+        case "^cursors":
         case "^cursor":
           if (argcat == "") {
-            chat("Cursor modes: none / dvd / crazy / sine / tan");
+            chat("Cursor modes: none / dvd / crazy / sine / tan / sine2");
           } else {
             isPaused = false;
             switch (argcat) {
@@ -237,13 +263,29 @@ client.on('a', msg => {
                 pos.x = 50;
                 pos.y = 50;
                 break;
+              case "sine2":
+                cursorMode = "sine2";
+                vel.y = 0;
+                vel.x = 5;
+                pos.x = 50;
+                pos.y = 50;
+                break;
+              case "verticalsine":
+              case "vertsine":
+              case "vsine":
+                cursorMode = "vsine"
+                vel.y = 5;
+                vel.x = 0;
+                pos.x = 50;
+                pos.y = 50;
+                break;
               default:
                 chat("Invalid cursor type");
                 cursorInvalid = true;
                 break;
             }
             if (cursorInvalid == false) {
-              chat("Cursor type changed to " + argcat);
+              chat("Cursor type changed to " + argcat + ".");
             }
           }
           break;
@@ -465,9 +507,41 @@ var cusorMath = setInterval(function () {
       if (pos.y < 0) {
         pos.y = 100;
       }
+    } else if (cursorMode = "vsine") {
+      pos.y += vel.y;
+      pos.x = 5 * Math.sin(pos.y / 2) + 50;
+      vel.y = 0.025;
+      if (pos.x > 100) {
+        pos.x = 1;
+      }
+      if (pos.x < 0) {
+        pos.x = 100;
+      }
+      if (pos.y > 100) {
+        pos.y = 1;
+      }
+      if (pos.y < 0) {
+        pos.y = 100;
+      }
     } else if (cursorMode == "tan") {
       pos.x += vel.x / 10;
       pos.y = 5 * Math.tan(pos.x / 2) + 50;
+      vel.x = 0.025;
+      if (pos.x > 100) {
+        pos.x = 1;
+      }
+      if (pos.x < 0) {
+        pos.x = 100;
+      }
+      if (pos.y > 100) {
+        pos.y = 1;
+      }
+      if (pos.y < 0) {
+        pos.y = 100;
+      }
+    } else if (cursorMode = "sine2") {
+      pos.x += vel.x / 10;
+      pos.y = (((Math.sin(pos.x)^63) * Math.sin(pos.x + 1.5)*8)/20)+50;
       vel.x = 0.025;
       if (pos.x > 100) {
         pos.x = 1;
@@ -566,7 +640,7 @@ QuoteArray = [
   '"Education is the most powerful weapon which you can use to change the world." ― Nelson Mandela',
   '"Don\'t cry because it\'s over, smile because it happened." ― Dr. Seuss',
   '"I live by Music on, world off. Music relates to the soul." - Raven',
-  '"You have NO idea how fast my heartbeats when I see you." - Unknown',
+  '"You have NO idea how fast my sine2s when I see you." - Unknown',
   '"I\'m selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can\'t handle me at my worst, then you sure as hell don\'t deserve me at my best."― Marilyn Monroe',
   '"Be yourself; everyone else is already taken." ― Oscar Wilde',
   '"Two things are infinite: the universe and human stupidity; and I\'m not sure about the universe."― Albert Einstein',
