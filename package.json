@@ -4,7 +4,10 @@
   "description": "The old repo had a broken file with corrupted encoding, made a new one",
   "main": "Index.js",
   "dependencies": {
+    "dependencies": "0.0.1",
+    "hotswap": "^1.1.0",
     "https-proxy-agent": "^2.2.1",
+    "levelup": "^4.3.2",
     "mathjs": "^6.2.3",
     "midi-player-js": "^2.0.5",
     "mpp-client-xt": "^1.2.0",
@@ -13,7 +16,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
