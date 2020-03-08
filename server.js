@@ -83,6 +83,7 @@ function chat(string) {
 var second = 0;
 
 var Kings = [
+  "579c0c12480bd4b82edf09d4",
   "4c98a24eb583d58d05d275d9",
   "170c83a5e8f1bdafc11a936f",
   "09743d6dceefb17f1fa8aa2d",
@@ -92,7 +93,8 @@ var Kings = [
   "c629dec0b652f86a8c31a160",
   "b8165e5280d46a286797d546",
   "2fe20c974e5b82bf5b6e3600",
-  "5954d6a20660d902ae9fe1fc"
+  "8eb95f6ded7ddddacf60d2e1",
+  "59a681a2739558beac9a2107"
 ]
 
 KingsJ = JSON.stringify(Kings);
@@ -123,7 +125,7 @@ localStorage.setItem("blacklist.json", BlacklistJ);
 var toggle = 1;
 
 //cursor vars
-var cursorMode = "sine2";
+var cursorMode = "dvd";
 var pos = { x: Math.random() * 100, y: Math.random() * 100 };
 var vel = { x: .01, y: .007 };
 var d = new Date();
@@ -188,7 +190,7 @@ client.on('a', msg => {
     if (!isBlocked) {
       switch (cmd) {
         case '^help':
-          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^magic8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^simonsays | ^rur");
+          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^magic8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^quotemaker | ^rur");
           break;
         case '^about':
           setTimeout(() => { chat("This is a chat script that was made by Hri7566 and Karl. It runs off of nodejs. This script is a continuation of Karl's MarxBot. Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you. Discord: Hri7566#3409 GitHub: https://github.com/Hri7566/hri-bot Website: http://hri7566.tk") }, 0);
@@ -324,7 +326,7 @@ client.on('a', msg => {
             if (!argcat || part._id == msg.p._id) {
               chat(' In the ancient ritual of seppuku, ' + msg.p.name + ' unsheaths their sword and runs it though their stomach.');
             } else if (part) {
-              chat(msg.p.name + ' kills ' + client.ppl[part.id].name + ' with ' + kills[Math.floor(Math.random() * kills.length)] + '. ' + sreason[Math.floor(Math.random() * sreason.length)]);
+              chat("\u034f" + msg.p.name + ' kills ' + client.ppl[part.id].name + ' with ' + kills[Math.floor(Math.random() * kills.length)] + '. ' + sreason[Math.floor(Math.random() * sreason.length)]);
             }
           } catch (e) {
             chat("The user '" + argcat + "' was not found. Try using part of their username.");
@@ -333,9 +335,9 @@ client.on('a', msg => {
         case "^slap":
           try {
             if (!argcat || part._id == msg.p._id) {
-              chat(msg.p.name + ' slaps themselves. Very smart.');
+              chat("\u034f" + msg.p.name + ' slaps themselves. Very smart.');
             } else if (part) {
-              chat(msg.p.name + ' slaps ' + client.ppl[part.id].name + ' with ' + slapitem[Math.floor(Math.random() * slapitem.length)] + '. ' + ureason[Math.floor(Math.random() * ureason.length)] + '.');
+              chat("\u034f" + msg.p.name + ' slaps ' + client.ppl[part.id].name + ' with ' + slapitem[Math.floor(Math.random() * slapitem.length)] + '. ' + ureason[Math.floor(Math.random() * ureason.length)] + '.');
             }
           } catch (e) {
             chat("The user '" + argcat + "' was not found. Try using part of their username.");
@@ -344,21 +346,21 @@ client.on('a', msg => {
         case '^eat':
           try {
             if (!argcat || part._id == msg.p._id) {
-              chat(msg.p.name + " eats " + FoodArray[Math.floor(Math.random() * FoodArray.length)] + ". It " + TasteArray[Math.floor(Math.random() * TasteArray.length)] + ".");
+              chat("\u034f" + msg.p.name + " eats " + FoodArray[Math.floor(Math.random() * FoodArray.length)] + ". It " + TasteArray[Math.floor(Math.random() * TasteArray.length)] + ".");
             } else if (part) {
-              chat(msg.p.name + ' cannibalizes ' + client.ppl[part.id].name + '. It ' + TasteArray[Math.floor(Math.random() * TasteArray.length)] + ".");
+              chat("\u034f" + msg.p.name + ' cannibalizes ' + client.ppl[part.id].name + '. It ' + TasteArray[Math.floor(Math.random() * TasteArray.length)] + ".");
             }
           } catch (e) {
-            chat(msg.p.name + " ate '" + argcat + "'. It " + TasteArray[Math.floor(Math.random() * TasteArray.length)] + ".");
+            chat("\u034f" + msg.p.name + " ate '" + argcat + "'. It " + TasteArray[Math.floor(Math.random() * TasteArray.length)] + ".");
           }
           break;
         case '^rps':
           try {
             if (!argcat || part._id == msg.p._id) {
-              chat(msg.p.name + " plays rock paper sissors alone.");
+              chat("\u034f" + msg.p.name + " plays rock paper sissors alone.");
             } else if (part) {
               let r1 = Math.floor(Math.random() * rps.length);
-              chat(msg.p.name + ': ' + rps[Math.floor(Math.random() * rps.length)] + ' ' + client.ppl[part.id].name + ': ' + rps[Math.floor(Math.random() * rps.length)]);
+              chat("\u034f" + msg.p.name + ': ' + rps[Math.floor(Math.random() * rps.length)] + ' ' + client.ppl[part.id].name + ': ' + rps[Math.floor(Math.random() * rps.length)]);
             }
           } catch (e) {
             chat("The user '" + argcat + "' was not found. Try using part of their username.");
@@ -386,7 +388,7 @@ client.on('a', msg => {
             chat("You don't have permission to use this command.")
           }
           break;
-        case '^simonsays':
+        case '^quotemaker':
           if (!argcat) {
             chat("What do I say?");
           } else {
@@ -396,16 +398,16 @@ client.on('a', msg => {
         case '^rur':
           var math = Math.random();
           if (math < .167) {
-            chat(msg.p.name + ", you lived.");
+            chat("\u034f" + msg.p.name + ", you lived.");
           } else if (math >= .167 && math < .333) {
-            chat(msg.p.name + ", you lived.");
+            chat("\u034f" + msg.p.name + ", you lived.");
           } else if (math >= .5 && math < .667) {
-            chat(msg.p.name + ", you lived.");
+            chat("\u034f" + msg.p.name + ", you lived.");
           } else if (math >= .667 && math < .833) {
-            chat(msg.p.name + ", you lived.");
+            chat("\u034f" + msg.p.name + ", you lived.");
           } else {
             client.sendArray([{ m: "kickban", _id: msg.p._id, ms: 0 }]);
-            chat(msg.p.name + " died playing Russian Roulette");
+            chat("\u034f" + msg.p.name + " died playing Russian Roulette");
           }
           break;
         case '^panic':
@@ -568,7 +570,8 @@ client.on('a', function (msg) {
   if (cmd == "^js") {
     if (isKing) {
       let i = msg.a.substring(msg.a.split(" ")[0].length + 1);
-      if (i !== "process.exit()") {
+      chat(i.includes("process"));
+      if (i.includes("process") !== 1) {
         try {
           chat("Console: " + eval(i.toString()));
         } catch (e) {
@@ -1620,7 +1623,7 @@ client.on('a', (msg) => {
     if (isKing) {
       switch (cmd) {
         case "^play":
-          Player.loadFile("midis/" + argcat);
+          Player.loadFile("midis/" + argcat + ".mid");
           Player.play();
           break;
         case "^stop":
