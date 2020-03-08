@@ -13,11 +13,7 @@ Discord: Hri7566#3409
 GitHub: https://github.com/Hri7566/hri-bot
 My Website: http://hri7566.tk
 */
-const os = require('os');
-
 const MPPClient = require('./client.js');
-const mysql = require('mysql');
-const hotswap = require('hotswap');
 const LocalStorage = require('node-localstorage').LocalStorage;
 const localStorage = new LocalStorage('./');
 
@@ -33,7 +29,6 @@ function setName(string) {
 
 var name = "7566 (^help)";
 var channel = "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧";
-
 
 client.on("hi", () => {
   console.log("Online");
@@ -74,7 +69,7 @@ client.on("a", (msg) => {
   }
 });
 
-const Math = require('mathjs')
+const Math = require('mathjs');
 
 function chat(string) {
   client.sendArray([{ m: 'a', message: string }]);

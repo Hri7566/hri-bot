@@ -1,6 +1,6 @@
 {
   "name": "hri-bot",
-  "version": "1.0.0",
+  "version": "15.0.7",
   "description": "The old repo had a broken file with corrupted encoding, made a new one",
   "main": "Index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "bower install && grunt build",
+    "build": "npm run start",
     "postinstall": "npm run build",
     "start": "node server.js"
   },
