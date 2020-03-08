@@ -19,6 +19,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "bower install && grunt build",
+    "postinstall": "npm run build",
     "start": "node server.js"
   },
   "repository": {
@@ -26,7 +28,7 @@
     "url": "git+https://github.com/hri7566/hri-bot.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hri7566",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hri7566/hri-bot/issues"

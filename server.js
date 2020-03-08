@@ -15,7 +15,7 @@ My Website: http://hri7566.tk
 */
 const os = require('os');
 
-const MPPClient = require('mpp-client-xt');
+const MPPClient = require('./client.js');
 const mysql = require('mysql');
 const hotswap = require('hotswap');
 const LocalStorage = require('node-localstorage').LocalStorage;
