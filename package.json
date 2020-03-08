@@ -21,6 +21,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npm run start",
+    "buildpack": "npm run start",
     "postinstall": "npm run build",
     "start": "node server.js"
   },
