@@ -5,6 +5,7 @@
   "main": "Index.js",
   "dependencies": {
     "dependencies": "0.0.1",
+    "eris": "^0.11.2",
     "hotswap": "^1.1.0",
     "https-proxy-agent": "^2.2.1",
     "levelup": "^4.3.2",
