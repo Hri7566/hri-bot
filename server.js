@@ -26,7 +26,7 @@ function setName(string) {
   }, 100);
 }
 
-var name = "☭7566 (^help)";
+var name = "☭ 7566 (^help)";
 var channel = "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧";
 
 client.on("hi", () => {
