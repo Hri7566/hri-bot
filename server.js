@@ -369,7 +369,7 @@ client.on('a', msg => {
               let r2 = Math.floor(Math.random() * rps.length);
               let p1 = msg.p.name;
               let p2 = client.ppl[part.id].name;
-              chat("\u034f" + p1 + " wants to play rock paper scissors with " + p2 + "! " + p1 + ': ' + rps[Math.floor(Math.random() * rps.length)] + '! ' + p2 + ': ' + rps[Math.floor(Math.random() * rps.length)] + "!");
+              chat("\u034f" + p1 + " wants to play rock paper scissors with " + p2 + "! " + p1 + ': ' + rps[r1] + '! ' + p2 + ': ' + rps[r2] + "!");
               if (rps[r1].toLowerCase == "rock") {
                 if (rps[r2].toLowerCase == "rock") {
                   chat("\u034f" + p1 + " and " + p2 + " tied!");
