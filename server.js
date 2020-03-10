@@ -26,7 +26,7 @@ function setName(string) {
   }, 100);
 }
 
-var name = "7566 〘^help〙";
+var name = "☭7566 (^help)";
 var channel = "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧";
 
 client.on("hi", () => {
@@ -185,7 +185,7 @@ client.on('a', msg => {
       switch (cmd) {
         case '^help':
         case '^cmds':
-          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^magic8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^quotemaker | ^rur");
+          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^magic8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rockpaperscissors | ^background | ^rur");
           break;
         case '^about':
           setTimeout(() => { chat("This is a chat script that was made by Hri7566 and Karl. It runs off of heroku. This script is a continuation of Karl's MarxBot. Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you. Discord: Hri7566#3409 GitHub: https://github.com/Hri7566/hri-bot Website: http://hri7566.tk") }, 0);
@@ -319,6 +319,13 @@ client.on('a', msg => {
             chat("You can't use this command.");
           }
           break;
+        case "^say":
+          if (!argcat) {
+            chat("What do I say?");
+          } else {
+            chat("\u034f" + argcat);
+          }
+          break;
         case "^kill":
           try {
             if (!argcat || part._id == msg.p._id) {
@@ -353,12 +360,41 @@ client.on('a', msg => {
           }
           break;
         case '^rps':
+        case '^rockpaperscissors':
           try {
             if (!argcat || part._id == msg.p._id) {
               chat("\u034f" + msg.p.name + " plays rock paper sissors alone.");
             } else if (part) {
               let r1 = Math.floor(Math.random() * rps.length);
-              chat("\u034f" + msg.p.name + ': ' + rps[Math.floor(Math.random() * rps.length)] + ' ' + client.ppl[part.id].name + ': ' + rps[Math.floor(Math.random() * rps.length)]);
+              let r2 = Math.floor(Math.random() * rps.length);
+              let p1 = msg.p.name;
+              let p2 = client.ppl[part.id].name;
+              chat("\u034f" + p1 + " wants to play rock paper scissors with " + p2 + "! " + p1 + ': ' + rps[Math.floor(Math.random() * rps.length)] + '! ' + p2 + ': ' + rps[Math.floor(Math.random() * rps.length)] + "!");
+              if (rps[r1].toLowerCase == "rock") {
+                if (rps[r2].toLowerCase == "rock") {
+                  chat("\u034f" + p1 + " and " + p2 + " tied!");
+                } else if (rps[r2].toLowerCase == "paper") {
+                  chat("\u034f" + p2 + " won!");
+                } else if (rps[r2].toLowerCase == "scissors") {
+                  chat("\u034f" + p1 + " won!");
+                }
+              } else if (rps[r1].toLowerCase == "paper") {
+                if (rps[r2].toLowerCase == "rock") {
+                  chat("\u034f" + p1 + " won!");
+                } else if (rps[r2].toLowerCase == "paper") {
+                  chat("\u034f" + p1 + " and " + p2 + " tied!");
+                } else if (rps[r2].toLowerCase == "scissors") {
+                  chat("\u034f" + p2 + " won!");
+                }
+              } else if (rps[r1].toLowerCase == "scissors") {
+                if (rps[r2].toLowerCase == "rock") {
+                  chat("\u034f" + p2 + " won!");
+                } else if (rps[r2].toLowerCase == "paper") {
+                  chat("\u034f" + p1 + " won!");
+                } else if (rps[r2].toLowerCase == "scissors") {
+                  chat("\u034f" + p1 + " and " + p2 + " tied!");
+                }
+              }
             }
           } catch (e) {
             chat("The user '" + argcat + "' was not found. Try using part of their username.");
@@ -929,7 +965,7 @@ slapitem = [
 
 fights = ['won!', 'lost, boo!']
 
-rps = ['Rock!', 'Paper!', 'Scissors!']
+rps = ['Rock', 'Paper', 'Scissors']
 
 BallArray = [
   "It is certain.",
