@@ -26,7 +26,7 @@ function setName(string) {
   }, 100);
 }
 
-var name = "7566 (^help)";
+var name = "7566 〘^help〙";
 var channel = "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧";
 
 client.on("hi", () => {
@@ -184,6 +184,7 @@ client.on('a', msg => {
     if (!isBlocked) {
       switch (cmd) {
         case '^help':
+        case '^cmds':
           chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^magic8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^quotemaker | ^rur");
           break;
         case '^about':
