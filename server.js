@@ -184,7 +184,7 @@ client.on('a', msg => {
     if (!isBlocked) {
       switch (cmd) {
         case '^help':
-          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^magic8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^quotemaker | ^rur");
+          chat("Commands: ^help | ^about | ^name | ^id | ^goto | ^cursor | ^magic8ball | ^magicconchshell | ^quote | ^crown | ^kill | ^slap | ^eat | ^rps | ^background | ^quotemaker | ^rur | ^whereisbopit");
           break;
         case '^about':
           setTimeout(() => { chat("This is a chat script that was made by Hri7566 and Karl. It runs off of heroku. This script is a continuation of Karl's MarxBot. Many thanks to Karl Marx & the original MarxBot Team, Karma, Hue/Man, BopIt, Wolfy, Raven, lamp, Vincent, Charly, Anonymous, and users like you. Discord: Hri7566#3409 GitHub: https://github.com/Hri7566/hri-bot Website: http://hri7566.tk") }, 0);
@@ -224,6 +224,9 @@ client.on('a', msg => {
           } else {
             chat("You can't use this command.");
           }
+          break;
+        case "^whereisbopit":
+          chat("Bopit is around somewhere. His _ID is f236343b2bea9e6d181092f9 if you want to look for him.");
           break;
         case "^cursors":
         case "^cursor":
@@ -11096,7 +11099,7 @@ var http = require("http");
 
 http.createServer(function (request, response) {
   response.writeHead(200, {'Content-Type': 'text/plain'});
-  response.end('Unable to shade polygon normals');
-}).listen(process.env.PORT);
+  response.end("welcome to hri's bot page :)\nthis is just here so heroku doesn't freak out");
+}).listen(process.env.PORT || 3000);
 
 console.log("HTTP Host Established");
