@@ -93,5 +93,5 @@ bin
 obj
 appsettings.json
 local.settings.json
-log.txt
+chat.log
 token
