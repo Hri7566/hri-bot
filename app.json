@@ -1,9 +1,0 @@
-{
-  "environments": {
-    "test": {
-      "scripts": {
-        "user": "node user.js"
-      }
-    }
-  }
-}

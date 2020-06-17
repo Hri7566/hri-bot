@@ -1,7 +1,6 @@
-#Hri's Bot
+7566
+====
 
-So I've changed some things quite a bit over the past couple months and haven't updated a thing. That's because my current project isn't open source yet. If it does become open source, it will most likely be in a different repo, since I rebuilt everything from scratch.
+This bot is a continuation of Karl Marx's MarxBot from http://www.multiplayerpiano.com. Since Karl is no longer able to maintain this bot, I, Hri7566, have agreed to renew his code with his permission.
 
-I've left this code up for those of you who want to get into making scripts for https://www.multiplayerpiano.com. If anything changes with MPP, I will probably update the code so that it still works with the site until something major like the client is rewritten or something.
-
-Credit to Karl and Charsy for some very old functions in use. Special thanks to Karl, Fennece, Caution, Karma, Anonygold, and people like you who keep the community live.
+Karl will most likely not be returning in the near future. If he does, there is a big chance that he won't return to MPP, considering his previous thoughts on the community.
