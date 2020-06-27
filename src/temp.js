@@ -29,11 +29,11 @@ module.exports = function () {
         }
     }, 0, false);
 
-    this.addcmd("HELP", `Usage: PREFIXhelp (cmd)`, 0, msg => {
+    this.addcmd("HELP", `it's case sensitive you idiot`, 0, msg => {
         this.chat(`it's case sensitive you idiot`);
     }, 0, true);
 
-    this.addcmd("about", `Usage: PREFIXabout`, 0, msg => {
+    this.addcmd("about", `Usage: PREFIXabout | These quotes are from Karl's bot.`, 0, msg => {
         this.chat(this.package.description);
     }, 0, false);
 
@@ -56,7 +56,7 @@ module.exports = function () {
         }
     }, 3, false);
 
-    this.addcmd("id", `Usage: PREFIXid`, 0, msg => {
+    this.addcmd("id", `Usage: PREFIXid <user> | Shows a user's _id and color.`, 0, msg => {
         if (msg.args[1]) {
             let p = this.getPart(msg.argcat);
             if (p) {
@@ -68,8 +68,8 @@ module.exports = function () {
             this.chat(`Your _id: ${msg.p._id} | Your color: ${this.color.getNearestColor(msg.p.color)} [${msg.p.color}]`);
         }
     }, 0, false);
-    
-    this.addcmd("crown", `Usage: PREFIXcrown`, 0, msg => {
+
+    this.addcmd("crown", `Usage: PREFIXcrown | Grants ownership of the channel.`, 0, msg => {
         if (this.client.isOwner()) {
             this.client.sendArray([{m:'chown', id:msg.p.id}]);
             this.chat(`Giving ownership to ${msg.p.name}.`);
@@ -78,7 +78,7 @@ module.exports = function () {
         }
     }, 2, false);
 
-    this.addcmd("follow", `Usage: PREFIXfollow <user>`, 1, msg => {
+    this.addcmd("follow", `Usage: PREFIXfollow <user> | The cursor will follow the user.`, 1, msg => {
         let p = this.getPart(msg.argcat);
         if (p) {
             this.cursor.load("off");
@@ -103,7 +103,7 @@ module.exports = function () {
         }
     }, 0, false);
 
-    this.addcmd("ballonstring", `Usage: PREFIXballonstring <user>`, 1, msg => {
+    this.addcmd("ballonstring", `Usage: PREFIXballonstring <user> | The cursor will follow the user using electrashave's BallOnString.js`, 1, msg => {
         let p = this.getPart(msg.argcat);
         if (p) {
             let pos2 = {x: 50, y: 50};
@@ -127,7 +127,7 @@ module.exports = function () {
         }
     }, 0, false);
 
-    this.addcmd("cursor", `Usage: PREFIXcursor <mode>`, 0, msg => {
+    this.addcmd("cursor", `Usage: PREFIXcursor <mode> | Use without any arguments to list cursor modes.`, 0, msg => {
         if (msg.args.length - 1 > 0) {
             let found = false;
             this.cursor.modes.forEach(mode => {
@@ -151,8 +151,8 @@ module.exports = function () {
             this.chat(tosend);
         }
     }, 0, false);
-    
-    this.addcmd("rank", `Usage: PREFIXrank`, 0, msg => {
+
+    this.addcmd("rank", `Usage: PREFIXrank | Checks the rank of a user currently in the room.`, 0, msg => {
         if (msg.args[1]) {
             let p = this.getPart(msg.argcat);
             if (p) {
@@ -165,45 +165,27 @@ module.exports = function () {
         }
     }, 0, false);
 
-    this.addcmd("uptime", `Usage: PREFIXuptime`, 0, msg => {
+    this.addcmd("uptime", `Usage: PREFIXuptime | Prints the total uptime`, 0, msg => {
         this.chat(this.getUptime());
-      }, 0, true);
+    }, 0, true);
 
-      this.addcmd("helpmewhattheheckisgoingon", `Usage: PREFIXhelpmewhatheheckisgoingon`, 0, msg => {
-          this.chat("f i x e d m o m e n t");
-      }, 0, true);
+    this.addcmd("test", `Usage: PREFIXtest`, 0, msg => {
+        this.chat(process.uptime());
+    }, 4, true); 
 
-      this.addcmd("reverse", `Usage: PREFIXreverse <string>`, 1, msg => {
-          this.chat(`\u034f\u034f     `+(msg.argcat.split("").reverse().join("")));
-      }, 0, false);
+    this.addcmd("helpmewhattheheckisgoingon", `Usage: PREFIXhelpmewhatheheckisgoingon`, 0, msg => {
+        this.chat("f i x e d m o m e n t");
+    }, 0, true);
 
-      this.addcmd("8ball", `Usage: PREFIX8ball <polar question>`, 1, msg => {
-        let ball = [
-            "It is certain",
-            "It is decidedly so",
-            "Without a doubt",
-            "Yes - Definitely",
-            "You may rely on it",
-            "As I see it, yes",
-            "Most likely",
-            "Outlook good",
-            "Yes",
-            "Signs point to yes",
-            "Reply hazy, try again",
-            "Ask again later",
-            "Better not tell you now",
-            "Cannot predict now",
-            "Concentrate and ask again",
-            "Don't count on it",
-            "My reply is no",
-            "My sources say no",
-            "Outlook not so good",
-            "Very doubtful"
-        ];
-        this.chat(`${ball[Math.floor(Math.random()*ball.length)]}, ${msg.p.name}.`);
-      }, 0, false);
+    this.addcmd("thisdot", `Usage: PREFIXthisdot`, 0, msg => {
+        this.chat("♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫");
+    }, 0, true);
 
-      this.addcmd("bg", `Usage: PREFIXbg <color> <color 2>`, 1, msg => {
+    this.addcmd("reverse", `Usage: PREFIXreverse <string> | Reverses the given string.`, 1, msg => {
+        this.chat(`\u034f\u034f     `+(msg.argcat.split("").reverse().join("")));
+    }, 0, false);
+
+    this.addcmd("bg", `Usage: PREFIXbg <color> <color 2> | Changes the background. The crown is required for this command to work. One color is needed, but two will also work.`, 1, msg => {
         let reghex = /^#[0-9A-Fa-f]{6}$/;
         if (this.client.isOwner()) {
             if (msg.args[2]) {
@@ -232,9 +214,9 @@ module.exports = function () {
         } else {
             this.chat("no crown :(");
         }
-      }, 0, false);
+    }, 0, false);
 
-      this.addcmd("setrank", `Usage: PREFIXsetrank <rank name> <user>`, 2, msg => {
+    this.addcmd("setrank", `Usage: PREFIXsetrank <rank name> <user> | Sets the rank of a user.`, 2, msg => {
         let p = this.getPart(msg.args[2]);
         if (p) {
             try {
@@ -247,5 +229,5 @@ module.exports = function () {
         } else {
             this.chat(this.nouser);
         }
-      }, 3, false);
+    }, 3, false);
 }

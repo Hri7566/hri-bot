@@ -15,6 +15,7 @@ module.exports = class Bot {
         this.nouser = "Could not find the requested user. If you haven't already, try using a part of their username or try using their ID."
         this.package = require('../package.json');
         this.name = `${name} (${this.prefix}help) [${this.package.version}]`;
+        //this.name = "Hri7566";
         this.client.setChannel(this.room);
         this.client.start();
         this.ranks = require('./db/ranks.json');
@@ -122,7 +123,7 @@ module.exports = class Bot {
     }
 
     getUptime() {
-        return this.timeToClock(process.uptime);
+        return this.timeToClock(process.uptime());
     }
 
     getRank(_id) {
@@ -193,13 +194,10 @@ module.exports = class Bot {
 
     maintenance() {
         var that = this;
-        this.client.on("p", msg => {
-            msg._id === this.client.getOwnParticipant()._id ? this.client.sendArray([{m:'userset', set: {name:this.name}}]) : {};
-        });
 
         this.client.on("hi", msg => {
             this.client.sendArray([{m:'userset', set: {name:this.name}}]);
-            this.chat("Online");
+            //this.chat("Online");
         });
 
         this.client.on("notification", async msg => {

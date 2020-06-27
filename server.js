@@ -1,7 +1,7 @@
 process.title = 7566;
 const Bot = require("./src/bot.js")
 
-var bot = new Bot("7566", "Shadow's Room");
+var bot = new Bot("7566");
 const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin
@@ -11,7 +11,7 @@ fs = require('fs');
 global.Bot = Bot;
 Bot.rooms = require("./src/db/rooms.json");
 Bot.bots = [];
-Bot.frooms = ["Shadow's Room"]
+Bot.frooms = [];
 const waitFor = (ms) => new Promise(r => setTimeout(r, ms));
 
 rl.on('line', function (line) {
@@ -35,10 +35,11 @@ async function startBots() {
         await waitFor(2000 + data.client.serverTimeOffset);
     }
 }
-
+/*
 startBots().then(() => {
 
 });
+*/
 
 Bot.startBot = async function (room) {
     let returntype;
