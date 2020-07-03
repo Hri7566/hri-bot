@@ -93,5 +93,5 @@ Object.defineProperty(Array.prototype, 'chunk', {
 
 bot.client.on('a', msg => {
     console.log(`[${msg.p._id}] ${msg.p.name}: ${msg.a}`);
-    fs.appendFileSync('chat.log', `(${bot.getUptime()}) [${msg.p._id}] ${msg.p.name}: ${msg.a}\n`);
+    fs.appendFileSync('chat.log', `(${bot.date.toLocaleString()}) [${msg.p._id}] ${msg.p.name}: ${msg.a}\n`);
 });

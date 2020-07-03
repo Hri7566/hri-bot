@@ -177,6 +177,19 @@ module.exports = function () {
         this.chat("f i x e d m o m e n t");
     }, 0, true);
 
+    this.addcmd("kickban", `Usage: PREFIXkickban <minutes> <user>`, 2, msg => {
+        let p = this.getPart(msg.args[2]);
+        if (p) {
+            this.client.sendArray([{m:'kickban', _id:p._id, ms:msg.args[1]*60*1000}]);
+        } else {
+            this.chat(this.nouser);
+        }
+    }, 2, false);
+
+    this.addcmd("kickbanid", `Usage: PREFIXkickbanid <minutes> <id>`, 2, msg => {
+        this.client.sendArray([{m:'kickban', _id:msg.args[2], ms:msg.args[1]*60*1000}]);
+    }, 2, false);
+
     this.addcmd("thisdot", `Usage: PREFIXthisdot`, 0, msg => {
         this.chat("♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫ 𝓽𝓱𝓲𝓼 𝓭𝓸𝓽 ♫");
     }, 0, true);
@@ -184,6 +197,14 @@ module.exports = function () {
     this.addcmd("reverse", `Usage: PREFIXreverse <string> | Reverses the given string.`, 1, msg => {
         this.chat(`\u034f\u034f     `+(msg.argcat.split("").reverse().join("")));
     }, 0, false);
+
+    this.addcmd("permban", `Usage: PREFIXpermban <id> | Permanantly ban a user.`, 1, msg => {
+        this.permban(msg.args[1]);
+    }, 3, true);
+    
+    this.addcmd("unban", `Usage: PREFIXunban <id> | Unban a user.`, 1, msg => {
+        this.client.sendArray([{m:'unban', _id: msg.args[1]}]);
+    }, 2, false);
 
     this.addcmd("bg", `Usage: PREFIXbg <color> <color 2> | Changes the background. The crown is required for this command to work. One color is needed, but two will also work.`, 1, msg => {
         let reghex = /^#[0-9A-Fa-f]{6}$/;
@@ -214,6 +235,36 @@ module.exports = function () {
         } else {
             this.chat("no crown :(");
         }
+    }, 0, false);
+
+    this.addcmd("8ball", `Usage: PREFIX8ball <polar question>`, 1, msg => {
+        let answers = [
+            "It is certain",
+            "It is decidedly so",
+            "Without a doubt",
+            "Yes – definitely",
+            "You may rely on it",
+            "As I see it, yes",
+            "Most likely",
+            "Outlook good",
+            "Yes",
+            "Signs point to yes",
+            "Don’t count on it",
+            "My reply is no",
+            "My sources say no",
+            "Outlook not so good",
+            "Very doubtful",
+            "Reply hazy, try again",
+            "Ask again later",
+            "Better not tell you now",
+            "Cannot predict now",
+            "Concentrate and ask again"
+        ]
+        this.chat(answers[Math.floor(Math.random()*answers.length)] + `, ${msg.p.name}.`);
+    }, 0, false);
+
+    this.addcmd("time", `Usage: PREFIXtime`, 0, msg => {
+        this.chat(this.date.toLocaleString());
     }, 0, false);
 
     this.addcmd("setrank", `Usage: PREFIXsetrank <rank name> <user> | Sets the rank of a user.`, 2, msg => {

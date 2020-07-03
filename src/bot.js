@@ -15,19 +15,28 @@ module.exports = class Bot {
         this.nouser = "Could not find the requested user. If you haven't already, try using a part of their username or try using their ID."
         this.package = require('../package.json');
         this.name = `${name} (${this.prefix}help) [${this.package.version}]`;
-        //this.name = "Hri7566";
+
+        setInterval(() => {
+            this.date = new Date();
+        });
+        
+
         this.client.setChannel(this.room);
         this.client.start();
-        this.ranks = require('./db/ranks.json');
+
         this.cmds = [];
+
         this.cmode = {
             user: {_id: "", name: "", color: "#777"},
             mode: "cmd",
             type: "1person",
             cmd: null
         };
+
         this.messages = [];
         this.roomms = 0;
+
+        this.ranks = require('./db/ranks.json');
         this.highscores = require("./db/highscores.json");
         this.cursor = require('./cursor.js')(this);
         this.economy = require('./economy.js');
@@ -35,6 +44,8 @@ module.exports = class Bot {
         this.quotes = require("./db/quotes.json");
         this.objects = require("./db/objects.json");
         this.color = require('./Color.js');
+        this.permbanned = require("./db/permbanned.json");
+
         this.roomtimeout;
         this.maintenance();
         require("./temp.js").bind(this)();
@@ -90,6 +101,11 @@ module.exports = class Bot {
 
     updatedb() {
         fs.writeFile('src/db/ranks.json', JSON.stringify(this.ranks), 'utf8', (err) => { 
+            if(err) {
+                throw err;
+            }
+        });
+        fs.writeFile('src/db/permbanned.json', JSON.stringify(this.permbanned), 'utf8', (err) => { 
             if(err) {
                 throw err;
             }
@@ -197,7 +213,7 @@ module.exports = class Bot {
 
         this.client.on("hi", msg => {
             this.client.sendArray([{m:'userset', set: {name:this.name}}]);
-            //this.chat("Online");
+            this.chat("✅ Online");
         });
 
         this.client.on("notification", async msg => {
@@ -226,6 +242,20 @@ module.exports = class Bot {
             clearTimeout(this.roomtimeout);
             this.roomTimer(this.roomms);
         });
+
+        this.client.on("participant added", p => {
+            this.permbanned.forEach(id => {
+                if (id == p._id) {
+                    this.client.sendArray([{m:'kickban', _id: p._id, ms: 60*60*1000}]);
+                }
+            });
+        });
+    }
+
+    permban(id) {
+        this.client.sendArray([{m:'kickban', _id: id, ms: 60*60*1000}]);
+        this.permbanned.push(id);
+        this.updatedb();
     }
 
     static updateroomdb() {

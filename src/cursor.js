@@ -175,7 +175,7 @@ class CursorHandler {
             }
         });
         
-        this.load('vcot');
+        this.load(this.modes[Math.floor(Math.random()*this.modes.length)].mode);
     }
 }
 
