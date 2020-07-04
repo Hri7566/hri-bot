@@ -202,11 +202,11 @@ module.exports = function () {
         this.permban(msg.args[1]);
     }, 3, true);
     
-    this.addcmd("unban", `Usage: PREFIXunban <id> | Unban a user.`, 1, msg => {
+    this.addcmd("unkickban", `Usage: PREFIXunkickban <id> | Unbans a user from the channel.`, 1, msg => {
         this.client.sendArray([{m:'unban', _id: msg.args[1]}]);
     }, 2, false);
 
-    this.addcmd("bg", `Usage: PREFIXbg <color> <color 2> | Changes the background. The crown is required for this command to work. One color is needed, but two will also work.`, 1, msg => {
+    this.addcmd("bg", `Usage: PREFIXbg <color> <color 2> | Changes the background hex colors. The crown is required for this command to work. One color is needed, but two will also work.`, 1, msg => {
         let reghex = /^#[0-9A-Fa-f]{6}$/;
         if (this.client.isOwner()) {
             if (msg.args[2]) {
@@ -236,6 +236,20 @@ module.exports = function () {
             this.chat("no crown :(");
         }
     }, 0, false);
+
+    this.addcmd("ban", `Usage: PREFIXban <id> | Bans a user from using the bot. (NOT ban from the room)`, 1, msg => {
+        this.changeRank(msg.args[1], "banned");
+        this.chat("ID added to ban list. That user can no longer use any commands.");
+    }, 1, false);
+
+    this.addcmd("unban", `Usage: PREFIXunban <id> | Unbans a user from the bot. (NOT unban from the room)`, 1, msg => {
+        if (this.ranks.banned.indexOf(msg.args[1]) !== -1) {
+            this.ranks.banned.remove(this.ranks.banned.indexOf(msg.args[1]));
+            this.chat("User unbanned.");
+        } else {
+            this.chat("That user isn't banned!");
+        }
+    }, 1, false);
 
     this.addcmd("8ball", `Usage: PREFIX8ball <polar question>`, 1, msg => {
         let answers = [

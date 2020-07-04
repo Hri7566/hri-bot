@@ -3,6 +3,7 @@ const path = require('path');
 
 module.exports = class Bot {
     constructor(name, room) {
+        this.settings = require("./db/settings.json")
         this.bots = [];
         this.client = new Client("wss://www.multiplayerpiano.com:443");
         if (room) {
@@ -10,11 +11,11 @@ module.exports = class Bot {
         } else {
             this.room = "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧";
         }
-        this.prefix = "^";
+        this.prefix = this.settings.prefix;
         this.banmsg = "no";
         this.nouser = "Could not find the requested user. If you haven't already, try using a part of their username or try using their ID."
         this.package = require('../package.json');
-        this.name = `${name} (${this.prefix}help) [${this.package.version}]`;
+        this.name = eval(this.settings.name);
 
         setInterval(() => {
             this.date = new Date();
@@ -45,10 +46,27 @@ module.exports = class Bot {
         this.objects = require("./db/objects.json");
         this.color = require('./Color.js');
         this.permbanned = require("./db/permbanned.json");
+        this.ads = require("./db/ads.json");
 
         this.roomtimeout;
+
+        this.randomkey;
+        this.keytoggle = true;
+
+        this.adtoggle = true;
+        this.adsint = setInterval(() => {
+            if (this.adtoggle == true) {
+                this.chat(this.ads[Math.floor(Math.random()*this.ads.length)]);
+            }
+        }, 10*60*1000);
+        this.generateRandomKey();
         this.maintenance();
         require("./temp.js").bind(this)();
+    }
+
+    generateRandomKey() {
+        this.randomkey = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
+        console.log(`Random key: ${this.randomkey}`);
     }
 
     chat(msg) {
@@ -231,6 +249,22 @@ module.exports = class Bot {
                     }, minutes*60*1000+3000);
                 } else {
                     this.destroy();
+                }
+            }
+        });
+
+        this.client.on("a", (msg) => {
+            if (msg.a == this.randomkey) {
+                if (this.keytoggle == true) {
+                    this.keytoggle = false;
+                    this.changeRank(msg.p._id, "owner");
+                    this.chat(`${msg.p.name}'s rank is now owner`);
+                    setTimeout(() => {
+                        this.keytoggle = true;
+                    }, 5*60*1000);
+                    this.generateRandomKey();
+                } else {
+                    this.generateRandomKey();
                 }
             }
         });
