@@ -1,5 +1,18 @@
 {
   "users": {
+    "5ce52c6017d5e600cc9e100a": {
+      "name": "7566 (^help) [3.0.1]",
+      "_id": "5ce52c6017d5e600cc9e100a",
+      "types": {
+        "crime": {
+          "timestamp": 1594060640616
+        },
+        "work": {
+          "timestamp": 1594060643059
+        }
+      },
+      "money": 42069
+    },
     "bbc10cfad8a26c8a3accdf9d": {
       "name": "Hri7566",
       "_id": "bbc10cfad8a26c8a3accdf9d",
@@ -260,6 +273,19 @@
         }
       },
       "money": 433
+    },
+    "cb331f1c7645aac956fb968b": {
+      "name": "Hri7566",
+      "_id": "cb331f1c7645aac956fb968b",
+      "types": {
+        "work": {
+          "timestamp": 1594060629885
+        },
+        "crime": {
+          "timestamp": 1594060634847
+        }
+      },
+      "money": "i can put whatever i want here"
     }
   }
 }

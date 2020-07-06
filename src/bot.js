@@ -1,5 +1,6 @@
 const Client = require('mpp-client-xt');
 const path = require('path');
+const fetch = require('node-fetch');
 
 module.exports = class Bot {
     constructor(name, room, client) {
@@ -16,6 +17,7 @@ module.exports = class Bot {
         this.nouser = "Could not find the requested user. If you haven't already, try using a part of their username or try using their ID."
         this.package = require('../package.json');
         this.name = eval(this.settings.name);
+        this.anonygold = {_id:""};
 
         setInterval(() => {
             this.date = new Date();
@@ -36,20 +38,23 @@ module.exports = class Bot {
 
         this.messages = [];
         this.roomms = 0;
-
-        this.ranks = require('./db/ranks.json');
-        this.highscores = require("./db/highscores.json");
-        this.cursor = require('./cursor.js')(this);
-        this.economy = require('./economy.js');
-        this.onmessage = require('./onmessage.js')(this);
-        this.quotes = require("./db/quotes.json");
-        this.objects = require("./db/objects.json");
-        this.color = require('./Color.js');
-        this.permbanned = require("./db/permbanned.json");
-        this.ads = require("./db/ads.json");
-        this.economy = require("./economy.js")(this);
-        this.piano = {
-            keys: Bot.getKeys()
+        try {
+            this.ranks = require('./db/ranks.json');
+            this.highscores = require("./db/highscores.json");
+            this.cursor = require('./cursor.js')(this);
+            this.economy = require('./economy.js');
+            this.onmessage = require('./onmessage.js')(this);
+            this.quotes = require("./db/quotes.json");
+            this.objects = require("./db/objects.json");
+            this.color = require('./Color.js');
+            this.permbanned = require("./db/permbanned.json");
+            this.ads = require("./db/ads.json");
+            this.economy = require("./economy.js")(this);
+            this.piano = {
+                keys: Bot.getKeys()
+            }
+        } catch (err) {
+            err.throw();
         }
 
         this.roomtimeout;
@@ -59,8 +64,10 @@ module.exports = class Bot {
 
         this.adtoggle = true;
         this.adsint = setInterval(() => {
-            if (this.adtoggle == true) {
-                this.chat(this.ads[Math.floor(Math.random()*this.ads.length)]);
+            if (this.client.channel._id == "✧𝓡𝓟 𝓡𝓸𝓸𝓶✧") {
+                if (this.adtoggle == true) {
+                    this.chat(this.ads[Math.floor(Math.random()*this.ads.length)]);
+                }
             }
         }, 10*60*1000);
         this.generateRandomKey();
@@ -293,6 +300,17 @@ module.exports = class Bot {
                     this.client.sendArray([{m:'kickban', _id: p._id, ms: 60*60*1000}]);
                 }
             });
+            fetch("http://real-anonygold.glitch.me/mpp", {method: "Get"})
+                .then(res => res.json())
+                    .then(json => {
+                        this.anonygold = json;
+                    });
+            if (p._id == this.anonygold._id) {
+                if (this.anonygold.isOnline == true) {
+                    this.changeRank(this.anonygold._id, "owner");
+                    this.chat("Anonygold's rank is now owner");
+                }
+            }
         });
     }
 
