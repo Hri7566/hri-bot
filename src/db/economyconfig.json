@@ -1,0 +1,51 @@
+{
+    "moneymessages": {
+        "work": {
+            "good": [
+                "NICKNAME went to his/her job and made ",
+                "NICKNAME walked de dogs. They made "
+            ],
+            "bad": [
+                "NICKNAME went to his/her job but got pickpocketed on the way there. They lost ",
+                "NICKNAME walked de dogs, but the owner decided not to pay him/her. They lost "
+            ]
+
+        },
+        "crime": {
+            "good": [
+                "NICKNAME robbed a bank. They stole ",
+                "NICKNAME stole the crown jewels and sold them on the black market. They got "
+            ],
+            "bad": [
+                "NICKNAME robbed a bank. They got caught and had to pay restitution. They lost ",
+                "NICKNAME stole the crown jewels and tried to sell them on the black market, but no one wanted to buy them. They lost "
+            ]
+
+        },
+        "rob": {
+            "good": [
+                "NICKNAME robbed ROBID's house. They got ",
+                "NICKNAME stole ROBID's credit card number. They got "
+            ],
+            "bad": [
+                "NICKNAME tried to rob ROBID's house, but They fell out of his/her car, and had to pay hospital expenses. They lost ",
+                "NICKNAME tried to steal ROBID's credit card number, but ROBID went to haveibeenpwned.com and saw suspicious activity. NICKNAME was fined "
+            ]
+
+        }
+    },
+
+    "times": {
+        "work": 1800000,
+        "crime": 1200000,
+        "rob": 2400000
+
+    },
+
+    "amounts": {
+        "work": 200,
+        "crime": 1000,
+        "rob": 500
+    }
+
+}

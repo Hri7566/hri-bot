@@ -10,7 +10,7 @@ class onmessage {
             msg.data = this.bot.cmode.data;
             msg.args = msg.a.split(" ");
             msg.input = n => msg.args.slice(n).join(" ");
-            msg.cmd = msg.args[0].split(this.bot.prefix).slice(1).join(this.bot.prefix);
+            msg.cmd = msg.args[0].split(this.bot.prefix).slice(1).join(this.bot.prefix).toLowerCase();
             msg.argcat = msg.a.substring(msg.args[0].toLowerCase().length).trim();
             this.bot.time = msg.t;
             this.bot.cmds.forEach(commandobj => {

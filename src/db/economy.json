@@ -1,0 +1,265 @@
+{
+  "users": {
+    "bbc10cfad8a26c8a3accdf9d": {
+      "name": "Hri7566",
+      "_id": "bbc10cfad8a26c8a3accdf9d",
+      "types": {
+        "work": {
+          "timestamp": 1593931656632
+        },
+        "crime": {
+          "timestamp": 1593932267214
+        },
+        "rob": {
+          "timestamp": 1556036543540
+        }
+      },
+      "money": 736
+    },
+    "99da8b2e9735a34da6d2ac35": {
+      "name": "𝓑𝓸𝓹 𝓘𝓽",
+      "_id": "99da8b2e9735a34da6d2ac35",
+      "types": {
+        "work": {
+          "timestamp": 1556036510280
+        },
+        "crime": {
+          "timestamp": 1556036507992
+        },
+        "rob": {
+          "timestamp": 1556036543540
+        }
+      },
+      "money": 272
+    },
+    "381b0497b9a0a156ce14bc37": {
+      "name": "Bop It",
+      "_id": "381b0497b9a0a156ce14bc37",
+      "types": {
+        "rob": {
+          "timestamp": 1555698392954
+        }
+      },
+      "money": 0
+    },
+    "9cc08ba664ea125e35960ae6": {
+      "name": "Yoshi1229",
+      "_id": "9cc08ba664ea125e35960ae6",
+      "types": {
+        "rob": {
+          "timestamp": 1556036500475
+        },
+        "crime": {
+          "timestamp": 1556036529827
+        },
+        "work": {
+          "timestamp": 1556036659018
+        }
+      },
+      "money": 995
+    },
+    "90207dbb7ec533df151bbd00": {
+      "name": "kewl",
+      "_id": "90207dbb7ec533df151bbd00",
+      "types": {
+        "crime": {
+          "timestamp": 1556055309026
+        },
+        "work": {
+          "timestamp": 1556055315339
+        }
+      },
+      "money": 37
+    },
+    "0df93d5f4406909e98304265": {
+      "name": "gestugaa",
+      "_id": "0df93d5f4406909e98304265",
+      "types": {
+        "work": {
+          "timestamp": 1557529544826
+        },
+        "crime": {
+          "timestamp": 1557529557667
+        },
+        "rob": {
+          "timestamp": 1557529571216
+        }
+      },
+      "money": -62
+    },
+    "c629dec0b652f86a8c31a160": {
+      "name": "\\\\Asuritu/3\\Neko/Female\\Form: Normal//",
+      "_id": "c629dec0b652f86a8c31a160",
+      "types": {
+        "work": {
+          "timestamp": 1557529590358
+        },
+        "crime": {
+          "timestamp": 1557529610240
+        }
+      },
+      "money": 177
+    },
+    "cddcb157e25946ed2166b840": {
+      "name": "Fishing (Charsy)",
+      "_id": "cddcb157e25946ed2166b840",
+      "types": {
+        "work": {
+          "timestamp": 1557684014890
+        }
+      },
+      "money": 0
+    },
+    "baaeeea5273af6c2811b81f9": {
+      "name": "BachBot [^help]",
+      "_id": "baaeeea5273af6c2811b81f9",
+      "types": {
+        "crime": {
+          "timestamp": 1560276222239
+        }
+      },
+      "money": 965
+    },
+    "88163fa77c6ee3fd50365bfd": {
+      "name": "𝔈𝔭𝔦𝔠-𝓓𝓪𝓼𝓱𝓮𝓻's JS Bot (/help)",
+      "_id": "88163fa77c6ee3fd50365bfd",
+      "types": {
+        "work": {
+          "timestamp": 1593992506327
+        },
+        "crime": {
+          "timestamp": 1593992618874
+        }
+      },
+      "money": 1275
+    },
+    "fd49cdf765f9c083da09f9b2": {
+      "name": "God Sans | 999999999 Health 99999 Armors",
+      "_id": "fd49cdf765f9c083da09f9b2",
+      "types": {
+        "work": {
+          "timestamp": 1593931680471
+        }
+      },
+      "money": 71
+    },
+    "c09fac07f9215a279f180688": {
+      "name": "Hri7566",
+      "_id": "c09fac07f9215a279f180688",
+      "types": {
+        "work": {
+          "timestamp": 1593942720656
+        },
+        "crime": {
+          "timestamp": 1593942723450
+        }
+      },
+      "money": 430
+    },
+    "03963f16e7c5e24014e494e4": {
+      "name": "SPP99",
+      "_id": "03963f16e7c5e24014e494e4",
+      "types": {
+        "work": {
+          "timestamp": 1593940493108
+        }
+      },
+      "money": 181
+    },
+    "afa4219eef57f44364e1deb1": {
+      "name": "Hri7566",
+      "_id": "afa4219eef57f44364e1deb1",
+      "types": {
+        "work": {
+          "timestamp": 1593964924913
+        },
+        "crime": {
+          "timestamp": 1593964953699
+        }
+      },
+      "money": 78
+    },
+    "7402890ee6242a1f99a5e7c2": {
+      "name": "cat",
+      "_id": "7402890ee6242a1f99a5e7c2",
+      "types": {
+        "work": {
+          "timestamp": 1594026538984
+        },
+        "crime": {
+          "timestamp": 1594026551794
+        }
+      },
+      "money": 971
+    },
+    "7CB0A41A676591725125": {
+      "name": "Anonymoose",
+      "_id": "7CB0A41A676591725125",
+      "types": {
+        "work": {
+          "timestamp": 1593985136734
+        },
+        "crime": {
+          "timestamp": 1593985139711
+        }
+      },
+      "money": 585
+    },
+    "8d7c5b3b45abe1be9455c4c7": {
+      "name": "Ｔｈｅ　Ｉｎｔｅｌ　Ｕｓｅｒ　Ｗｈｏ　Ｃｏｕｌｄ／ＪＤＭ／ＰＣ　Ｌｏｖｅｒ",
+      "_id": "8d7c5b3b45abe1be9455c4c7",
+      "types": {
+        "work": {
+          "timestamp": 1593992517077
+        },
+        "crime": {
+          "timestamp": 1593992640220
+        }
+      },
+      "money": 653
+    },
+    "d1e12ad930bf3f2e0c158cef": {
+      "name": "No.",
+      "_id": "d1e12ad930bf3f2e0c158cef",
+      "types": {
+        "crime": {
+          "timestamp": 1593992632933
+        }
+      },
+      "money": 992
+    },
+    "75eab380841c34089890b7b5": {
+      "name": "Music Player Bot [+help]",
+      "_id": "75eab380841c34089890b7b5",
+      "types": {
+        "work": {
+          "timestamp": 1594012483989
+        }
+      },
+      "money": 0
+    },
+    "60671b9b624d28960375f620": {
+      "name": "𝔂𝓮𝓮𝓽😎𝓫𝓸𝓲 | yeetis",
+      "_id": "60671b9b624d28960375f620",
+      "types": {
+        "work": {
+          "timestamp": 1594022485369
+        }
+      },
+      "money": 177
+    },
+    "532d78a23625345aed79f5a9": {
+      "name": "Anonymous",
+      "_id": "532d78a23625345aed79f5a9",
+      "types": {
+        "crime": {
+          "timestamp": 1594026242295
+        },
+        "work": {
+          "timestamp": 1594026383766
+        }
+      },
+      "money": 433
+    }
+  }
+}

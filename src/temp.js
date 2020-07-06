@@ -1,3 +1,5 @@
+const math = require('mathjs');
+
 module.exports = function () {
     this.addcmd = async (cmd, usage, minargs, func, minrank, hidden, secondfunc, highscore) => {
         this.cmds.push({
@@ -28,10 +30,6 @@ module.exports = function () {
             this.chat(tosend);
         }
     }, 0, false);
-
-    this.addcmd("HELP", `it's case sensitive you idiot`, 0, msg => {
-        this.chat(`it's case sensitive you idiot`);
-    }, 0, true);
 
     this.addcmd("about", `Usage: PREFIXabout | These quotes are from Karl's bot.`, 0, msg => {
         this.chat(this.package.description);
@@ -127,6 +125,16 @@ module.exports = function () {
         }
     }, 0, false);
 
+    this.addcmd("string", `Usage PREFIXstring <eval>`, 1, msg => {
+        try {
+            this.chat(`Answer: ${math.evaluate(msg.argcat)}`);
+        } catch (err) {
+            if (err) {
+                this.chat("Invalid usage.");
+            }
+        }
+    }, 0, false);
+
     this.addcmd("cursor", `Usage: PREFIXcursor <mode> | Use without any arguments to list cursor modes.`, 0, msg => {
         if (msg.args.length - 1 > 0) {
             let found = false;
@@ -176,6 +184,67 @@ module.exports = function () {
     this.addcmd("helpmewhattheheckisgoingon", `Usage: PREFIXhelpmewhatheheckisgoingon`, 0, msg => {
         this.chat("f i x e d m o m e n t");
     }, 0, true);
+
+    this.addcmd("bal", `Usage: PREFIXbal | Check your account balance.`, 0, msg => {
+        let money = this.economy.getEconomyUserBy_id(msg.p._id);
+        if (money) {
+            this.chat(`${money.name}, you have $${money.money}.`);
+        } else {
+            this.chat(`${msg.p.name}, you have no money.`);
+        }
+    }, 0, false);
+
+    this.addcmd("work", `Usage: PREFIXwork | Work at your job.`, 0, msg => {
+        let money = this.economy.AttemptToGetMoney(msg.p.name, msg.p._id, "work");
+        if (money.canGetMoney) {
+            this.chat(this.economy.getMoneyMessageByType("work", money.good).replace("NICKNAME", msg.p.name) + "$" + money.moneygot);
+        } else {
+            let when = this.economy.convertMS(money.whenGetMoney);
+            when = this.economy.convertMSToString(when);
+            this.chat(`You can't work for another ${when}`);
+        }
+    }, 0, false);
+
+    this.addcmd("crime", `Usage: PREFIXcrime | Commit a crime to steal money.`, 0, msg => {
+        let money = this.economy.AttemptToGetMoney(msg.p.name, msg.p._id, "crime");
+        if (money.canGetMoney) {
+            this.chat(this.economy.getMoneyMessageByType("crime", money.good).replace("NICKNAME", msg.p.name) + "$" + money.moneygot);
+        } else {
+            let when = this.economy.convertMS(money.whenGetMoney);
+            when = this.economy.convertMSToString(when);
+
+            this.chat(`You can't commit a crime for another ${when}`);
+        }
+    }, 0, false);
+    
+    this.addcmd("wave", `Usage: PREFIXwave | This command was made by BopItFreak.`, 0, msg => {
+        let delay = Math.floor(Math.random() * 100);
+        let k = this.piano.keys;
+
+        function wave(i, bot) {
+            let up = i == 0;
+            let x = setInterval(() => {
+                bot.client.startNote(k[Math.abs(i)], 10);
+                if ((up && i == k.length - 1) || (!up && i == 0)) clearInterval(x);
+                else i++;
+            }, delay);
+        }
+
+        let aa = Math.round(Math.random());
+        if (aa == 1) {
+            for (let i = 0; i < Math.floor(Math.random() * 10); i++) {
+                setTimeout(() => {
+                    wave(0, this)
+                }, Math.floor(Math.random() * 500) * i)
+            }
+        } else {
+            for (let i = 0; i < Math.floor(Math.random() * 10); i++) {
+                setTimeout(() => {
+                    wave(-k.length + 1, this)
+                }, Math.floor(Math.random() * 500) * i)
+            }
+        }
+    }, 3, false);
 
     this.addcmd("kickban", `Usage: PREFIXkickban <minutes> <user>`, 2, msg => {
         let p = this.getPart(msg.args[2]);
@@ -244,7 +313,7 @@ module.exports = function () {
 
     this.addcmd("unban", `Usage: PREFIXunban <id> | Unbans a user from the bot. (NOT unban from the room)`, 1, msg => {
         if (this.ranks.banned.indexOf(msg.args[1]) !== -1) {
-            this.ranks.banned.remove(this.ranks.banned.indexOf(msg.args[1]));
+            this.ranks.banned.splice(this.ranks.banned.indexOf(msg.args[1]));
             this.chat("User unbanned.");
         } else {
             this.chat("That user isn't banned!");

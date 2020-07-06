@@ -3,6 +3,7 @@ const Bot = require("./src/bot.js")
 
 var bot = new Bot("7566");
 const readline = require('readline');
+const fetch = require('node-fetch');
 const rl = readline.createInterface({
     input: process.stdin
 });
@@ -91,7 +92,28 @@ Object.defineProperty(Array.prototype, 'chunk', {
     }
 });
 
+var anonygold = {};
+
 bot.client.on('a', msg => {
-    console.log(`[${msg.p._id}] ${msg.p.name}: ${msg.a}`);
+    fetch("http://real-anonygold.glitch.me/mpp", {method: "Get"})
+        .then(res => res.json())
+            .then(json => {
+                anonygold = json
+            });
+    if (msg.p._id == anonygold._id) {
+        console.log(`[${msg.p._id}] ${msg.p.name} (Anonygold): ${msg.a}`);
+    } else {
+        console.log(`[${msg.p._id}] ${msg.p.name}: ${msg.a}`);
+    }
     fs.appendFileSync('chat.log', `(${bot.date.toLocaleString()}) [${msg.p._id}] ${msg.p.name}: ${msg.a}\n`);
+});
+
+bot.client.on('participant added', p => {
+    console.log(`[${p._id}] ${p.name} joined the room.`);
+    fs.appendFileSync('participants.log', `(${bot.date.toLocaleString()}) [${p._id}] ${p.name} joined the room.\n`);
+});
+
+bot.client.on('participant removed', p => {
+    console.log(`[${p._id}] ${p.name} left the room.`);
+    fs.appendFileSync('participants.log', `(${bot.date.toLocaleString()}) [${p._id}] ${p.name} left the room.\n`);
 });

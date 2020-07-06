@@ -4,8 +4,8 @@
   "description": "This bot was made by Hri7566. The original base source was written by BopItFreak for use with JAMB and his unofficial fishing bot. It is a rewrite of a rewrite of a rewrite of the original 7566 bot, which was a duplicate of Karl Marx's MarxBot. Never forget that a growing community is the future, and the future starts with you.",
   "main": "server.js",
   "scripts": {
-    "test": "screen nodemon server.js",
-    "start": "node server.js",
+    "test": "screen sudo nodemon server.js",
+    "start": "sudo node server.js",
     "stop": "pkill --signal SIGINT 7566"
   },
   "repository": {
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "mpp-client-xt": "^1.3.1",
+    "node-fetch": "^2.6.0",
     "readline": "^1.3.0",
     "readline-sync": "^1.4.10"
   }

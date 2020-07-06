@@ -1,11 +1,11 @@
-const Client = require('./Client.js');
+const Client = require('mpp-client-xt');
 const path = require('path');
 
 module.exports = class Bot {
-    constructor(name, room) {
+    constructor(name, room, client) {
         this.settings = require("./db/settings.json")
         this.bots = [];
-        this.client = new Client("wss://www.multiplayerpiano.com:443");
+        client ? this.client = new Client(client) : this.client = new Client("wss://www.multiplayerpiano.com:443");
         if (room) {
             this.room = room;
         } else {
@@ -47,6 +47,10 @@ module.exports = class Bot {
         this.color = require('./Color.js');
         this.permbanned = require("./db/permbanned.json");
         this.ads = require("./db/ads.json");
+        this.economy = require("./economy.js")(this);
+        this.piano = {
+            keys: Bot.getKeys()
+        }
 
         this.roomtimeout;
 
@@ -62,6 +66,7 @@ module.exports = class Bot {
         this.generateRandomKey();
         this.maintenance();
         require("./temp.js").bind(this)();
+        
     }
 
     generateRandomKey() {
@@ -125,6 +130,11 @@ module.exports = class Bot {
         });
         fs.writeFile('src/db/permbanned.json', JSON.stringify(this.permbanned), 'utf8', (err) => { 
             if(err) {
+                throw err;
+            }
+        });
+        fs.writeFile('.randkey', JSON.stringify(this.randomkey), err =>{
+            if (err) {
                 throw err;
             }
         });
