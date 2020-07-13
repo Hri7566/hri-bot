@@ -5,6 +5,7 @@ class CursorHandler {
         this.cmode = {
             pos: {x: 0, y: 0},
             vel: {x: 0, y: 0},
+            a: 0,
             func: function(){}
         };
         this.modes = [];
@@ -23,6 +24,7 @@ class CursorHandler {
             this.cmode = {
                 pos: {x: 0, y: 0},
                 vel: {x: 0, y: 0},
+                a: 0,
                 func: function(){}
             };
             if (mode) {
@@ -173,6 +175,19 @@ class CursorHandler {
             if (this.pos.y > 100 || this.pos.y < 0) {
                 this.vel.y = -this.vel.y;
             }
+        });
+
+        this.addmode("ellipse", {
+            pos: {x: 50, y: 50},
+            vel: {x: 0, y: 0},
+            a: 0
+        }, function () {
+            this.a += .005;
+            if (this.a > 360) {
+                this.a = 0;
+            }
+            this.pos.x = Math.cos(this.a) * 25 + 50;
+            this.pos.y = Math.sin(this.a) * 25 + 50;
         });
         
         this.load(this.modes[Math.floor(Math.random()*this.modes.length)].mode);

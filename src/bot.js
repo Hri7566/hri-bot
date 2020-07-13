@@ -1,6 +1,9 @@
 const Client = require('mpp-client-xt');
 const path = require('path');
 const fetch = require('node-fetch');
+const tcpp = require('tcp-ping');
+const jsdom = require('jsdom');
+const MidiPlayer = require('midi-player-js');
 
 module.exports = class Bot {
     constructor(name, room, client) {
@@ -18,6 +21,7 @@ module.exports = class Bot {
         this.package = require('../package.json');
         this.name = eval(this.settings.name);
         this.anonygold = {_id:""};
+        this.jsdom = jsdom;
 
         setInterval(() => {
             this.date = new Date();
@@ -50,11 +54,17 @@ module.exports = class Bot {
             this.permbanned = require("./db/permbanned.json");
             this.ads = require("./db/ads.json");
             this.economy = require("./economy.js")(this);
+            this.keyNameMap = require('./db/key-map.json');
+            this.objects = {
+                objects: require('./db/objects.json'),
+                food: require('./db/food.json')
+            }
             this.piano = {
                 keys: Bot.getKeys()
             }
         } catch (err) {
-            err.throw();
+            console.log(err);
+            this.chat("An error has occurred.");
         }
 
         this.roomtimeout;
@@ -70,10 +80,30 @@ module.exports = class Bot {
                 }
             }
         }, 10*60*1000);
+        this.Player = new MidiPlayer.Player((event) => {
+            switch (event.name) {
+                case 'Note on':
+                    this.press(event.noteName, event.velocity, false);
+                    break;
+                case 'Note off':
+                    this.press(event.noteName, event.velocity, true);
+                    break;
+                case 'End of track':
+                    this.Player.stop();
+                    break;
+            }
+        });
         this.generateRandomKey();
         this.maintenance();
         require("./temp.js").bind(this)();
-        
+
+        this.stop = function () {
+            clearInterval(this.Player.setIntervalId);
+            this.Player.setIntervalId = false;
+            this.Player.startTick = 0;
+            this.Player.startTime = 0;
+            this.Player.resetTracks();
+        }
     }
 
     generateRandomKey() {
@@ -81,8 +111,33 @@ module.exports = class Bot {
         console.log(`Random key: ${this.randomkey}`);
     }
 
+    play(file) {
+        try {
+            this.Player.loadFile(file);
+            this.Player.play();
+        } catch (err) {
+            this.chat("File failed to load.");
+        }
+    }
+
+    press(note, vel, isOffNote) {
+        note = this.keyNameMap[note];
+        vel = vel / 100;
+        this.client[isOffNote ? "stopNote" : "startNote"](note, vel);
+    }
+
     chat(msg) {
         this.client.sendArray([{m:'a', message:`\u034f${msg}`}]);
+    }
+
+    getPing = async (addr) => {
+        tcpp.ping({address: addr}, (err, data) => {
+            if (err) {
+                return err;
+            } else {
+                return data;
+            }
+        });
     }
 
     getCommandObj(cmd) {
@@ -247,7 +302,9 @@ module.exports = class Bot {
         var that = this;
 
         this.client.on("hi", msg => {
-            this.client.sendArray([{m:'userset', set: {name:this.name}}]);
+            if (this.client.getOwnParticipant.name !== this.name) {
+                this.client.sendArray([{m:'userset', set: {name:this.name}}]);
+            }
             this.chat("✅ Online");
         });
 

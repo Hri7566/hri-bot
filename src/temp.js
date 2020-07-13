@@ -35,10 +35,6 @@ module.exports = function () {
         this.chat(this.package.description);
     }, 0, false);
 
-    this.addcmd("ping", `Usage: PREFIXping`, 0, msg => {
-        this.chat("pooooonnnng");
-    }, 0, true);
-
     this.addcmd("js", `Usage: PREFIXjs <eval>`, 1, msg => {
         if (!msg.argcat.includes("process")) {
             let i = msg.a.substring(msg.a.split(" ")[0].length + 1);
@@ -124,6 +120,15 @@ module.exports = function () {
             this.chat(this.nouser);
         }
     }, 0, false);
+
+    this.addcmd("ping", `Usage: PREFIXping <address>`, 1, msg => {
+        try {
+            this.chat(this.getPing(msg.argcat).avg);
+        } catch (err) {
+            console.log(err);
+            this.chat("An error has occurred.");
+        }
+    }, 2, false);
 
     this.addcmd("string", `Usage PREFIXstring <eval>`, 1, msg => {
         try {
@@ -244,7 +249,7 @@ module.exports = function () {
                 }, Math.floor(Math.random() * 500) * i)
             }
         }
-    }, 3, false);
+    }, 1, false);
 
     this.addcmd("kickban", `Usage: PREFIXkickban <minutes> <user>`, 2, msg => {
         let p = this.getPart(msg.args[2]);
@@ -265,6 +270,33 @@ module.exports = function () {
 
     this.addcmd("reverse", `Usage: PREFIXreverse <string> | Reverses the given string.`, 1, msg => {
         this.chat(`\u034f\u034f     `+(msg.argcat.split("").reverse().join("")));
+    }, 0, false);
+
+    this.addcmd("eat", `Usage: PREFIXeat`, 0, msg => {
+        if (!msg.args[1]) {
+            this.chat(`${msg.p.name} ate ${this.objects.food[Math.floor(Math.random()*this.objects.food.length)].name.toLowerCase()}.`);
+        } else {
+            let p = this.getPart(msg.argcat);
+            if (p) {
+                this.chat(`${msg.p.name} cannibalized ${p.name}.`);
+            } else {
+                this.chat(`${msg.p.name} ate '${msg.argcat}'.`);
+            }
+        }
+    }, 0, false);
+
+    this.addcmd("ingredients", `Usage: PREFIXingredients <food> | Returns the ingredients of a pregenerated food.`, 1, msg => {
+        this.objects.food.forEach(food => {
+            if (food.name.includes(msg.argcat)) {
+                let food = food.name;
+                let ingredients = food.ingredients;
+            }
+        });
+        if (food && ingredients) {
+            this.chat(`Ingredients of ${food}: ${ingredients}`);
+        } else {
+            this.chat(`Couldn't find the ingredients of the specified food. Try to eat some random food to see what there is.`);
+        }
     }, 0, false);
 
     this.addcmd("permban", `Usage: PREFIXpermban <id> | Permanantly ban a user.`, 1, msg => {
@@ -364,4 +396,22 @@ module.exports = function () {
             this.chat(this.nouser);
         }
     }, 3, false);
+
+    this.addcmd("isperm", `Usage: PREFIXisperm <id>`, 0, msg => {
+        let regperm = /[0-9A-f]{24}/;
+        if (!msg.args[1]) {
+            this.chat(`Total permbanned users: ${this.permbanned.length} | Use this command with an _id to see if they are permbanned.`);
+        } else {
+            let check = regperm.test(msg.args[1]);
+            if (check) {
+                if (this.permbanned.indexOf(msg.argcat) !== -1) {
+                    this.chat("That user is permbanned.");
+                } else {
+                    this.chat("That user is NOT permbanned.");
+                }
+            } else {
+                this.chat(`The value you entered is not a valid _id.`);
+            }
+        }
+    }, 2, false);
 }

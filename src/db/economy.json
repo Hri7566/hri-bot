@@ -8,26 +8,10 @@
           "timestamp": 1594060640616
         },
         "work": {
-          "timestamp": 1594060643059
+          "timestamp": 1594192356050
         }
       },
       "money": 42069
-    },
-    "bbc10cfad8a26c8a3accdf9d": {
-      "name": "Hri7566",
-      "_id": "bbc10cfad8a26c8a3accdf9d",
-      "types": {
-        "work": {
-          "timestamp": 1593931656632
-        },
-        "crime": {
-          "timestamp": 1593932267214
-        },
-        "rob": {
-          "timestamp": 1556036543540
-        }
-      },
-      "money": 736
     },
     "99da8b2e9735a34da6d2ac35": {
       "name": "𝓑𝓸𝓹 𝓘𝓽",
@@ -138,36 +122,23 @@
       "_id": "88163fa77c6ee3fd50365bfd",
       "types": {
         "work": {
-          "timestamp": 1593992506327
+          "timestamp": 1594505511922
         },
         "crime": {
-          "timestamp": 1593992618874
+          "timestamp": 1594428772690
         }
       },
-      "money": 1275
+      "money": 174
     },
     "fd49cdf765f9c083da09f9b2": {
       "name": "God Sans | 999999999 Health 99999 Armors",
       "_id": "fd49cdf765f9c083da09f9b2",
       "types": {
         "work": {
-          "timestamp": 1593931680471
+          "timestamp": 1594205291223
         }
       },
-      "money": 71
-    },
-    "c09fac07f9215a279f180688": {
-      "name": "Hri7566",
-      "_id": "c09fac07f9215a279f180688",
-      "types": {
-        "work": {
-          "timestamp": 1593942720656
-        },
-        "crime": {
-          "timestamp": 1593942723450
-        }
-      },
-      "money": 430
+      "money": 88
     },
     "03963f16e7c5e24014e494e4": {
       "name": "SPP99",
@@ -179,31 +150,18 @@
       },
       "money": 181
     },
-    "afa4219eef57f44364e1deb1": {
-      "name": "Hri7566",
-      "_id": "afa4219eef57f44364e1deb1",
-      "types": {
-        "work": {
-          "timestamp": 1593964924913
-        },
-        "crime": {
-          "timestamp": 1593964953699
-        }
-      },
-      "money": 78
-    },
     "7402890ee6242a1f99a5e7c2": {
       "name": "cat",
       "_id": "7402890ee6242a1f99a5e7c2",
       "types": {
         "work": {
-          "timestamp": 1594026538984
+          "timestamp": 1594193001532
         },
         "crime": {
           "timestamp": 1594026551794
         }
       },
-      "money": 971
+      "money": 1106
     },
     "7CB0A41A676591725125": {
       "name": "Anonymoose",
@@ -223,13 +181,13 @@
       "_id": "8d7c5b3b45abe1be9455c4c7",
       "types": {
         "work": {
-          "timestamp": 1593992517077
+          "timestamp": 1594302197148
         },
         "crime": {
-          "timestamp": 1593992640220
+          "timestamp": 1594228498353
         }
       },
-      "money": 653
+      "money": 1097
     },
     "d1e12ad930bf3f2e0c158cef": {
       "name": "No.",
@@ -246,10 +204,13 @@
       "_id": "75eab380841c34089890b7b5",
       "types": {
         "work": {
-          "timestamp": 1594012483989
+          "timestamp": 1594100464753
+        },
+        "crime": {
+          "timestamp": 1594100421522
         }
       },
-      "money": 0
+      "money": 965
     },
     "60671b9b624d28960375f620": {
       "name": "𝔂𝓮𝓮𝓽😎𝓫𝓸𝓲 | yeetis",
@@ -274,18 +235,298 @@
       },
       "money": 433
     },
-    "cb331f1c7645aac956fb968b": {
-      "name": "Hri7566",
-      "_id": "cb331f1c7645aac956fb968b",
+    "250c7b7feaba1e616b1a499d": {
+      "name": "⎞⌉⌊𝒜𝓁ℯ𝓍?⌋⌈⎝",
+      "_id": "250c7b7feaba1e616b1a499d",
       "types": {
         "work": {
-          "timestamp": 1594060629885
+          "timestamp": 1594228080564
         },
         "crime": {
-          "timestamp": 1594060634847
+          "timestamp": 1594228087215
         }
       },
-      "money": "i can put whatever i want here"
+      "money": 243
+    },
+    "a9467aa984555146132f6993": {
+      "name": "⚠️ [/cmds]",
+      "_id": "a9467aa984555146132f6993",
+      "types": {
+        "crime": {
+          "timestamp": 1594660988518
+        },
+        "work": {
+          "timestamp": 1594661023231
+        }
+      },
+      "money": 227
+    },
+    "591c1acd1283c02fdf50e7ee": {
+      "name": "⨣ ⨣⨀ ๖ۣۜH͜r̬i͡7566 ⨀⨣ ⨣",
+      "_id": "591c1acd1283c02fdf50e7ee",
+      "types": {
+        "work": {
+          "timestamp": 1594122311536
+        },
+        "crime": {
+          "timestamp": 1594122313838
+        }
+      },
+      "money": 717
+    },
+    "3c43db497ef745e3674f8a43": {
+      "name": "ASDF [v1.0]",
+      "_id": "3c43db497ef745e3674f8a43",
+      "types": {
+        "work": {
+          "timestamp": 1594126165187
+        }
+      },
+      "money": 64
+    },
+    "3b21586adfce48f7089a39cd": {
+      "name": "macintosh ecco",
+      "_id": "3b21586adfce48f7089a39cd",
+      "types": {
+        "work": {
+          "timestamp": 1594338305439
+        },
+        "crime": {
+          "timestamp": 1594338319863
+        }
+      },
+      "money": 686
+    },
+    "91c57b7220689f467484ea28": {
+      "name": "Prazmaball",
+      "_id": "91c57b7220689f467484ea28",
+      "types": {
+        "crime": {
+          "timestamp": 1594228602347
+        },
+        "work": {
+          "timestamp": 1594380731178
+        }
+      },
+      "money": 107
+    },
+    "b0d5ef7afba26568896b9402": {
+      "name": "Anonymous",
+      "_id": "b0d5ef7afba26568896b9402",
+      "types": {
+        "work": {
+          "timestamp": 1594258992501
+        },
+        "crime": {
+          "timestamp": 1594258998101
+        }
+      },
+      "money": 0
+    },
+    "94d561f9b08f149651a4bc84": {
+      "name": "Anonymous",
+      "_id": "94d561f9b08f149651a4bc84",
+      "types": {
+        "crime": {
+          "timestamp": 1594263347527
+        }
+      },
+      "money": 351
+    },
+    "cd6a849726f2de1929172fdc": {
+      "name": "⨣ ⨣⨀ ๖ۣۜH͜r̬i͡7566 ⨀⨣ ⨣",
+      "_id": "cd6a849726f2de1929172fdc",
+      "types": {
+        "work": {
+          "timestamp": 1594302165800
+        },
+        "crime": {
+          "timestamp": 1594302171548
+        }
+      },
+      "money": 42069
+    },
+    "9d2c8f95bd72980e379c7aa5": {
+      "name": "Anonymous",
+      "_id": "9d2c8f95bd72980e379c7aa5",
+      "types": {
+        "work": {
+          "timestamp": 1594354747105
+        }
+      },
+      "money": 0
+    },
+    "ab0824be58e5afb05095d638": {
+      "name": "ı || ๖ۣۜ𝓝𝓮𝓫𝓾𝓵𝓪™ [🇬🇧] || ı",
+      "_id": "ab0824be58e5afb05095d638",
+      "types": {
+        "work": {
+          "timestamp": 1594427123692
+        }
+      },
+      "money": 19
+    },
+    "6cd24bf63abaada49a364403": {
+      "name": "🏁𝕂𝕠𝕜𝕚𝕔𝕙𝕚 𝕆𝕦𝕞𝕒🏁",
+      "_id": "6cd24bf63abaada49a364403",
+      "types": {
+        "work": {
+          "timestamp": 1594505524470
+        }
+      },
+      "money": 149
+    },
+    "9aa0a17c04a141f0d5a88fb4": {
+      "name": "Anonymous",
+      "_id": "9aa0a17c04a141f0d5a88fb4",
+      "types": {
+        "work": {
+          "timestamp": 1594427132119
+        }
+      },
+      "money": 113
+    },
+    "b9d0e782002af9bdb45d42e9": {
+      "name": "Anonymous",
+      "_id": "b9d0e782002af9bdb45d42e9",
+      "types": {
+        "work": {
+          "timestamp": 1594427156698
+        }
+      },
+      "money": 0
+    },
+    "e42a1ba3ac6c2a639fb0a4d6": {
+      "name": "■",
+      "_id": "e42a1ba3ac6c2a639fb0a4d6",
+      "types": {
+        "work": {
+          "timestamp": 1594517983299
+        }
+      },
+      "money": 83
+    },
+    "a79f3b4011773b1014f97473": {
+      "name": "Caioz/17/Boy/Wolf/Fox/Cat/ | !help",
+      "_id": "a79f3b4011773b1014f97473",
+      "types": {
+        "work": {
+          "timestamp": 1594427933535
+        }
+      },
+      "money": 0
+    },
+    "e752502ebefd1e779f851674": {
+      "name": "Lion",
+      "_id": "e752502ebefd1e779f851674",
+      "types": {
+        "work": {
+          "timestamp": 1594467671799
+        }
+      },
+      "money": 43
+    },
+    "906bb744e524094f5b496c91": {
+      "name": "AnonyFishi [>help]",
+      "_id": "906bb744e524094f5b496c91",
+      "types": {
+        "work": {
+          "timestamp": 1594505527795
+        }
+      },
+      "money": 54
+    },
+    "2ef397694dbf8cb0396bae67": {
+      "name": "ꜱʏᴎᴛʜ",
+      "_id": "2ef397694dbf8cb0396bae67",
+      "types": {
+        "work": {
+          "timestamp": 1594505531328
+        }
+      },
+      "money": 128
+    },
+    "d2c478fafce817c7186d230a": {
+      "name": "player",
+      "_id": "d2c478fafce817c7186d230a",
+      "types": {
+        "work": {
+          "timestamp": 1594613245914
+        },
+        "crime": {
+          "timestamp": 1594613258860
+        }
+      },
+      "money": 278
+    },
+    "9cc8cedda87baad647d57ce0": {
+      "name": "Herokun Otaku",
+      "_id": "9cc8cedda87baad647d57ce0",
+      "types": {
+        "work": {
+          "timestamp": 1594567599729
+        }
+      },
+      "money": 89
+    },
+    "6cee7483e6027986cd9acac3": {
+      "name": "Anonyfence",
+      "_id": "6cee7483e6027986cd9acac3",
+      "types": {
+        "crime": {
+          "timestamp": 1594613470143
+        },
+        "work": {
+          "timestamp": 1594613602592
+        }
+      },
+      "money": 894
+    },
+    "55b4d134ac15fdff4e70e1be": {
+      "name": "billy bob joe",
+      "_id": "55b4d134ac15fdff4e70e1be",
+      "types": {
+        "crime": {
+          "timestamp": 1594625658934
+        }
+      },
+      "money": 119
+    },
+    "7a2111a1e0e811b6dd6904ec": {
+      "name": "⨣ ⨣⨀ ๖ۣۜH͜r̬i͡7566 ⨀⨣ ⨣",
+      "_id": "7a2111a1e0e811b6dd6904ec",
+      "types": {
+        "work": {
+          "timestamp": 1594660950379
+        },
+        "crime": {
+          "timestamp": 1594660953077
+        }
+      },
+      "money": 255
+    },
+    "0d01d2c2a0d14a9422a58abe": {
+      "name": "Anonymous",
+      "_id": "0d01d2c2a0d14a9422a58abe",
+      "types": {
+        "crime": {
+          "timestamp": 1594660955922
+        }
+      },
+      "money": 167
+    },
+    "79c96cc4d2c7dcf4a9107281": {
+      "name": "Ink!Sans",
+      "_id": "79c96cc4d2c7dcf4a9107281",
+      "types": {
+        "crime": {
+          "timestamp": 1594660970332
+        },
+        "work": {
+          "timestamp": 1594661058462
+        }
+      },
+      "money": 117
     }
   }
 }

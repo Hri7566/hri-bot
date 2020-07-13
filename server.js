@@ -1,7 +1,9 @@
 process.title = 7566;
 const Bot = require("./src/bot.js")
 
-var bot = new Bot("7566");
+//var name = "✿ ๖ۣۜṂᾄʀẋ☭Bot ";
+var name = "✿ ๖ۣۜ7566 ☭";
+var bot = new Bot(name);
 const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin
@@ -14,13 +16,17 @@ Bot.bots = [];
 Bot.frooms = [];
 const waitFor = (ms) => new Promise(r => setTimeout(r, ms));
 
+bot.client.on("hi", () => {
+    
+});
+
 rl.on('line', function (line) {
     bot.client.sendArray([{m:'a', message:line}]);
 });
 
 function getChEvent(room) {
     return new Promise(function(resolve, reject) {
-        let bot = new Bot("7566", room);
+        let bot = new Bot(name, room);
         Bot.bots.push(bot)
         bot.client.once('ch', () => {
             resolve(bot);
@@ -29,27 +35,26 @@ function getChEvent(room) {
 }
 
 async function startBots() {
-    for (let room in Bot.rooms) {
+    for (let room in bot.rooms) {
         let data = await getChEvent(room);
-        console.log("Bot connected at " + data.room);
+        console.log(`Connected bot at ${data.room}.`);
         await waitFor(2000 + data.client.serverTimeOffset);
     }
 }
-/*
-startBots().then(() => {
 
+startBots().then(() => {
+    
 });
-*/
 
 Bot.startBot = async function (room) {
     let returntype;
     let data = await getChEvent(room);
-    console.log("Bot connected at " + data.room);
+    console.log(`Connected Bot at ${data.room}.`);
     await waitFor(2000 + data.client.serverTimeOffset);
     returntype = {
         "type": "resolve",
         "data": data
-    };
+    }
     return new Promise(function (resolve, reject) {
         returntype.type == "resolve" ? resolve({
             "connected": true,
@@ -59,10 +64,6 @@ Bot.startBot = async function (room) {
             "err": returntype.e
         });
     });
-}
-
-global.replaceAt = function (string, index, replace) {
-    return string.substring(0, index) + replace + string.substring(index + 1);
 }
 
 function getRooms() {
