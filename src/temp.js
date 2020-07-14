@@ -97,6 +97,18 @@ module.exports = function () {
         }
     }, 0, false);
 
+    this.addcmd("temperature", `Usage: PREFIXtemperature <place>`, 1, msg => {
+        this.weather.find({search: msg.argcat.toLowerCase(), degreeType: 'F'}, (err, result) => { if(err) {console.log(err); return;}; if (!result[0]) {return this.chat("No such place.");}; this.chat(result[0]["current"]["temperature"] + "\u00b0F in " + result[0].location.name + "."); });
+    }, 0, false);
+
+    this.addcmd("weather", `Usage: PREFIXweather <place>`, 1, msg => {
+        this.weather.find({search: msg.argcat.toLowerCase(), degreeType: 'F'}, (err, result) => { if(err) {console.log(err); return;}; if (!result[0]) {return this.chat("No such place.");}; this.chat(`It is ${result[0].current.skytext.toLowerCase()} in ${result[0].location.name} and the temperature is ${result[0].current.temperature}\u00b0F. The 'feels like' temperature is ${result[0].current.feelslike}\u00b0F and the humidity is ${result[0].current.humidity}%. The wind speed is ${result[0].current.windspeed}.`); });
+    }, 0, false);
+
+    this.addcmd("weatherc", `Usage: PREFIXweatherc <place>`, 1, msg => {
+        this.weather.find({search: msg.argcat.toLowerCase(), degreeType: 'C'}, (err, result) => { if(err) {console.log(err); return;}; if (!result[0]) {return this.chat("No such place.");}; this.chat(`It is ${result[0].current.skytext.toLowerCase()} in ${result[0].location.name} and the temperature is ${result[0].current.temperature}\u00b0C. The 'feels like' temperature is ${result[0].current.feelslike}\u00b0C and the humidity is ${result[0].current.humidity}%. The wind speed is ${result[0].current.windspeed}.`); });
+    }, 0, false);
+
     this.addcmd("ballonstring", `Usage: PREFIXballonstring <user> | The cursor will follow the user using electrashave's BallOnString.js`, 1, msg => {
         let p = this.getPart(msg.argcat);
         if (p) {

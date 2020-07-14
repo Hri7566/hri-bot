@@ -1,7 +1,6 @@
 const Client = require('mpp-client-xt');
 const path = require('path');
 const fetch = require('node-fetch');
-const tcpp = require('tcp-ping');
 const jsdom = require('jsdom');
 const MidiPlayer = require('midi-player-js');
 
@@ -59,6 +58,7 @@ module.exports = class Bot {
                 objects: require('./db/objects.json'),
                 food: require('./db/food.json')
             }
+            this.weather = require('weather-js');
             this.piano = {
                 keys: Bot.getKeys()
             }
@@ -128,16 +128,6 @@ module.exports = class Bot {
 
     chat(msg) {
         this.client.sendArray([{m:'a', message:`\u034f${msg}`}]);
-    }
-
-    getPing = async (addr) => {
-        tcpp.ping({address: addr}, (err, data) => {
-            if (err) {
-                return err;
-            } else {
-                return data;
-            }
-        });
     }
 
     getCommandObj(cmd) {

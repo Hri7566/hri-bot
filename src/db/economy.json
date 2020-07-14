@@ -401,10 +401,10 @@
       "_id": "e42a1ba3ac6c2a639fb0a4d6",
       "types": {
         "work": {
-          "timestamp": 1594517983299
+          "timestamp": 1594684933022
         }
       },
-      "money": 83
+      "money": 283
     },
     "a79f3b4011773b1014f97473": {
       "name": "Caioz/17/Boy/Wolf/Fox/Cat/ | !help",
@@ -527,6 +527,72 @@
         }
       },
       "money": 117
+    },
+    "7fe002818cb17bf4d4811802": {
+      "name": "Pryd",
+      "_id": "7fe002818cb17bf4d4811802",
+      "types": {
+        "work": {
+          "timestamp": 1594678495271
+        },
+        "crime": {
+          "timestamp": 1594678506085
+        }
+      },
+      "money": 909
+    },
+    "d87513eb68b1a55bc742803f": {
+      "name": "Anonymous",
+      "_id": "d87513eb68b1a55bc742803f",
+      "types": {
+        "work": {
+          "timestamp": 1594684940135
+        }
+      },
+      "money": 59
+    },
+    "c96daa93c4b104e9d2fe53b1": {
+      "name": "God Sans | 999999999 Health 99999 Armors",
+      "_id": "c96daa93c4b104e9d2fe53b1",
+      "types": {
+        "work": {
+          "timestamp": 1594703856809
+        }
+      },
+      "money": 127
+    },
+    "beb75e46a7264b18704ef2e8": {
+      "name": "Джемми кот",
+      "_id": "beb75e46a7264b18704ef2e8",
+      "types": {
+        "work": {
+          "timestamp": 1594704302552
+        }
+      },
+      "money": 11
+    },
+    "822597b08fe04786c5389427": {
+      "name": "⨣ ⨣⨀ ๖ۣۜH͜r̬i͡7566 ⨀⨣ ⨣",
+      "_id": "822597b08fe04786c5389427",
+      "types": {
+        "work": {
+          "timestamp": 1594732082519
+        },
+        "crime": {
+          "timestamp": 1594732087194
+        }
+      },
+      "money": 285
+    },
+    "5c5bbb65bae2b3e7321ddfa6": {
+      "name": "GrantRazor/kick/404/FAT27824672478067802",
+      "_id": "5c5bbb65bae2b3e7321ddfa6",
+      "types": {
+        "crime": {
+          "timestamp": 1594732186275
+        }
+      },
+      "money": 844
     }
   }
 }
