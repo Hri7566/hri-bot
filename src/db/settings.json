@@ -1,0 +1,4 @@
+{
+    "name": "`${name} (${this.prefix}help) [${this.package.version}]`",
+    "prefix": "h!"
+}
